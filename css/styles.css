@@ -84,7 +84,7 @@ nav.main-menu.expanded {
 }
 
 .main-menu {
-    background: #212121;
+    background: #1EA1AD;
     border-right: 1px solid #e5e5e5;
     position: absolute;
     top: 0;
@@ -114,7 +114,7 @@ nav.main-menu.expanded {
     display: table;
     border-collapse: collapse;
     border-spacing: 0;
-    color: #999;
+    color: #fff;
     font-family: arial;
     font-size: 14px;
     text-decoration: none;
