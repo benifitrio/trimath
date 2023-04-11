@@ -85,6 +85,13 @@ nav.main-menu.expanded {
     bottom: 0;
 }
 
+header {
+    background-color: #09f;
+    width: 100%;
+    display: block;
+    padding: 0.75em 1em;
+}
+
 .no-touch .scrollable.hover {
     overflow-y: hidden;
 }
