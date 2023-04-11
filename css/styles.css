@@ -20,6 +20,7 @@ body {
     height: 100px;
     width: 100px;
     position: absolute;
+    top: 40em;
     border: none;
     border-radius: 50px;
     transition: 0.3s;
