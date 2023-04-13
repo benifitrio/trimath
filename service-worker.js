@@ -1,4 +1,4 @@
-importScripts('https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js');
+// importScripts('https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js');
 
 if (workbox) {
     console.log(`Workbox berhasil dimuat`);
@@ -21,53 +21,6 @@ workbox.precaching.precacheAndRoute([
     ignoreUrlParametersMatching: [/.*/]
 });
 
-// workbox.routing.registerRoute(
-//     new RegExp('https://api.quran.sutanlab.id/surah/'),
-//     workbox.strategies.staleWhileRevalidate({
-//         cacheName: 'alquran-apps',
-//         plugins: [
-//             new workbox.cacheableResponse.Plugin({
-//                 statuses: [200],
-//             }),
-//             new workbox.expiration.Plugin({
-//                 maxAgeSeconds: 60 * 60 * 24 * 365,
-//                 maxEntries: 30,
-//             }),
-//         ],
-//     })
-// );
-
-// workbox.routing.registerRoute(
-//     new RegExp('https://islamic-api-zhirrr.vercel.app/api/doaharian'),
-//     workbox.strategies.staleWhileRevalidate({
-//         cacheName: 'doa',
-//         plugins: [
-//             new workbox.cacheableResponse.Plugin({
-//                 statuses: [200],
-//             }),
-//             new workbox.expiration.Plugin({
-//                 maxAgeSeconds: 60 * 60 * 24 * 365,
-//                 maxEntries: 30,
-//             }),
-//         ],
-//     })
-// );
-
-// workbox.routing.registerRoute(
-//     new RegExp('https://islamic-api-zhirrr.vercel.app/api/asmaulhusna'),
-//     workbox.strategies.staleWhileRevalidate({
-//         cacheName: 'asmaul',
-//         plugins: [
-//             new workbox.cacheableResponse.Plugin({
-//                 statuses: [200],
-//             }),
-//             new workbox.expiration.Plugin({
-//                 maxAgeSeconds: 60 * 60 * 24 * 365,
-//                 maxEntries: 30,
-//             }),
-//         ],
-//     })
-// );
 
 workbox.routing.registerRoute(
     new RegExp('https://fonts.googleapis.com/'),
