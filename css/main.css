@@ -269,6 +269,10 @@
     border-radius: 0 0 0.3em 0.3em;
 }
 
+.content {
+    font-size: .8em;
+}
+
 .home-section .home-content .bx-menu,
 .home-section .home-content .text {
     color: #77619e;
