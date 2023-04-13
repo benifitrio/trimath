@@ -265,6 +265,8 @@
     height: 60px;
     display: flex;
     align-items: center;
+    box-shadow: 0px 2px 0px 0px gray;
+    border-radius: 0 0 0.3em 0.3em;
 }
 
 .home-section .home-content .bx-menu,
