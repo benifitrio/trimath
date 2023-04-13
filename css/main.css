@@ -28,7 +28,7 @@
 }
 
 .sidebar .logo-details i {
-    font-size: 30px;
+    font-size: 1.2em;
     color: #77619e;
     height: 50px;
     min-width: 78px;
@@ -115,7 +115,7 @@
 }
 
 .sidebar .nav-links li a .link_name {
-    font-size: 18px;
+    font-size: .8em;
     font-weight: 400;
     color: #77619e;
     transition: all 0.4s ease;
@@ -139,7 +139,7 @@
 
 .sidebar .nav-links li .sub-menu a {
     color: #77619e;
-    font-size: 15px;
+    font-size: .8em;
     padding: 5px 0;
     white-space: nowrap;
     opacity: 0.6;
@@ -175,7 +175,7 @@
 }
 
 .sidebar.close .nav-links li .sub-menu .link_name {
-    font-size: 18px;
+    font-size: .8em;
     opacity: 1;
     display: block;
 }
@@ -269,7 +269,7 @@
 .home-section .home-content .bx-menu,
 .home-section .home-content .text {
     color: #77619e;
-    font-size: 35px;
+    font-size: 1.2em;
 }
 
 .home-section .home-content .bx-menu {
@@ -278,7 +278,7 @@
 }
 
 .home-section .home-content .text {
-    font-size: 26px;
+    font-size: 1.2em;
     font-weight: 600;
 }
 
