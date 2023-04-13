@@ -1,6 +1,6 @@
 function cpPage() {
     judul.innerText = `CP & Tujuan Pembelajaran`
-    content.innerHTML = `<div class="card">
+    content.innerHTML = `<div class="card shadow p-3 mb-5 bg-body-tertiary rounded">
     <div class="card-header">
      Capaian Pembelajaran
     </div>
@@ -8,7 +8,7 @@ function cpPage() {
       <p class="card-text">Di akhir fase E, peserta didik dapat menentukan perbandingan trigonometri dan memecahkan masalah yang melibatkan sigitiga siku - siku.</p>
     </div>
   </div>
-  <div class="card mt-2">
+  <div class="card mt-2 shadow p-3 mb-5 bg-body-tertiary rounded">
     <div class="card-header">
      Capaian Pembelajaran
     </div>
