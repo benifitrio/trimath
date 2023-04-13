@@ -26,7 +26,7 @@ document.addEventListener("DOMContentLoaded", () => {
         console.log(page)
         if (page === "") page = "home"
         if (page === 'home') Home()
-            // if (page === 'materi-real') renderPage()
+        if (page === 'petunjuk') petunjukPage()
             // if (page === 'profil') profilPage()
             // if (page === 'daftar-pustaka') daftarpustaka()
             // if (page === 'petunjuk') petunjuk()
