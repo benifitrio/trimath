@@ -28,7 +28,7 @@ document.addEventListener("DOMContentLoaded", () => {
         if (page === 'home') Home()
         if (page === 'petunjuk') petunjukPage()
         if (page === 'tujuan') cpPage()
-            // if (page === 'daftar-pustaka') daftarpustaka()
+        if (page === 'materi') materiPage()
             // if (page === 'petunjuk') petunjuk()
             // if (page === 'barisan') barisanBilangan()
             // if (page === 'divergen') divergen()
