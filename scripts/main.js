@@ -14,31 +14,27 @@ sidebarBtn.addEventListener("click", () => {
     sidebar.classList.toggle("close");
 });
 
-// $(document).ready(function() {
-//     var trigger = $('.hamburger'),
-//         overlay = $('.overlay'),
-//         isClosed = false;
+document.addEventListener("DOMContentLoaded", () => {
 
-//     trigger.click(function() {
-//         hamburger_cross();
-//     });
+    // Load page content
+    window.addEventListener('hashchange', loadPage)
+    let page = window.location.hash.substr(1);
+    loadPage(page)
 
-//     function hamburger_cross() {
+    function loadPage(page) {
+        page = window.location.hash.substr(1);
+        console.log(page)
+        if (page === "") page = "home"
+        if (page === 'home') Home()
+            // if (page === 'materi-real') renderPage()
+            // if (page === 'profil') profilPage()
+            // if (page === 'daftar-pustaka') daftarpustaka()
+            // if (page === 'petunjuk') petunjuk()
+            // if (page === 'barisan') barisanBilangan()
+            // if (page === 'divergen') divergen()
+            // if (page === 'limit-fungsi') limitFungsi()
+            // if (page === 'konvergen') konvergen()
+            // if (page === 'limit') limit()
+    }
 
-//         if (isClosed == true) {
-//             overlay.hide();
-//             trigger.removeClass('is-open');
-//             trigger.addClass('is-closed');
-//             isClosed = false;
-//         } else {
-//             overlay.show();
-//             trigger.removeClass('is-closed');
-//             trigger.addClass('is-open');
-//             isClosed = true;
-//         }
-//     }
-
-//     $('[data-toggle="offcanvas"]').click(function() {
-//         $('#wrapper').toggleClass('toggled');
-//     });
-// });
+});
