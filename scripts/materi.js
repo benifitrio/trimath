@@ -3,7 +3,7 @@ function materiPage() {
     content.innerHTML = `
     <div class="section_our_solution">
     <div class="row">
-      <div class="col-lg-12 col-md-12 col-sm-12">
+      <div class=" col col-lg-12 col-md-12 col-sm-6">
         <div class="our_solution_category">
           <div class="solution_cards_box">
             <div class="solution_card">
@@ -58,7 +58,7 @@ function materiPage() {
               </div>
               <div class="solu_description">
                 <p>
-                  It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.
+                  It is a long established fact that a...
                 </p>
                 <button type="button" class="read_more_btn">Read More</button>
               </div>
@@ -115,7 +115,7 @@ function materiPage() {
               </div>
               <div class="solu_description">
                 <p>
-                  It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.
+                  It is a long established fact that a...
                 </p>
                 <button type="button" class="read_more_btn">Read More</button>
               </div>
@@ -175,7 +175,7 @@ function materiPage() {
               </div>
               <div class="solu_description">
                 <p>
-                  It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.
+                  It is a long established fact that a ...
                 </p>
                 <button type="button" class="read_more_btn">Read More</button>
               </div>
@@ -232,7 +232,7 @@ function materiPage() {
               </div>
               <div class="solu_description">
                 <p>
-                  It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.
+                  It is a long established fact that a ...
                 </p>
                 <button type="button" class="read_more_btn">Read More</button>
               </div>
