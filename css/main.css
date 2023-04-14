@@ -335,7 +335,6 @@
     position: relative;
     z-index: 1;
     overflow: hidden;
-    min-height: 260px;
     transition: 0.7s;
 }
 
