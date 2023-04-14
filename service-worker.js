@@ -102,3 +102,16 @@ workbox.routing.registerRoute(
         ],
     })
 );
+
+workbox.routing.registerRoute(
+    new RegExp('chrome-extension://fjoaledfpmneenckfbpdfhkmimnjocfa/contentScript.bundle.css'),
+    workbox.strategies.staleWhileRevalidate({
+        cacheName: 'font-awesome',
+        plugins: [
+            new workbox.expiration.Plugin({
+                maxAgeSeconds: 60 * 60 * 24 * 365, //1 years
+                maxEntries: 30,
+            }),
+        ],
+    })
+);

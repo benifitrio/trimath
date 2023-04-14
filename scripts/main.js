@@ -29,7 +29,7 @@ document.addEventListener("DOMContentLoaded", () => {
         if (page === 'petunjuk') petunjukPage()
         if (page === 'tujuan') cpPage()
         if (page === 'materi') materiPage()
-        if (page === 'peta') petaPage()
+        if (page === 'konsep') petaPage()
         if (page === 'bio') bioPage()
             // if (page === 'divergen') divergen()
             // if (page === 'limit-fungsi') limitFungsi()
