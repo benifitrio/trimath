@@ -54,11 +54,11 @@ function materiPage() {
                 </svg>
               </div>
               <div class="solu_title">
-                <h3>Demo 1</h3>
+                <h3>Identitas Trigonometri</h3>
               </div>
               <div class="solu_description">
                 <p>
-                  It is a long established fact that a...
+                Identitas trigonometri dikenal istilah sinus, cosinus, dan tangen....
                 </p>
                 <button type="button" class="read_more_btn">Read More</button>
               </div>
@@ -111,11 +111,11 @@ function materiPage() {
                 </svg>
               </div>
               <div class="solu_title">
-                <h3>Demo 2</h3>
+                <h3>Perbandingan Trigonometri</h3>
               </div>
               <div class="solu_description">
                 <p>
-                  It is a long established fact that a...
+                Perbandingan segitiga siku-siku ditinjau dari salah satu sudut segitiga...
                 </p>
                 <button type="button" class="read_more_btn">Read More</button>
               </div>
@@ -171,11 +171,11 @@ function materiPage() {
                 </svg>
               </div>
               <div class="solu_title">
-                <h3>Demo 3</h3>
+                <h3>Perbandingan Tangen</h3>
               </div>
               <div class="solu_description">
                 <p>
-                  It is a long established fact that a ...
+                Perbandingan trigonometri antara sisi tegak lurus siku-siku dengan sisi alasnya....
                 </p>
                 <button type="button" class="read_more_btn">Read More</button>
               </div>
@@ -228,11 +228,11 @@ function materiPage() {
                 </svg>
               </div>
               <div class="solu_title">
-                <h3>Demo 4</h3>
+                <h3>Kegunaan Perbandingan Tangen</h3>
               </div>
               <div class="solu_description">
                 <p>
-                  It is a long established fact that a ...
+                Kegunaan perbandingan trigonometri tangen dalam kehidupan sehari hari. ...
                 </p>
                 <button type="button" class="read_more_btn">Read More</button>
               </div>
