@@ -10,7 +10,7 @@ function cpPage() {
   </div>
   <div class="card mt-2 shadow p-3 mb-5 bg-body-tertiary rounded">
     <div class="card-header">
-     Capaian Pembelajaran
+     Tujuan Pembelajaran
     </div>
     <div class="card-body">
       <p class="card-text"><ol class="list-group list-group-numbered">
