@@ -1,6 +1,6 @@
 function materiPage() {
     judul.innerText = `Materi Trigonometri`
-    content.innerHTML += `
+    content.innerHTML = `
     <div class="section_our_solution">
     <div class="row">
       <div class=" col col-lg-12 col-md-12 col-sm-6">
