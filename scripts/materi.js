@@ -13,11 +13,11 @@ function materiPage() {
               </div>
               <div class="solu_description">
                 <p style="text-indent:2rem">
-                Keberhasilan anda dalam mempelajari materi  Trigonometri di dalam E-Modul ini bergantung pada ketekunan dan kedisiplinan peserta didik dan mematuhi langkah belajar yang ada. Belajar denan E=Modul ini dapat dilakukan secara mandiri maupun berkelompok baik di sekolah maupun diluar sekolah.
+                Keberhasilan dalam mempelajari materi  Trigonometri di dalam E-Modul ini bergantung pada ketekunan dan kedisiplinan peserta didik dan mematuhi langkah belajar yang ada. Belajar dengan E-Modul ini dapat dilakukan secara mandiri maupun berkelompok baik di sekolah maupun di luar sekolah.
   </p>
   <p style="text-indent:2rem">
-	E-Modul ini disusun dan disesuaikan dengan model pembelajaran Discovery Learning model pembelajaran ini dipilih karena diharapkan peserta didik dapat mengembangkan belajar peserta didik aktif dengan menemukan sendiri dan menyelidiki sendiri suatu konsep dari pembelajaran.
-	“Model Discovery Learning adalah suatu model pembelajaran untuk mengembangkan pola belajar peserta didik untuk lebih aktif dengan menemukan sendiri, menyelidiki sendiri, untuk mendapatkan hasil yang akan tidak mudah dilupakan dalam ingatan peserta didik” (Dinata dan Zainul, 2020:7).
+	E-Modul ini disusun dan disesuaikan dengan model pembelajaran Discovery Learning. Model pembelajaran ini dipilih karena diharapkan peserta didik dapat mengembangkan belajar peserta didik aktif dengan menemukan sendiri dan menyelidiki sendiri suatu konsep dari pembelajaran.
+	“Model Discovery Learning adalah suatu model pembelajaran untuk mengembangkan pola belajar peserta didik untuk lebih aktif dengan menemukan sendiri, menyelidiki sendiri, serta untuk mendapatkan hasil yang tidak mudah dilupakan dalam ingatan peserta didik” (Dinata dan Zainul, 2020:7).
   </p>
   <div class="solu_title">
   <h3>Tahapan Model discovery learning dalam E-Modul</h3>
