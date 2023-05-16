@@ -377,13 +377,12 @@
     color: #309df0;
 }
 
-.solution_card .so_top_icon {}
-
 .solution_card .solu_title h3 {
     color: #212121;
     font-size: 1.2em;
     margin-top: 5px;
     margin-bottom: 6px;
+    text-align: center;
 }
 
 .solution_card .solu_description p {
