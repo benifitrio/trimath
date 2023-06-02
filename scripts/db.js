@@ -37,7 +37,11 @@
                  password: pass_up
              })
          }).then(() => {
-             alert("User berhasil di tambahkan.")
+             Swal.fire(
+                 'User berhasil di tambahkan.',
+                 'success'
+             )
+             alert("")
              document.getElementById('name').value = ""
              document.getElementById('email_up').value = ""
              document.getElementById('pass_up').value = ""
