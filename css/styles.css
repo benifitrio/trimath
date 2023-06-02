@@ -9,12 +9,12 @@
 }
 
 #neonShadow {
-    height: 100px;
-    width: 100px;
+    width: 15em;
+    height: 4em;
     position: absolute;
     top: 40em;
     border: none;
-    border-radius: 50px;
+    border-radius: 3em;
     transition: 0.3s;
     background-color: rgba(156, 161, 160, 0.3);
     animation: glow 1s infinite;

@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="css/login.css" />
+    <title>Bootstrap demo</title>
+</head>
+
+<body>
+    <div class="wrapper">
+        <div class="title-text">
+            <div class="title login">Login Form</div>
+            <div class="title signup">Signup Form</div>
+        </div>
+        <div class="form-container">
+            <div class="slide-controls">
+                <input type="radio" name="slide" id="login" checked>
+                <input type="radio" name="slide" id="signup">
+                <label for="login" class="slide login">Masuk</label>
+                <label for="signup" class="slide signup">Daftar</label>
+                <div class="slider-tab"></div>
+            </div>
+            <div class="form-inner">
+                <form action="#" class="login">
+                    <div class="field">
+                        <input type="email" id="email_in" placeholder="Gunakan Email yang terdaftar . . ." required>
+                    </div>
+                    <div class="field">
+                        <input id="pass_in" type="password" placeholder="Password mu . . ." required>
+                    </div>
+                    <!-- <div class="pass-link"><a href="#">Forgot password?</a></div> -->
+                    <div class="field btn">
+                        <div class="btn-layer"></div>
+                        <input type="submit" id="btn_in" value="Masuk">
+                    </div>
+                    <div class="signup-link">Belum punya akun? <a href="">Daftar sekarang</a></div>
+                </form>
+                <form action="#" class="signup">
+                    <div class="field">
+                        <input type="text" id="name" placeholder="Tulis nama lengkap kamu ..." required>
+                    </div>
+                    <div class="field">
+                        <input type="email" id="email_up" placeholder="Alamat Email ..." required>
+                    </div>
+                    <div class="field">
+                        <input id="pass_up" type="password" placeholder="Password ..." required>
+                    </div>
+                    <!-- <div class="field">
+                        <input type="password" placeholder="Confirm password" required>
+                    </div> -->
+                    <div class="field btn">
+                        <div class="btn-layer"></div>
+                        <input type="submit" id="btn_up" value="Daftar">
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+    <script src="scripts/login.js"></script>
+    <script type="module" src="scripts/db.js"></script>
+</body>
+
+</html>
