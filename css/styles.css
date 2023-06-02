@@ -8,6 +8,13 @@
     background-repeat: no-repeat;
 }
 
+a#bg-login {
+    /* min-height: 100vh; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 #neonShadow {
     width: 15em;
     height: 4em;
@@ -28,13 +35,6 @@ span {
     text-align: center;
     padding-right: 2.5%;
     font-size: 1em;
-}
-
-a#bg-login {
-    min-height: 100vh;
-    display: flex;
-    align-items: center;
-    justify-content: center;
 }
 
 #neonShadow:hover {

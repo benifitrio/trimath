@@ -31,10 +31,6 @@ document.addEventListener("DOMContentLoaded", () => {
         if (page === 'materi') materiPage()
         if (page === 'konsep') petaPage()
         if (page === 'bio') bioPage()
-            // if (page === 'divergen') divergen()
-            // if (page === 'limit-fungsi') limitFungsi()
-            // if (page === 'konvergen') konvergen()
-            // if (page === 'limit') limit()
     }
 
 });

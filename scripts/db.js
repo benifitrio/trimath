@@ -38,9 +38,9 @@
              })
          }).then(() => {
              alert("User berhasil di tambahkan.")
-             let name = document.getElementById('name').value = ""
-             let email_up = document.getElementById('email_up').value = ""
-             let pass_up = document.getElementById('pass_up').value = ""
+             document.getElementById('name').value = ""
+             document.getElementById('email_up').value = ""
+             document.getElementById('pass_up').value = ""
 
 
          }).catch((err) => {
