@@ -41,20 +41,19 @@
                  'User berhasil di tambahkan.',
                  'success'
              )
-             alert("")
+
              document.getElementById('name').value = ""
              document.getElementById('email_up').value = ""
              document.getElementById('pass_up').value = ""
 
 
          }).catch((err) => {
-             alert(err)
+             Swal.fire(
+                 'Registrasi gagal!',
+                 'error'
+             )
          })
-         .catch((error) => {
-             const errorCode = error.code;
-             const errorMessage = error.message;
-             // ..
-         });
+
  })
 
  btn_in.addEventListener("click", (e) => {
