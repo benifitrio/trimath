@@ -12,7 +12,7 @@
     width: 15em;
     height: 4em;
     position: absolute;
-    top: 40em;
+    top: 38em;
     border: none;
     border-radius: 3em;
     transition: 0.3s;
@@ -45,12 +45,12 @@ a#bg-login {
 
 @keyframes glow {
     0% {
-        box-shadow: 5px 5px 20px rgb(93, 52, 168), -5px -5px 20px rgb(93, 52, 168);
+        box-shadow: 5px 5px 10px rgb(93, 52, 168), -5px -5px 10px rgb(93, 52, 168);
     }
     50% {
-        box-shadow: 5px 5px 20px rgb(81, 224, 210), -5px -5px 20px rgb(81, 224, 210)
+        box-shadow: 5px 5px 10px rgb(81, 224, 210), -5px -5px 10px rgb(81, 224, 210)
     }
     100% {
-        box-shadow: 5px 5px 20px rgb(93, 52, 168), -5px -5px 20px rgb(93, 52, 168)
+        box-shadow: 5px 5px 10px rgb(93, 52, 168), -5px -5px 10px rgb(93, 52, 168)
     }
 }
