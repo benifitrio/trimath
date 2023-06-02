@@ -59,8 +59,8 @@
      signInWithEmailAndPassword(auth, email_in, pass_in)
          .then((userCredential) => {
              const user = userCredential.user;
-             location.href = "http://trimath.netlify.app/home.html"
-                 // location.href = "http://localhost:3000/home.html"
+             // location.href = "http://trimath.netlify.app/home.html"
+             location.href = "http://localhost:3000/home.html"
          })
          .catch((error) => {
              alert("Maaf nama atau email salah!")
