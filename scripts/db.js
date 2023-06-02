@@ -59,10 +59,42 @@
      signInWithEmailAndPassword(auth, email_in, pass_in)
          .then((userCredential) => {
              const user = userCredential.user;
+             const Toast = Swal.mixin({
+                 toast: true,
+                 position: 'top-end',
+                 showConfirmButton: false,
+                 timer: 3000,
+                 timerProgressBar: true,
+                 didOpen: (toast) => {
+                     toast.addEventListener('mouseenter', Swal.stopTimer)
+                     toast.addEventListener('mouseleave', Swal.resumeTimer)
+                 }
+             })
+
+             Toast.fire({
+                 icon: 'success',
+                 title: 'Signed in successfully'
+             })
              location.href = "http://trimath.netlify.app/home.html"
-                 // location.href = "http://localhost:3000/home.html"
+
          })
          .catch((error) => {
-             alert("Maaf nama atau email salah!")
+             const Toast = Swal.mixin({
+                 toast: true,
+                 position: 'top-end',
+                 showConfirmButton: false,
+                 timer: 3000,
+                 timerProgressBar: true,
+                 didOpen: (toast) => {
+                     toast.addEventListener('mouseenter', Swal.stopTimer)
+                     toast.addEventListener('mouseleave', Swal.resumeTimer)
+                 }
+             })
+
+             Toast.fire({
+                 icon: 'error',
+                 title: 'Maaf nama atau email salah!'
+             })
+
          });
  })
