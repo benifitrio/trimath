@@ -2,8 +2,8 @@ function discoveryPage() {
     judul.innerText = `Tahapan Discovery Learning`
     content.innerHTML =
         `<div class="section_our_solution">
-          <div class="my-4 center">
-          <h5>Tahapan Model discovery learning</h5>
+          <div class="my-4" id="testbutton">
+   
         </div>
         <table class="table table-bordered">
           <thead>
