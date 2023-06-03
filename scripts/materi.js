@@ -17,7 +17,7 @@ function materiPage() {
           <div class="solution_card">
             <div class="hover_color_bubble"></div>
             <div class="so_top_icon">
-             
+            <img src="../teacher.png" alt="..." class="img-thumbnail">
             </div>
             <div class="solu_title">
               <h3>Pertemuan 1</h3>
@@ -26,7 +26,7 @@ function materiPage() {
           <div class="solution_card">
             <div class="hover_color_bubble"></div>
             <div class="so_top_icon">
-             
+            <img src="../teacher.png" alt="..." class="img-thumbnail">
             </div>
             <div class="solu_title">
               <h3>Pertemuan 2</h3>
@@ -36,7 +36,7 @@ function materiPage() {
           <div class="solution_card">
             <div class="hover_color_bubble"></div>
             <div class="so_top_icon">
-             
+            <img src="../teacher.png" alt="..." class="img-thumbnail">
             </div>
             <div class="solu_title">
               <h3>Pertemuan 3</h3>
