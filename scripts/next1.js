@@ -4,9 +4,9 @@ function next1Page() {
  <div class="section_our_solution">
  <button class="divco blue mb-2 mt-3" href=""><span>PROBLEM STATEMENT ( Identifikasi Masalah)</span></button>
  <p>Setelah melakukan identifikasi, didapatkan jawaban sementara yaitu : </p>
- <form class="mb-5">
+ <form class="mb-3">
   <div class="form-group">
-    <span  class="font-weight-bold">Jawab</span>
+    <b>Jawab</b>
     <textarea class="form-control" rows="3" placeholder="tulis jawabanmu disini...."></textarea>
   </div>
   <button type="submit" class="btn btn-primary">Submit</button>
