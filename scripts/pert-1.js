@@ -1,5 +1,5 @@
 function pert1Page() {
-    judul.innerText = `Pertemuan 1: Pengertian Trigonometri`
+    judul.innerHTML = `<span class="h6">Pertemuan 1: Pengertian Trigonometri</span>`
     content.innerHTML = `
     <div class="section_our_solution">
     <img src="../masalah1.png" class="img-fluid" alt="Responsive image">
