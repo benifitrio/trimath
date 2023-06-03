@@ -8,12 +8,12 @@ function next2Page() {
 <li>
 <b>Sinus</b><br>
 Nilai Perbandingan ini mempunyai nama khusus yaitu Sinus (disingkat sin). Sin suatu sudut yang dapat ditentukan dengan membagi panjang sisi depan dan sisi miring segitiga. <br>
-<img src="../sinus.png" class="img-fluid " alt="Responsive image"> 
+<img src="../sinus.png" class="img-fluid w-75" alt="Responsive image"> 
 </li>
 <li>
 <b>Cosinus</b><br>
 Nilai Perbandingan ini mempunyai nama khusus yaitu Cosinus (disingkat Cos). Cos suatu sudut yang dapat ditentukan dengan membagi panjang sisi samping dan sisi miring segitiga.  <br>
-<img src="../cosinus.png" class="img-fluid w-50" alt="Responsive image"> 
+<img src="../cosinus.png" class="img-fluid w-75" alt="Responsive image"> 
 </li>
 </ol>
 </ul>
