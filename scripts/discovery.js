@@ -16,32 +16,45 @@ function discoveryPage() {
             <tr>
               <td><i>Stimulation</i>
               (Pemberian Rangsangan)</td>
-              <td>Peserta didik diberikan permasalahan diawal dengan mengamati salah satu pertanyaan pada materi trigonometri yang disajikan  di dalam e-modul.</td>
+              <td>Pada tahap awal peserta didik diberikan apersepsi berupa pertanyaan 
+              yang disajikan di dalam e-modul. Dalam hal ini peserta didik dapat 
+              menyelidiki masalah tersebut.
+              </td>
             </tr>
             <tr>
               <td><i>Problem Statement</i>
               (Pernyataan/Identifikasi masalah)</td>
-              <td>Peserta didik dapat menuliskan apa saja pertanyaan untuk mengemukakan ide dalam identifikasi masalah dari hasil pengamatan untuk menyelesaikan masalah pada soal tersebut.</td>
+              <td>Tahap kedua setelah peserta didik diberikan pertanyaan peserta didik 
+              dapat menjawab pertanyaan tersebut yang kemudian dijadikan
+              jawaban sementara (hipotesis).
+              </td>
             </tr>
             <tr>
               <td><i>Data Collection</i>
               (Pengumpulan Data)</td>
-              <td>Peserta didik diberikan kesempatan untuk menyelesaikan masalah berdasarkan identifikasi masalah.</td>
+              <td>Pada tahap ketiga peserta didik dapat mengumpulkan berbagai informasi
+              dengan membaca materi yang tersedia pada e-modul. 
+              </td>
             </tr>
             <tr>
               <td><i>Data Processing</i>
               (Pengolahan Data)</td>
-              <td>Peserta didik dapat menuliskan proses pengolahan data dari hasil pengumpulan data untuk menyelesaikan masalah.</td>
+              <td>Pada tahap ke empat peserta didik dapat mengolah data berdasarkan informasi yang di dapatkan dari pengumpulan data. </td>
             </tr>
             <tr>
               <td><i>Verification</i>
               (Pembuktian)</td>
-              <td>Peserta didik melakukan verifikasi dan pemeriksaan  hasil dari pengolahan data apakah sudah sesuai dengan pertanyaan yang ditunjukkan.</td>
+              <td>Pada tahap ini peserta didik dapat melakukan verification berdasarkan 
+              hasil data yang sudah ada sebelumnya dan dihubungkan dengan hasil
+              data yang telah diperoleh.  
+              </td>
             </tr>
             <tr>
               <td><i>Generalization</i>
               (Menarik Kesimpulan/Generalisasi)</td>
-              <td>Peserta didik dapat menyajikan hasil pekerjaannya berdasarkan pembuktian yang di dapat dari uraian masalah tersebut.</td>
+              <td>Pada tahap akhir peserta didik dapat menarik kesimpulan pembelajaran
+              pada kolom yang telah disediakan. 
+              </td>
             </tr>
           </tbody>
         </table>
