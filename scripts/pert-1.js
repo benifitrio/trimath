@@ -7,10 +7,9 @@ function pert1Page() {
     <button class="divco blue mb-2" href=""><span>STIMULATION ( Pemberian Rangsangan)</span></button>
     <p style="text-indent:1em;">Pada gambar di atas kalian akan mengukur ketinggian pohon tersebut dengan menggunakan teorema phytagoras. Gambar di atas merupakan segitiga siku – siku dengan siku – siku di B. Segitiga di atas memiliki titik yaitu titik A,B dan C .dengan masing – masing sisi yaitu sisi d sisi e dan sisi f. </p>
     <p style="text-indent:1em;">Berapakah tinggi pohon tersebut jika diketahui panjang AB = 3 m dan panjang AC = 5 m, dan tentukan nilai perbandingan pada sudut θ? </p>
-    <button class="divco blue mb-2" href=""><span>PROBLEM STATEMENT ( Identifikasi Masalah)</span></button>
-    <p>Setelah melakukan identifikasi, didapatkan jawaban sementara yaitu : </p>
+  
     <div class="w-100 d-flex justify-content-center">
-    <button type="button" class="btn btn-success">Next</button>
+    <a href="#next1" type="button" class="btn btn-success">Selanjutnya</a>
     </div>
     
 `

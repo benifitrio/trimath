@@ -33,6 +33,7 @@ document.addEventListener("DOMContentLoaded", () => {
         if (page === 'bio') bioPage()
         if (page === 'discovery') discoveryPage()
         if (page === 'pert1') pert1Page()
+        if (page === 'next1') next1Page()
     }
 
 });
