@@ -9,7 +9,7 @@ function next1Page() {
     <b>Jawab</b>
     <textarea class="form-control" rows="3" placeholder="tulis jawabanmu disini...."></textarea>
   </div>
-  <button type="submit" class="btn btn-primary">Submit</button>
+  <button type="submit" class="btn btn-outline-primary">Submit</button>
 </form>
 <button class="divco blue mb-2" href=""><span>DATA COLLECTION ( Pengumpulan Data)</span></button>
  <p>Untuk membuktikan hipotesis diatas, Kalian dapat mengumpulkan beberapa data dan informasi sebagai berikut :  </p>
