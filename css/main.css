@@ -395,17 +395,17 @@
     .sidebar.close .nav-links li .sub-menu {
         display: none;
     }
-    .sidebar {
+    /* .sidebar {
         width: 78px;
-    }
+    } */
     .sidebar.close {
         width: 0;
     }
-    .home-section {
+    /* .home-section {
         left: 78px;
         width: calc(100% - 78px);
         z-index: 100;
-    }
+    } */
     .sidebar.close~.home-section {
         width: 100%;
         left: 0;
@@ -416,17 +416,17 @@
     .sidebar.close .nav-links li .sub-menu {
         display: none;
     }
-    .sidebar {
+    /* .sidebar {
         width: 78px;
-    }
+    } */
     .sidebar.close {
         width: 0;
     }
-    .home-section {
+    /* .home-section {
         left: 78px;
         width: calc(100% - 78px);
         z-index: 100;
-    }
+    } */
     .sidebar.close~.home-section {
         width: 100%;
         left: 0;
