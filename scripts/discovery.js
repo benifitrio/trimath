@@ -2,7 +2,7 @@ function discoveryPage() {
     judul.innerText = `Tahapan Discovery Learning`
     content.innerHTML =
         `<div class="section_our_solution">
-          <div class="my-4" id="testbutton" class="testbutton_div">
+          <div class="mt-4" id="testbutton" class="testbutton_div">
    
         </div>
         <table class="table table-bordered">
@@ -14,9 +14,9 @@ function discoveryPage() {
           </thead>
           <tbody>
             <tr>
-              <td><i>Stimulation</i>
+              <td style="width:25%"><i>Stimulation</i>
               (Pemberian Rangsangan)</td>
-              <td>Pada tahap awal peserta didik diberikan apersepsi berupa pertanyaan 
+              <td style="width:75%">Pada tahap awal peserta didik diberikan apersepsi berupa pertanyaan 
               yang disajikan di dalam e-modul. Dalam hal ini peserta didik dapat 
               menyelidiki masalah tersebut.
               </td>
