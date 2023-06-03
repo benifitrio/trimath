@@ -9,5 +9,11 @@ function pert1Page() {
     <p style="text-indent:1em;">Berapakah tinggi pohon tersebut jika diketahui panjang AB = 3 m dan panjang AC = 5 m, dan tentukan nilai perbandingan pada sudut θ? </p>
     <button class="divco blue mb-2" href=""><span>PROBLEM STATEMENT ( Identifikasi Masalah)</span></button>
     <p>Setelah melakukan identifikasi, didapatkan jawaban sementara yaitu : </p>
+    <p style="text-indent:1em;">Berapakah tinggi pohon tersebut jika diketahui panjang AB = 3 m dan panjang AC = 5 m, dan tentukan nilai perbandingan pada sudut θ? </p>
+    <button class="divco blue mb-2" href=""><span>PROBLEM STATEMENT ( Identifikasi Masalah)</span></button>
+    <p>Setelah melakukan identifikasi, didapatkan jawaban sementara yaitu : </p>
+    <p style="text-indent:1em;">Berapakah tinggi pohon tersebut jika diketahui panjang AB = 3 m dan panjang AC = 5 m, dan tentukan nilai perbandingan pada sudut θ? </p>
+    <button class="divco blue mb-2" href=""><span>PROBLEM STATEMENT ( Identifikasi Masalah)</span></button>
+    <p>Setelah melakukan identifikasi, didapatkan jawaban sementara yaitu : </p>
 `
 }

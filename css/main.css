@@ -418,7 +418,7 @@
 
 .section_our_solution {
     position: relative;
-    height: 100vh;
+    min-height: 100vh;
     background-image: url('../Picture1.jpg');
     background-position: bottom;
     background-size: contain;
