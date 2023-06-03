@@ -7,18 +7,18 @@ function next2Page() {
 <ol>
 <li>
 <b>Sinus</b><br>
-Nilai Perbandingan ini mempunyai nama khusus yaitu Sinus (disingkat sin). Sin suatu sudut yang dapat ditentukan dengan membagi panjang sisi depan dan sisi miring segitiga. <br>
+Nilai Perbandingan ini mempunyai nama khusus yaitu Sinus (disingkat sin). Sin suatu sudut yang dapat ditentukan dengan membagi panjang <b class="text-danger">sisi depan</b> dan <b class="text-danger">sisi miring segitiga</b>. <br>
 <img src="../sinus.png" class="img-fluid w-75" alt="Responsive image"> 
 </li>
 <li>
 <b>Cosinus</b><br>
-Nilai Perbandingan ini mempunyai nama khusus yaitu Cosinus (disingkat Cos). Cos suatu sudut yang dapat ditentukan dengan membagi panjang sisi samping dan sisi miring segitiga.  <br>
+Nilai Perbandingan ini mempunyai nama khusus yaitu Cosinus (disingkat Cos). Cos suatu sudut yang dapat ditentukan dengan membagi panjang <b class="text-danger">sisi samping</b>   dan <b class="text-danger">sisi miring segitiga</b> .  <br>
 <img src="../cosinus.png" class="img-fluid w-75" alt="Responsive image"> 
 </li>
 <li>
 <b>Tangen</b><br>
 Nilai Perbandingan ini mempunyai nama khusus yaitu Tangen 
-(disingkat tan). Tan suatu sudut yang dapat ditentukan dengan membagi panjang sisi depan dan sisi samping segitiga. 
+(disingkat tan). Tan suatu sudut yang dapat ditentukan dengan membagi panjang <b class="text-danger">sisi depan</b>  dan <b class="text-danger">sisi samping segitiga</b>. 
   <br>
 <img src="../tangen.png" class="img-fluid w-75" alt="Responsive image"> 
 </li>
