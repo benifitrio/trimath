@@ -32,6 +32,7 @@ document.addEventListener("DOMContentLoaded", () => {
         if (page === 'konsep') petaPage()
         if (page === 'bio') bioPage()
         if (page === 'discovery') discoveryPage()
+        if (page === 'pert1') pert1Page()
     }
 
 });

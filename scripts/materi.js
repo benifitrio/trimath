@@ -14,7 +14,7 @@ function materiPage() {
               <h3>Tahapan Discovery Learning</h3>
             </div>
           </a>
-          <a href="pert1" class="solution_card">
+          <a href="#pert1" class="solution_card">
             <div class="hover_color_bubble"></div>
             <div class="so_top_icon">
             <img src="../teacher.png" alt="..." class="img-thumbnail">
@@ -23,7 +23,7 @@ function materiPage() {
               <h3>Pertemuan 1</h3>
             </div>
           </a>
-          <a href="pert2" class="solution_card">
+          <a href="#pert2" class="solution_card">
             <div class="hover_color_bubble"></div>
             <div class="so_top_icon">
             <img src="../teacher.png" alt="..." class="img-thumbnail">
@@ -33,7 +33,7 @@ function materiPage() {
             </div>
            
           </a>
-          <a href="pert3" class="solution_card">
+          <a href="#pert3" class="solution_card">
             <div class="hover_color_bubble"></div>
             <div class="so_top_icon">
             <img src="../teacher.png" alt="..." class="img-thumbnail">

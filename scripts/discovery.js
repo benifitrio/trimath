@@ -2,7 +2,7 @@ function discoveryPage() {
     judul.innerText = `Tahapan Discovery Learning`
     content.innerHTML =
         `<div class="section_our_solution">
-          <div class="my-4" id="testbutton">
+          <div class="my-4" id="testbutton" class="testbutton_div">
    
         </div>
         <table class="table table-bordered">
