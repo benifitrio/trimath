@@ -59,7 +59,7 @@ function discoveryPage() {
           </tbody>
         </table>
         <div class="w-100 d-flex justify-content-center">
-        <a href="#pert1" type="button" class="btn btn-success">Selanjutnya</a>
+        <a href="#pert1" type="button" class="btn btn-success">kemateri</a>
         </div>
         </div>`
 }
