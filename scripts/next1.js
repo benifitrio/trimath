@@ -7,7 +7,7 @@ function next1Page() {
  <form class="mb-3">
   <div class="form-group">
     <b>Jawab</b>
-    <textarea class="form-control" rows="3" placeholder="tulis jawabanmu disini...."></textarea>
+    <textarea class="form-control border border-warning" rows="3" placeholder="tulis jawabanmu disini...."></textarea>
   </div>
   <button type="submit" class="btn btn-outline-primary">Submit</button>
 </form>
