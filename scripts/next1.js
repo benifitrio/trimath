@@ -15,6 +15,7 @@ function next1Page() {
  <p>Untuk membuktikan hipotesis diatas, Kalian dapat mengumpulkan beberapa data dan informasi sebagai berikut :  </p>
  <ul>
   <li>	untuk menentukan tinggi pohon kalian dapat menggunakan <b>teorema phytagoras</b> yang berlaku pada segitiga siku – siku yaitu: a<sup>2</sup> + b<sup>2</sup> = c<sup>2</sup>  <img src="../segitiga.png" class="img-fluid w-25" alt="Responsive image">  </li>
+  <li>Setelah kalian mendapatkan hasil data dalam mengukur ketinggian pohon dengan menggunakan teorema phytagoras, untuk membantu kalian dalam menentukan nilai perbandingan sinus, cosinus, dan tangen pada sudut θ kalian menggunakan rumus perbandingan trigonometri sebagai berikut:</li>
 </ul>
  <div class="mt-4 w-100 d-flex justify-content-between">
  <a href="#pert1" type="button" class="btn btn-success ">Sebelumnya</a>
