@@ -108,7 +108,7 @@
     top: 0;
     left: 0;
     height: 100%;
-    width: 260px;
+    width: 238px;
     background: rgba(48, 238, 226, 1);
     z-index: 100;
     transition: all 0.5s ease;
@@ -348,7 +348,7 @@
 .home-section {
     position: relative;
     height: 100vh;
-    left: 260px;
+    left: 229px;
     width: calc(100% - 260px);
     transition: all 0.5s ease;
     overflow: auto;
@@ -392,6 +392,27 @@
 }
 
 @media (max-width: 400px) {
+    .sidebar.close .nav-links li .sub-menu {
+        display: none;
+    }
+    .sidebar {
+        width: 78px;
+    }
+    .sidebar.close {
+        width: 0;
+    }
+    .home-section {
+        left: 78px;
+        width: calc(100% - 78px);
+        z-index: 100;
+    }
+    .sidebar.close~.home-section {
+        width: 100%;
+        left: 0;
+    }
+}
+
+@media (max-width: 385px) {
     .sidebar.close .nav-links li .sub-menu {
         display: none;
     }
