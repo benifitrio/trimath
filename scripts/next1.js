@@ -13,7 +13,9 @@ function next1Page() {
 </form>
 <button class="divco blue mb-2" href=""><span>DATA COLLECTION ( Pengumpulan Data)</span></button>
  <p>Untuk membuktikan hipotesis diatas, Kalian dapat mengumpulkan beberapa data dan informasi sebagai berikut :  </p>
- 
+ <ul >
+  <li ">	untuk menentukan tinggi pohon kalian dapat menggunakan <b>teorema phytagoras</b> yang berlaku pada segitiga siku – siku yaitu: a<sup>2</sup> + b<sup>2</sup> = c<sup>2</sup>  </li>
+</ul>
  <div class="mt-4 w-100 d-flex justify-content-between">
  <a href="#pert1" type="button" class="btn btn-success ">Sebelumnya</a>
  <a href="#next2" type="button" class="btn btn-success">Selanjutnya</a>
