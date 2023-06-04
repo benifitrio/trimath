@@ -4,13 +4,13 @@ function next1Page() {
  <div class="section_our_solution">
  <button class="divco blue mb-2 mt-3" href=""><span>PROBLEM STATEMENT ( Identifikasi Masalah)</span></button>
  <p>Setelah melakukan identifikasi, didapatkan jawaban sementara yaitu : </p>
- <form class="mb-3">
+ <div class="mb-3">
   <div class="form-group">
     <b>Jawab</b>
     <textarea class="form-control border border-warning" rows="3" placeholder="tulis jawabanmu disini...."></textarea>
   </div>
   <button type="submit" class="btn btn-outline-primary">Submit</button>
-</form>
+</div>
 <button class="divco blue mb-2" href=""><span>DATA COLLECTION ( Pengumpulan Data)</span></button>
  <p>Untuk membuktikan hipotesis diatas, Kalian dapat mengumpulkan beberapa data dan informasi sebagai berikut :  </p>
  <ul>
