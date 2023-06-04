@@ -6,29 +6,26 @@ function next4Page() {
 <p style="text-indent:1em;" class="mb-0">Coba perhatikan kembali berdasarkan hasil pengolahan data atau informasi yang telah kalian peroleh maka, Tulislah informasi tersebut ke dalam tabel di bawah ini:</p>
 <table class="table table-bordered">
   <thead>
-    <tr>
-      <th scope="col">#</th>
-      <th scope="col">First</th>
-      <th scope="col">Last</th>
-      <th scope="col">Handle</th>
+    <tr class="table-success">
+      <th scope="col" >Sisi pada segitiga</th>
+      <th scope="col">Rumus perbandingan trigonometri</th>
+      <th scope="col">Keterangan</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <th scope="row">1</th>
       <td>Mark</td>
       <td>Otto</td>
       <td>@mdo</td>
     </tr>
     <tr>
-      <th scope="row">2</th>
       <td>Jacob</td>
       <td>Thornton</td>
       <td>@fat</td>
     </tr>
     <tr>
-      <th scope="row">3</th>
-      <td colspan="2">Larry the Bird</td>
+      <th>3</th>
+      <td>Larry the Bird</td>
       <td>@twitter</td>
     </tr>
   </tbody>
