@@ -14,24 +14,19 @@ function next4Page() {
   </thead>
   <tbody>
     <tr>
-      <td><div class="mb-3">
-      <div class="form-group">
-        <textarea class="form-control border border-warning" rows="3" placeholder="tulis disini...."></textarea>
-      </div>
-      <button type="submit" class="btn btn-outline-primary">Submit</button>
-      </div></td>
-      <td>Otto</td>
-      <td>@mdo</td>
+      <td>............................</td>
+      <td>............................</td>
+      <td>............................</td>
     </tr>
     <tr>
-      <td>Jacob</td>
-      <td>Thornton</td>
-      <td>@fat</td>
+    <td>............................</td>
+    <td>............................</td>
+    <td>............................</td>
     </tr>
     <tr>
-      <th>3</th>
-      <td>Larry the Bird</td>
-      <td>@twitter</td>
+    <td>............................</td>
+    <td>............................</td>
+    <td>............................</td>
     </tr>
   </tbody>
 </table>
