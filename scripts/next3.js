@@ -33,7 +33,5 @@ permasalahan dapat diselesaikan dengan langkah – langkah berikut: </p>
 <a href="#next2" type="button" class="btn btn-success ">Sebelumnya</a>
 <a href="#next4" type="button" class="btn btn-success">Selanjutnya</a>
 </div>
-</div>
-
-`
+</div>`
 }
