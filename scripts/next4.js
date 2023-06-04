@@ -14,7 +14,12 @@ function next4Page() {
   </thead>
   <tbody>
     <tr>
-      <td>Mark</td>
+      <td><div class="mb-3">
+      <div class="form-group">
+        <textarea class="form-control border border-warning" rows="3" placeholder="tulis disini...."></textarea>
+      </div>
+      <button type="submit" class="btn btn-outline-primary">Submit</button>
+      </div></td>
       <td>Otto</td>
       <td>@mdo</td>
     </tr>
