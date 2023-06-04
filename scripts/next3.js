@@ -21,6 +21,13 @@ permasalahan dapat diselesaikan dengan langkah – langkah berikut: </p>
   <textarea class="form-control border border-warning" rows="3" placeholder="tulis jawabanmu disini...."></textarea>
 </div>
 <button type="submit" class="btn btn-outline-primary">Submit</button>
+<li>Langkah 2, menentukan nilai perbandingan pada sudut θ menggunakan rumus perbandingan trigonometri (sinus, cosinus, tangen)!</li>
+<div class="mb-3">
+<div class="form-group">
+  <b>Jawab</b>
+  <textarea class="form-control border border-warning" rows="3" placeholder="tulis jawabanmu disini...."></textarea>
+</div>
+<button type="submit" class="btn btn-outline-primary">Submit</button>
 </ul>
 <div class="mt-4 w-100 d-flex justify-content-between">
 <a href="#next2" type="button" class="btn btn-success ">Sebelumnya</a>
