@@ -30,6 +30,15 @@ function next4Page() {
     </tr>
   </tbody>
 </table>
+<button class="divco blue mb-2" href=""><span>GENERALIZATION (Menarik Kesimpulan)</span></button>
+<p style="text-indent:1em;" class="mb-0">Dari permasalahan di atas, dapat disimpulkan bahwa:</p>
+<div class="mb-3">
+<div class="form-group">
+  <b>Jawab</b>
+  <textarea class="form-control border border-warning" rows="3" placeholder="tulis jawabanmu disini...."></textarea>
+</div>
+<button type="submit" class="btn btn-outline-primary">Submit</button>
+</div>
 <div class="mt-4 w-100 d-flex justify-content-between">
 <a href="#next3" type="button" class="btn btn-success ">Sebelumnya</a>
 </div>
