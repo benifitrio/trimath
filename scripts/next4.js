@@ -16,7 +16,12 @@ function next4Page() {
 <hr>
 <div id="materi" class="materi">
 Rumus Phytagoras: <br>
-AC<sup>2</sup> = BC<sup>2</sup> + AB<sup>2</sup>
+<p> AC<sup>2</sup> = BC<sup>2</sup> + AB<sup>2</sup></p>
+<p>5<sup>2</sup> = BC<sup>2</sup> + 3<sup>2</sup></p>
+<p>25 - 9 = BC<sup>2</sup></p>
+<p>BC = 4m</p>
+<p>Nilai perbandingan pada sudut θ</p>
+<p>sin θ = de / mi = 4/5</p>
 <img src="../siku-siku.png" class="img-fluid w-75" alt="Responsive image"> 
 </div>
 </div>
