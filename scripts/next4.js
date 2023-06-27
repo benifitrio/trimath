@@ -21,7 +21,7 @@ Rumus Phytagoras: <br>
 <p>25 - 9 = BC<sup>2</sup></p>
 <p>BC = 4m</p>
 <p>Nilai perbandingan pada sudut θ</p>
-<p>sin θ = de / mi = 4/5</p>
+<p>sin θ = <sup>de</sup>&frasl;<sub>mi</sub> = <sup>4</sup>&frasl;<sub>5</sub> </p>
 <img src="../siku-siku.png" class="img-fluid w-75" alt="Responsive image"> 
 </div>
 </div>
