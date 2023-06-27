@@ -16,6 +16,10 @@
     line-height: 12px;
 }
 
+.materi {
+    display: none;
+}
+
 #testbutton:before {
     content: '';
     z-index: 1;

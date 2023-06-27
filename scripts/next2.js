@@ -1,5 +1,5 @@
 function next2Page() {
-    judul.innerHTML = `<span class="h6">Pertemuan 1: Pengertian Trigonometri</span>`
+    judul.innerHTML = `<span class="h6">Pertemuan 1: Perbandingan Trigonometri</span>`
     content.innerHTML = `
 <div class="section_our_solution">
 <ul>
