@@ -13,9 +13,11 @@ function next4Page() {
 
 <button id="klik" class="mt-3 btn btn-outline-primary">Klik buktikan!</button>
 </div>
-
+<hr>
 <div id="materi" class="materi">
-ini berisi materi <img src="../siku-siku.png" class="img-fluid w-75" alt="Responsive image"> 
+Rumus Phytagoras: <br>
+AC<sup>2</sup> = BC<sup>2</sup> + AB<sup>2</sup>
+<img src="../siku-siku.png" class="img-fluid w-75" alt="Responsive image"> 
 </div>
 </div>
 <button class="divco blue mb-2" href=""><span>GENERALIZATION (Menarik Kesimpulan)</span></button>
