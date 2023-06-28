@@ -15,14 +15,24 @@ function next4Page() {
 </div>
 <hr>
 <div id="materi" class="materi">
+<div class="d-flex justify-content-around">
+<div>
 Rumus Phytagoras: <br>
 <p> AC<sup>2</sup> = BC<sup>2</sup> + AB<sup>2</sup></p>
 <p>5<sup>2</sup> = BC<sup>2</sup> + 3<sup>2</sup></p>
 <p>25 - 9 = BC<sup>2</sup></p>
 <p>BC = 4m</p>
+</div>
+<div>
 <p>Nilai perbandingan pada sudut θ</p>
 <p>sin θ = <sup>de</sup>&frasl;<sub>mi</sub> = <sup>4</sup>&frasl;<sub>5</sub> </p>
-<img src="../siku-siku.png" class="img-fluid w-75" alt="Responsive image"> 
+<p>cos θ = <sup>sa</sup>&frasl;<sub>mi</sub> = <sup>3</sup>&frasl;<sub>5</sub> </p>
+<p>tan θ = <sup>de</sup>&frasl;<sub>sa</sub> = <sup>4</sup>&frasl;<sub>3</sub> </p>
+</div>
+
+</div>
+
+<img src="../siku-siku.png" class="img-fluid w-50" alt="Responsive image"> 
 </div>
 </div>
 <button class="divco blue mb-2" href=""><span>GENERALIZATION (Menarik Kesimpulan)</span></button>
