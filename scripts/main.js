@@ -37,6 +37,7 @@ document.addEventListener("DOMContentLoaded", () => {
         if (page === 'next2') next2Page()
         if (page === 'next3') next3Page()
         if (page === 'next4') next4Page()
+        if (page === 'next5') next5Page()
     }
 
 });
