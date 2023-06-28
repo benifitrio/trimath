@@ -71,7 +71,7 @@ Dari ketiga sisi segitiga siku-siku ABC tersebut, dapat ditentukan perbandingan-
 </div>
 <div class="mt-4 w-100 d-flex justify-content-between mb-2">
 <a href="#next4" type="button" class="btn btn-success ">Sebelumnya</a>
-<a href="#next6" type="button" class="btn btn-success">Selanjutnya</a>
+<a href="#pert2" type="button" class="btn btn-success">Materi 2</a>
 </div>
 </div>`
 }
