@@ -52,7 +52,7 @@ Dari ketiga sisi segitiga siku-siku ABC tersebut, dapat ditentukan perbandingan-
     <div class="ms-2 me-auto">
       <div class="fw-bold">Apakah kalian dapat memahami konsep nilai perbandingan trigonometri pada sinus, cosinus dan tangen?</div>
       <div class="form-check form-check-inline">
-  <input class="form-check-input" type="radio" name="cek2" id="cek3" value="option1">
+  <input class="form-check-input" type="radio" name="inlineRadioOptions" id="cek3" value="option1">
   <label class="form-check-label" for="cek3">Ya</label>
 </div>
 <div class="form-check form-check-inline">
