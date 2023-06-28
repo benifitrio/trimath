@@ -33,18 +33,18 @@ Dari ketiga sisi segitiga siku-siku ABC tersebut, dapat ditentukan perbandingan-
 <div class="d-grid">
 <button style="background-image: linear-gradient(to right, #02AAB0 0%, #00CDAC  51%, #02AAB0  100%); color: #fff; font-size : 1.3em:" class="fw-bold btn mt-2 h4">Penilaian Diri</button>
 </div>
-<div class="px-2">
+<div>
 <ol class="list-group list-group-numbered">
   <li class="list-group-item d-flex justify-content-between align-items-start">
     <div class="ms-2 me-auto">
       <div class="fw-bold">Apakah kalian dapat memahami setiap sisi sebuah segitiga siku – siku dan menentukan panjang sisi menggunakan teorema phytagoras?</div>
       <div class="form-check form-check-inline">
-  <input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio1" value="option1">
-  <label class="form-check-label" for="inlineRadio1">Ya</label>
+  <input class="form-check-input" type="radio" name="inlineRadioOptions" id="cek1" value="option1">
+  <label class="form-check-label" for="cek1">Ya</label>
 </div>
 <div class="form-check form-check-inline">
-  <input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio2" value="option2">
-  <label class="form-check-label" for="inlineRadio2">Tidak</label>
+  <input class="form-check-input" type="radio" name="inlineRadioOptions" id="cek2" value="option2">
+  <label class="form-check-label" for="cek2">Tidak</label>
 </div>
     </div>
   </li>
@@ -52,12 +52,12 @@ Dari ketiga sisi segitiga siku-siku ABC tersebut, dapat ditentukan perbandingan-
     <div class="ms-2 me-auto">
       <div class="fw-bold">Apakah kalian dapat memahami konsep nilai perbandingan trigonometri pada sinus, cosinus dan tangen?</div>
       <div class="form-check form-check-inline">
-  <input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio1" value="option1">
-  <label class="form-check-label" for="inlineRadio1">Ya</label>
+  <input class="form-check-input" type="radio" name="cek2" id="cek3" value="option1">
+  <label class="form-check-label" for="cek3">Ya</label>
 </div>
 <div class="form-check form-check-inline">
-  <input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio2" value="option2">
-  <label class="form-check-label" for="inlineRadio2">Tidak</label>
+  <input class="form-check-input" type="radio" name="inlineRadioOptions" id="cek4" value="option2">
+  <label class="form-check-label" for="cek4">Tidak</label>
 </div>
     </div>
   </li>
