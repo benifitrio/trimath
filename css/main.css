@@ -376,6 +376,33 @@
     border-radius: 0 0 0.3em 0.3em;
 }
 
+.up {
+    position: fixed;
+    display: inline-block;
+    text-align: center;
+    width: 2rem;
+    height: 2rem;
+    background-color: #0D9488;
+    bottom: 1rem;
+    right: 1rem;
+    border-radius: 100%;
+    animation: puls 2s infinite;
+    cursor: pointer;
+    transition: background-color .3s, opacity .5s, visibility .5s;
+}
+
+@keyframes puls {
+    0% {
+        box-shadow: 0 0 0 0 #7B1EA1;
+    }
+    70% {
+        box-shadow: 0 0 0 1rem rgba(253, 87, 191, 0);
+    }
+    100% {
+        box-shadow: 0 0 0 0 #7B1EA1;
+    }
+}
+
 .content {
     font-size: .8em;
 }

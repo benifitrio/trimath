@@ -23,7 +23,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
     function loadPage(page) {
         page = window.location.hash.substr(1);
-        console.log(page)
+
         if (page === "") page = "home"
         if (page === 'home') Home()
         if (page === 'petunjuk') petunjukPage()
@@ -39,5 +39,7 @@ document.addEventListener("DOMContentLoaded", () => {
         if (page === 'next4') next4Page()
         if (page === 'next5') next5Page()
     }
+
+
 
 });

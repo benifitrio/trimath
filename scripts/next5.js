@@ -72,5 +72,7 @@ permasalahan dapat diselesaikan dengan langkah – langkah berikut: </p>
 <a href="#next4" type="button" class="btn btn-success ">Sebelumnya</a>
 <a href="#next6" type="button" class="btn btn-success">Selanjutnya</a>
 </div>
+
 </div>`
+
 }

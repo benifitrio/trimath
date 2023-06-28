@@ -53,6 +53,7 @@ Rumus Phytagoras: <br>
 <a href="#next5" type="button" class="btn btn-success">Selanjutnya</a>
 </div>
 </div>
+
 </div>`
 
     document.querySelector('#klik').addEventListener('click', (e) => {
