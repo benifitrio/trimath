@@ -19,6 +19,13 @@ Di Arab dan kebanyakan daerah muslim, trigonometri berkembang dengan pesat tidak
 <p style="text-indent:1em;" class="mb-0">
 Tidak hanya itu Jika Kalian perhatikan lingkungan sekitar kita, banyak benda atau bangunan memiliki sudut atau pojok tertentu. Bentuk sudut ada yang sengaja dirancang seperti penggaris berbentuk segitiga, seperti model atap rumah biasanya dibuat dengan sudut atau pojok sesuai kebutuhan. Titik sudut sebuah buku biasanya tegak lurus, sedangkan atap rumah sudutnya lebih kecil. Ilmu ukur sudut dipelajari secara khusus dalam trigonometri yang mengkaji hubungan antara sisi dan sudut dalam suatu segitiga dan sifat-sifat serta aplikasinya dalam berbagai bidang seperti penaksiran tinggi bangunan atau pohon, jarak mendatar puncak gunung terhadap lembahnya, dan sebagainya. Misalnya, para arsitekturnya, sudah menerapkan kesetimbangan bangunan pada rumah adat yang mereka ciptakan, seperti rumah adat Dayak di atas . Rumah adat tersebut berdiri kokoh sebagai hasil hubungan yang tepat antara besar sudut yang dikaitkan dengan panjang sisi-sisinya.
 </p>
+<b>Perhatikan gambar!</b>
+<div class="w-100 d-flex justify-content-center ">
+<img src="../segitiga2.png" class="img-fluid w-50" alt="Responsive image">
+</div>
+<p style="text-indent:1em;" class="mb-0">
+Segitiga ABC merupakan segitiga siku-siku dengan titik sudut siku-siku di C. Panjang sisi di hadapan sudut A adalah a satuan, panjang sisi di hadapan sudut B adalah b satuan, dan panjang sisi di hadapan sudut C adalah c satuan. Pada gambar, diketahui ∠BAC = 𝛼. Sisi BC = a disebut sisi di depan sudut 𝛼, sisi AC = b disebut sisi di samping sudut 𝛼, dan sisi AB = c disebut sisi miring (hipotenusa). 
+</p>
 <div class="mt-4 w-100 d-flex justify-content-between">
 <a href="#next4" type="button" class="btn btn-success ">Sebelumnya</a>
 <a href="#next6" type="button" class="btn btn-success">Selanjutnya</a>
