@@ -10,7 +10,5 @@ function pert1Page() {
   
     <div class="w-100 d-flex justify-content-center">
     <a href="#next1" type="button" class="btn btn-success">Selanjutnya</a>
-    </div>
-    
-`
+    </div>`
 }
