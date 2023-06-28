@@ -31,7 +31,7 @@ Dari ketiga sisi segitiga siku-siku ABC tersebut, dapat ditentukan perbandingan-
 <img src="../rumus1.png" class="img-fluid w-50" alt="Responsive image">
 </div>
 <div class="d-grid">
-<button style="background-image: linear-gradient(to right, #02AAB0 0%, #00CDAC  51%, #02AAB0  100%); color: #fff" class="btn mt-2">Penilaian Diri</button>
+<button style="background-image: linear-gradient(to right, #02AAB0 0%, #00CDAC  51%, #02AAB0  100%); color: #fff; font-size : 1.3em" class="btn mt-2 h4">Penilaian Diri</button>
 </div>
 <div class="mt-4 w-100 d-flex justify-content-between">
 <a href="#next4" type="button" class="btn btn-success ">Sebelumnya</a>
