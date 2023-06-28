@@ -132,7 +132,7 @@
         function showScrollToTopButton() {
             console.log(window.scrollY)
             const scrollToTopButton = document.getElementById('up');
-            if (window.scrollY > 10) {
+            if (window.scrollY > 5) {
                 scrollToTopButton.style.display = 'block';
             } else {
                 scrollToTopButton.style.display = 'none';
@@ -149,10 +149,9 @@
 
         // Event listener saat halaman digulirkan
         window.addEventListener('scroll', showScrollToTopButton);
-        document.addEventListener('DOMContentLoaded', function() {
-            // Event listener saat tombol diklik
-            document.getElementById('up').addEventListener('click', scrollToTop);
-        }, false);
+        // Event listener saat tombol diklik
+        document.getElementById('up').addEventListener('click', scrollToTop);
+
 
 
 
