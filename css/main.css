@@ -219,7 +219,7 @@
 }
 
 .sidebar .nav-links li a .link_name {
-    font-size: .8em;
+    font-size: 1em;
     font-weight: 400;
     color: #77619e;
     transition: all 0.4s ease;
