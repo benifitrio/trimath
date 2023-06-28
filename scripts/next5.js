@@ -34,7 +34,7 @@ Dari ketiga sisi segitiga siku-siku ABC tersebut, dapat ditentukan perbandingan-
 <button style="background-image: linear-gradient(to right, #02AAB0 0%, #00CDAC  51%, #02AAB0  100%); color: #fff; font-size : 1.3em:" class="fw-bold btn mt-2 h4">Penilaian Diri</button>
 </div>
 <div>
-<ol class="list-group list-group-numbered">
+<ol class="list-group list-group-numbered bg-white">
   <li class="list-group-item d-flex justify-content-between align-items-start">
     <div class="ms-2 me-auto">
       <div class="fw-bold">Apakah kalian dapat memahami setiap sisi sebuah segitiga siku – siku dan menentukan panjang sisi menggunakan teorema phytagoras?</div>
@@ -52,19 +52,24 @@ Dari ketiga sisi segitiga siku-siku ABC tersebut, dapat ditentukan perbandingan-
     <div class="ms-2 me-auto">
       <div class="fw-bold">Apakah kalian dapat memahami konsep nilai perbandingan trigonometri pada sinus, cosinus dan tangen?</div>
       <div class="form-check form-check-inline">
-  <input class="form-check-input" type="radio" name="inlineRadioOptions" id="cek3" value="option1">
+  <input class="form-check-input" type="radio" name="a" id="cek3" value="option1">
   <label class="form-check-label" for="cek3">Ya</label>
 </div>
 <div class="form-check form-check-inline">
-  <input class="form-check-input" type="radio" name="inlineRadioOptions" id="cek4" value="option2">
+  <input class="form-check-input" type="radio" name="a" id="cek4" value="option2">
   <label class="form-check-label" for="cek4">Tidak</label>
 </div>
     </div>
   </li>
+  <div class="p-2 text-muted">
+  <b>Catatan:</b><br>
+  Jika jawaban “ Tidak” > 6 maka segera lakukan review pembelajaran <br>
+  Jika jawaban “ YA” >6 maka dapat melanjutkan kegiatan pembelajaran 
+  </div>
 </ol>
 
 </div>
-<div class="mt-4 w-100 d-flex justify-content-between">
+<div class="mt-4 w-100 d-flex justify-content-between mb-2">
 <a href="#next4" type="button" class="btn btn-success ">Sebelumnya</a>
 <a href="#next6" type="button" class="btn btn-success">Selanjutnya</a>
 </div>

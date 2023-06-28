@@ -469,7 +469,7 @@
     align-items: center;
 }
 
-.section_our_solution {
+body {
     position: relative;
     min-height: 100vh;
     background-image: url('../Picture1.jpg');

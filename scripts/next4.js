@@ -48,12 +48,11 @@ Rumus Phytagoras: <br>
 </div>
 <button type="submit" class="btn btn-outline-primary">Submit</button>
 </div>
-<div class="mt-4 w-100 d-flex justify-content-between">
+<div class="mt-4 w-100 d-flex justify-content-between mb-2">
 <a href="#next3" type="button" class="btn btn-success ">Sebelumnya</a>
 <a href="#next5" type="button" class="btn btn-success">Selanjutnya</a>
 </div>
 </div>
-
 </div>`
 
     document.querySelector('#klik').addEventListener('click', (e) => {

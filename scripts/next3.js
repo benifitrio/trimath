@@ -32,7 +32,7 @@ permasalahan dapat diselesaikan dengan langkah – langkah berikut: </p>
 <button type="submit" class="btn btn-outline-primary">Submit</button>
 </div>
 </ul>
-<div class="mt-4 w-100 d-flex justify-content-between">
+<div class="mt-4 w-100 d-flex justify-content-between mb-2">
 <a href="#next2" type="button" class="btn btn-success ">Sebelumnya</a>
 <a href="#next4" type="button" class="btn btn-success">Selanjutnya</a>
 </div>

@@ -24,7 +24,7 @@ Nilai Perbandingan ini mempunyai nama khusus yaitu Tangen
 </li>
 </ol>
 </ul>
-<div class="mt-4 w-100 d-flex justify-content-between">
+<div class="mt-4 w-100 d-flex justify-content-between mb-2">
 <a href="#next1" type="button" class="btn btn-success ">Sebelumnya</a>
 <a href="#next3" type="button" class="btn btn-success">Selanjutnya</a>
 </div>
