@@ -10,8 +10,12 @@ function next5Page() {
 <p style="text-indent:1em;" class="mb-0">
 Di Arab dan kebanyakan daerah muslim, trigonometri berkembang dengan pesat tidak saja karena alasan astronomi tetapi juga untuk kebutuhan ibadah. Seperti diketahui, orang muslim jika melakukan ibadah sholat, harus menghadap ke arah Qiblat, suatu bangunan di kota Mekkah. 
 </p>
-
-
+<b>Perhatikan gambar rumah Adat suku Dayak berikut!</b>
+<div class="w-100 d-flex justify-content-center">
+<img src="../rumahadat.png" class="img-fluid w-50" alt="Responsive image"> 
+<small class="text-muted">Gambar Rumah Adat Suku Dayak</small>
+<small class="text-muted">Sumber: www.jualsewarumah.com</small>
+</div>
 <div class="mt-4 w-100 d-flex justify-content-between">
 <a href="#next4" type="button" class="btn btn-success ">Sebelumnya</a>
 <a href="#next6" type="button" class="btn btn-success">Selanjutnya</a>
