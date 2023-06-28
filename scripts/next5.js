@@ -11,11 +11,14 @@ function next5Page() {
 Di Arab dan kebanyakan daerah muslim, trigonometri berkembang dengan pesat tidak saja karena alasan astronomi tetapi juga untuk kebutuhan ibadah. Seperti diketahui, orang muslim jika melakukan ibadah sholat, harus menghadap ke arah Qiblat, suatu bangunan di kota Mekkah. 
 </p>
 <b>Perhatikan gambar rumah Adat suku Dayak berikut!</b>
-<div class="w-100 d-flex justify-content-center">
+<div class="w-100 d-flex align-items-center flex-column">
 <img src="../rumahadat.png" class="img-fluid w-50" alt="Responsive image"> 
 <small class="text-muted">Gambar Rumah Adat Suku Dayak</small>
 <small class="text-muted">Sumber: www.jualsewarumah.com</small>
 </div>
+<p style="text-indent:1em;" class="mb-0">
+Tidak hanya itu Jika Kalian perhatikan lingkungan sekitar kita, banyak benda atau bangunan memiliki sudut atau pojok tertentu. Bentuk sudut ada yang sengaja dirancang seperti penggaris berbentuk segitiga, seperti model atap rumah biasanya dibuat dengan sudut atau pojok sesuai kebutuhan. Titik sudut sebuah buku biasanya tegak lurus, sedangkan atap rumah sudutnya lebih kecil. Ilmu ukur sudut dipelajari secara khusus dalam trigonometri yang mengkaji hubungan antara sisi dan sudut dalam suatu segitiga dan sifat-sifat serta aplikasinya dalam berbagai bidang seperti penaksiran tinggi bangunan atau pohon, jarak mendatar puncak gunung terhadap lembahnya, dan sebagainya. Misalnya, para arsitekturnya, sudah menerapkan kesetimbangan bangunan pada rumah adat yang mereka ciptakan, seperti rumah adat Dayak di atas . Rumah adat tersebut berdiri kokoh sebagai hasil hubungan yang tepat antara besar sudut yang dikaitkan dengan panjang sisi-sisinya.
+</p>
 <div class="mt-4 w-100 d-flex justify-content-between">
 <a href="#next4" type="button" class="btn btn-success ">Sebelumnya</a>
 <a href="#next6" type="button" class="btn btn-success">Selanjutnya</a>
