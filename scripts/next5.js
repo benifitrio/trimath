@@ -25,7 +25,14 @@ Tidak hanya itu Jika Kalian perhatikan lingkungan sekitar kita, banyak benda ata
 </div>
 <p style="text-indent:1em;" class="mb-0">
 Segitiga ABC merupakan segitiga siku-siku dengan titik sudut siku-siku di C. Panjang sisi di hadapan sudut A adalah a satuan, panjang sisi di hadapan sudut B adalah b satuan, dan panjang sisi di hadapan sudut C adalah c satuan. Pada gambar, diketahui ∠BAC = 𝛼. Sisi BC = a disebut sisi di depan sudut 𝛼, sisi AC = b disebut sisi di samping sudut 𝛼, dan sisi AB = c disebut sisi miring (hipotenusa). 
+Dari ketiga sisi segitiga siku-siku ABC tersebut, dapat ditentukan perbandingan-perbandingan trigonometri sebagai berikut.
 </p>
+<div class="w-100 d-flex justify-content-center ">
+<img src="../rumus1.png" class="img-fluid w-50" alt="Responsive image">
+</div>
+<div class="d-grid">
+<button style="background-image: linear-gradient(to right, #02AAB0 0%, #00CDAC  51%, #02AAB0  100%); color: #fff" class="btn mt-2">Penilaian Diri</button>
+</div>
 <div class="mt-4 w-100 d-flex justify-content-between">
 <a href="#next4" type="button" class="btn btn-success ">Sebelumnya</a>
 <a href="#next6" type="button" class="btn btn-success">Selanjutnya</a>
