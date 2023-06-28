@@ -1,5 +1,5 @@
 function next3Page() {
-    judul.innerHTML = `<span class="h6">Pertemuan 1: Perbandingan Trigonometri</span>`
+    judul.innerHTML = `<span class="h6">Perbandingan Trigonometri</span>`
     content.innerHTML = `
 <div class="section_our_solution">
 <p style="text-indent:1em;" class="mb-0">Setelah kalian mendapatkan beberapa data dan informasi apakah hipotesis kalian benar atau salah: </p>

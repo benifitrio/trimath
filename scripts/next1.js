@@ -1,5 +1,5 @@
 function next1Page() {
-    judul.innerHTML = `<span class="h6">Pertemuan 1: Perbandingan Trigonometri</span>`
+    judul.innerHTML = `<span class="h6">Perbandingan Trigonometri</span>`
     content.innerHTML = `
  <div class="section_our_solution">
  <button class="divco blue mb-2 mt-3" href=""><span>PROBLEM STATEMENT ( Identifikasi Masalah)</span></button>

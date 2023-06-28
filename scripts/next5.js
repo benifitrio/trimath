@@ -1,5 +1,5 @@
 function next5Page() {
-    judul.innerHTML = `<span class="h6 d-block center">Uraian Materi Perbandingan Trigonometri</span>`
+    judul.innerHTML = `<span class="h6 d-block center">Materi Perbandingan Trigonometri</span>`
     content.innerHTML = `
 <div class="section_our_solution">
 <div class="d-flex justify-content-around">
