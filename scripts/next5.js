@@ -38,15 +38,7 @@ Dari ketiga sisi segitiga siku-siku ABC tersebut, dapat ditentukan perbandingan-
   <li class="list-group-item d-flex justify-content-between align-items-start">
     <div class="ms-2 me-auto">
       <div class="fw-bold">Apakah kalian dapat memahami setiap sisi sebuah segitiga siku – siku dan menentukan panjang sisi menggunakan teorema phytagoras?</div>
-    </div>
-  </li>
-  <li class="list-group-item d-flex justify-content-between align-items-start">
-    <div class="ms-2 me-auto">
-      <div class="fw-bold">Apakah kalian dapat memahami konsep nilai perbandingan trigonometri pada sinus, cosinus dan tangen?</div>
-    </div>
-  </li>
-</ol>
-<div class="form-check form-check-inline">
+      <div class="form-check form-check-inline">
   <input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio1" value="option1">
   <label class="form-check-label" for="inlineRadio1">Ya</label>
 </div>
@@ -54,6 +46,23 @@ Dari ketiga sisi segitiga siku-siku ABC tersebut, dapat ditentukan perbandingan-
   <input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio2" value="option2">
   <label class="form-check-label" for="inlineRadio2">Tidak</label>
 </div>
+    </div>
+  </li>
+  <li class="list-group-item d-flex justify-content-between align-items-start">
+    <div class="ms-2 me-auto">
+      <div class="fw-bold">Apakah kalian dapat memahami konsep nilai perbandingan trigonometri pada sinus, cosinus dan tangen?</div>
+      <div class="form-check form-check-inline">
+  <input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio1" value="option1">
+  <label class="form-check-label" for="inlineRadio1">Ya</label>
+</div>
+<div class="form-check form-check-inline">
+  <input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio2" value="option2">
+  <label class="form-check-label" for="inlineRadio2">Tidak</label>
+</div>
+    </div>
+  </li>
+</ol>
+
 </div>
 <div class="mt-4 w-100 d-flex justify-content-between">
 <a href="#next4" type="button" class="btn btn-success ">Sebelumnya</a>
