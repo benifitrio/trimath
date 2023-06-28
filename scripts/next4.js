@@ -25,9 +25,11 @@ Rumus Phytagoras: <br>
 </div>
 <div>
 <p>Nilai perbandingan pada sudut θ</p>
+<div class="h6">
 <p>sin θ = <sup>de</sup>&frasl;<sub>mi</sub> = <sup>4</sup>&frasl;<sub>5</sub> </p>
 <p>cos θ = <sup>sa</sup>&frasl;<sub>mi</sub> = <sup>3</sup>&frasl;<sub>5</sub> </p>
 <p>tan θ = <sup>de</sup>&frasl;<sub>sa</sub> = <sup>4</sup>&frasl;<sub>3</sub> </p>
+</div>
 </div>
 
 </div>
