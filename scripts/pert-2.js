@@ -9,8 +9,8 @@ function pert2Page() {
  Kalian akan melengkapi tabel berikut dengan nilai perbandingan trigonometrinya.
  </p>
  <div class="table-responsive">
-
  <table class="table table-success table-striped">
+ <caption>Ket: ∞ tak terdefinisi</caption>
  <thead>
     <tr>
       <th scope="col" rowspan="2">Fungsi Trigonometri</th>
