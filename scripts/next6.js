@@ -87,6 +87,15 @@ Berdasarkan hasil pengolahan data atau informasi yang telah kalian peroleh maka,
 <div id="materi" class="materi">
 <img src="../buktikan2.png" class="img-fluid w-100" alt="Responsive image"> 
 </div>
+<button class="divco blue mb-2" href=""><span>GENERALIZATION (Menarik Kesimpulan)</span></button>
+<p style="text-indent:1em;" class="mb-0">Dari permasalahan di atas, dapat disimpulkan bahwa:</p>
+<div class="mb-3">
+<div class="form-group">
+<b>Jawab</b>
+<textarea class="form-control border border-warning" rows="3" placeholder="tulis jawabanmu disini...."></textarea>
+</div>
+<button type="submit" class="btn btn-outline-primary">Submit</button>
+</div>
 <div class="w-100 d-flex justify-content-center mb-2">
 <a href="#next6" type="button" class="btn btn-success">Selanjutnya</a>
 </div>`
