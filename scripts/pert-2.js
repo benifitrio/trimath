@@ -13,8 +13,8 @@ function pert2Page() {
  <caption>Ket: ∞ tak terdefinisi</caption>
  <thead>
     <tr>
-      <th scope="col" rowspan="2">Fungsi Trigonometri</th>
-      <th scope="col" colspan="5">Sudut</th>
+      <th scope="col" rowspan="2" style="text-align: center; vertical-align :middle">Fungsi Trigonometri</th>
+      <th scope="col" colspan="5" style="text-align: center ">Sudut</th>
     </tr>
     <tr>
       <th scope="col">0</th>
@@ -34,7 +34,7 @@ function pert2Page() {
       <td>...</td>
     </tr>
     <tr>
-      <th scope="row">...</th>
+      <th scope="row">Cosinus</th>
       <td>...</td>
       <td>...</td>
       <td>...</td>
