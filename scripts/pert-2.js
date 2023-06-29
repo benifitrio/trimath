@@ -14,7 +14,7 @@ function pert2Page() {
  <thead>
     <tr>
       <th scope="col">Fungsi Trigonometri</th>
-      <th scope="col" colspan="4">Sudut</th>
+      <th scope="col" colspan="5">Sudut</th>
     </tr>
     <tr>
       <th scope="col">First</th>
