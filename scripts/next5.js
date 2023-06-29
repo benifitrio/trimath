@@ -30,6 +30,9 @@ Dari ketiga sisi segitiga siku-siku ABC tersebut, dapat ditentukan perbandingan-
 <div class="w-100 d-flex justify-content-center ">
 <img src="../rumus1.png" class="img-fluid w-50" alt="Responsive image">
 </div>
+<p style="text-indent:1em;" class="mb-0">
+Simaklah contoh soal pada video di bawah ini.
+</p>
 <div class="ratio ratio-16x9">
   <iframe src="https://www.youtube.com/embed/2iTbfPEMCeo" title="YouTube video" allowfullscreen></iframe>
 </div>
