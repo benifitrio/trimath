@@ -8,9 +8,7 @@ function next4Page() {
 <div class="form-group">
   <b>Jawab</b>
   <textarea class="form-control border border-warning" rows="3" placeholder="tulis jawabanmu disini...."></textarea>
-
 <button type="submit" class="btn btn-outline-primary">Submit</button>  <br>
-
 <button id="klik" class="mt-3 btn btn-outline-primary">Klik buktikan!</button>
 </div>
 <hr>
@@ -31,15 +29,11 @@ Rumus Phytagoras: <br>
 <p>tan θ = <sup>de</sup>&frasl;<sub>sa</sub> = <sup>4</sup>&frasl;<sub>3</sub> </p>
 </div>
 </div>
-
 </div>
-
 <img src="../siku-siku.png" class="img-fluid w-50" alt="Responsive image"> 
 </div>
 </div>
 <button class="divco blue mb-2" href=""><span>GENERALIZATION (Menarik Kesimpulan)</span></button>
-
-
 <p style="text-indent:1em;" class="mb-0">Dari permasalahan di atas, dapat disimpulkan bahwa:</p>
 <div class="mb-3">
 <div class="form-group">

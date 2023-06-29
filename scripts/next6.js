@@ -81,7 +81,16 @@ Berdasarkan hasil pengolahan data atau informasi yang telah kalian peroleh maka,
   </tbody>
 </table>
  </div>
+ <button id="klik" class="mt-3 btn btn-outline-primary">Klik buktikan jawaban kalian!</button>
+</div>
+<hr>
+<div id="materi" class="materi">
+<img src="../buktikan2.png" class="img-fluid w-100" alt="Responsive image"> 
+</div>
 <div class="w-100 d-flex justify-content-center mb-2">
 <a href="#next6" type="button" class="btn btn-success">Selanjutnya</a>
 </div>`
+    document.querySelector('#klik').addEventListener('click', (e) => {
+        document.querySelector('#materi').classList.toggle('materi')
+    })
 }
