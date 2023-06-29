@@ -63,6 +63,22 @@ function pert2Page() {
  </div>
  <button type="submit" class="btn btn-outline-primary">Submit</button>
 </div>
+<button class="divco blue mb-2" href=""><span>DATA COLLECTION ( Pengumpulan Data)</span></button>
+<p style="text-indent:1em;">
+Untuk membuktikan hipotesis diatas, Kalian dapat mengumpulkan beberapa data dan informasi sebagai berikut:
+ </p>
+ <p>
+ Untuk mencari nilai perbandingan pada  sudut 0<sup>O</sup>  dan 90<sup>O</sup>. 
+ </p>
+ <ol class="list-group list-group-numbered">
+  <li class="list-group-item">Gambar lingkaran dengan segitiga siku – siku. Beri variabel A,O,P pada setiap titik dengan masing – masing sisi yaitu x, y dan r. Seperti gambar di bawah ini. <br>
+  <img src="../lingkaran.png" class="img-fluid" alt="Responsive image">
+  
+  </li>
+  <li class="list-group-item">	Untuk sudut θ = 0<sup>O</sup> maka : y = 0 dan x = r </li>
+  <li class="list-group-item">Untuk sudut θ = 90<sup>O</sup> maka : y = r dan x = 0  </li>
+  <li class="list-group-item">Untuk mencari hasil dari sudutnya gunakan nilai perbandingan pada sinus, cosinus, dan tangen </li>
+</ol>
  <div class="w-100 d-flex justify-content-center mb-2">
  <a href="#next1" type="button" class="btn btn-success">Selanjutnya</a>
  </div>`
