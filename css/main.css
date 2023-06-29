@@ -97,7 +97,6 @@
 }
 
 .blue {
-    font-size: 1.2em;
     border-left: 2px solid #3dade9;
     border-right: 2px solid #bf2fcb;
     background-image: linear-gradient(to left, #bf2fcb, #3dade9), linear-gradient(to left, #bf2fcb, #3dade9);
