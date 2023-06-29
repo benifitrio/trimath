@@ -40,6 +40,8 @@ document.addEventListener("DOMContentLoaded", () => {
         if (page === 'next4') next4Page()
         if (page === 'next5') next5Page()
         if (page === 'pert2') pert2Page()
+        if (page === 'next6') next6Page()
+
     }
 
 

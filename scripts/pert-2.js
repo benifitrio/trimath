@@ -102,7 +102,17 @@ Untuk membuktikan hipotesis diatas, Kalian dapat mengumpulkan beberapa data dan 
  </li>
  <li class="list-group-item">Untuk mencari hasil dari sudutnya gunakan nilai perbandingan pada sinus, cosinus, dan tangen. </li>
 </ol>
+<p style="text-indent:1em;">
+Setelah kalian mendapatkan beberapa data dan informasi apakah hipotesis kalian benar atau salah:
+</p>
+<div class="mb-3">
+ <div class="form-group">
+   <b>Jawab</b>
+   <textarea class="form-control border border-warning" rows="3" placeholder="tulis jawabanmu disini...."></textarea>
+ </div>
+ <button type="submit" class="btn btn-outline-primary">Submit</button>
+</div>
  <div class="w-100 d-flex justify-content-center mb-2">
- <a href="#next1" type="button" class="btn btn-success">Selanjutnya</a>
+ <a href="#next6" type="button" class="btn btn-success">Selanjutnya</a>
  </div>`
 }
