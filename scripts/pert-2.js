@@ -53,6 +53,16 @@ function pert2Page() {
 </table>
  </div>
  <button class="divco blue mb-2 mt-3"><span>PROBLEM STATEMENT ( Identifikasi Masalah)</span></button>
+ <p style="text-indent:1em;">
+ Setelah melakukan identifikasi, didapatkan jawaban sementara yaitu: 
+ </p>
+ <div class="mb-3">
+ <div class="form-group">
+   <b>Jawab</b>
+   <textarea class="form-control border border-warning" rows="3" placeholder="tulis jawabanmu disini...."></textarea>
+ </div>
+ <button type="submit" class="btn btn-outline-primary">Submit</button>
+</div>
  <div class="w-100 d-flex justify-content-center mb-2">
  <a href="#next1" type="button" class="btn btn-success">Selanjutnya</a>
  </div>`
