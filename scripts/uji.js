@@ -6,19 +6,25 @@ function ujiPage() {
 <div class="question">
     <p>1. Berapakah hasil dari 2 + 2?</p>
     <div class="options list-group">
-        <label class="list-group-item"><input type="radio" name="q1" value="a">a) 1</label>
-        <label class="list-group-item"><input type="radio" name="q1" value="b">b) 3</label>
-        <label class="list-group-item"><input type="radio" name="q1" value="c">c) 4</label>
-        <label class="list-group-item"><input type="radio" name="q1" value="d">d) 5</label>
+        <label class="list-group-item"><input type="radio" name="q1" value="a">  1</label>
+        <label class="list-group-item"><input type="radio" name="q1" value="b"> 
+         3</label>
+        <label class="list-group-item"><input type="radio" name="q1" value="c"> 
+         4</label>
+        <label class="list-group-item"><input type="radio" name="q1" value="d"> 
+         5</label>
     </div>
 </div>
 <div class="question">
     <p>2. Berapakah hasil dari 5 x 6?</p>
     <div class="options list-group">
-        <label class="list-group-item"><input type="radio" name="q2" value="a">a) 10</label>
-        <label class="list-group-item"><input type="radio" name="q2" value="b">b) 20</label>
-        <label class="list-group-item"><input type="radio" name="q2" value="c">c) 30</label>
-        <label class="list-group-item"><input type="radio" name="q2" value="d">d) 35</label>
+        <label class="list-group-item"><input type="radio" name="q2" value="a"> 
+         10</label>
+        <label class="list-group-item"><input type="radio" name="q2" value="b"> 20</label>
+        <label class="list-group-item"><input type="radio" name="q2" value="c"> 
+         30</label>
+        <label class="list-group-item"><input type="radio" name="q2" value="d"> 
+         35</label>
     </div>
 </div>
 <!-- Tambahkan pertanyaan lain di sini -->
