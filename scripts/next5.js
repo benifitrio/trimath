@@ -73,8 +73,8 @@ Simaklah contoh soal pada video di bawah ini.
   Jika jawaban “ YA” >6 maka dapat melanjutkan kegiatan pembelajaran 
   </div>
 </ol>
-
 </div>
+
 <div class="mt-4 w-100 d-flex justify-content-between mb-2">
 <a href="#next4" type="button" class="btn btn-success ">Sebelumnya</a>
 <a href="#pert2" type="button" class="btn btn-success">Materi 2</a>

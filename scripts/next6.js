@@ -96,8 +96,9 @@ Berdasarkan hasil pengolahan data atau informasi yang telah kalian peroleh maka,
 </div>
 <button type="submit" class="btn btn-outline-primary">Submit</button>
 </div>
-<div class="w-100 d-flex justify-content-center mb-2">
-<a href="#next6" type="button" class="btn btn-success">Selanjutnya</a>
+<div class="mt-4 w-100 d-flex justify-content-between mb-2">
+ <a href="#pert2" type="button" class="btn btn-success">Sebelumnya</a>
+ <a href="#next7" type="button" class="btn btn-success">Selanjutnya</a>
 </div>`
     document.querySelector('#klik').addEventListener('click', (e) => {
         document.querySelector('#materi').classList.toggle('materi')
