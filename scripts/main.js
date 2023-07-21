@@ -42,9 +42,5 @@ document.addEventListener("DOMContentLoaded", () => {
         if (page === 'pert2') pert2Page()
         if (page === 'next6') next6Page()
         if (page === 'uji') ujiPage()
-
     }
-
-
-
 });

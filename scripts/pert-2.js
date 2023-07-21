@@ -112,7 +112,8 @@ Setelah kalian mendapatkan beberapa data dan informasi apakah hipotesis kalian b
  </div>
  <button type="submit" class="btn btn-outline-primary">Submit</button>
 </div>
- <div class="w-100 d-flex justify-content-center mb-2">
+ <div class="mt-4 w-100 d-flex justify-content-between mb-2">
+ <a href="#pert1" type="button" class="btn btn-success">Kemateri 1</a>
  <a href="#next6" type="button" class="btn btn-success">Selanjutnya</a>
  </div>`
 }
