@@ -272,7 +272,7 @@
 .home-section {
     max-width: 500px;
     width: 100%;
-    position: fixed;
+    position: relative;
     top: 0;
     left: 50%;
     transform: translateX(-50%);
