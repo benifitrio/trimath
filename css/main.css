@@ -276,7 +276,6 @@
     top: 0;
     left: 50%;
     transform: translateX(-50%);
-    background: #fff;
     padding: 10px 20px;
     border-radius: 0 0 8px 8px;
     justify-content: space-between;
