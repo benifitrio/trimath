@@ -115,10 +115,6 @@ function ujiPage() {
     <div id="restart" style="display: none;">
         <button id="restart" class="btn btn-success" onclick="restartQuiz()">Ulangi Soal</button>
     </div>
-<div class="mt-4 w-100 d-flex justify-content-between mb-2">
-<a href="#pert1" type="button" class="btn btn-success ">Sebelumnya</a>
-<a href="#next2" type="button" class="btn btn-success">Selanjutnya</a>
-</div>
 </div>`
         // Menambahkan event listener pada elemen "quiz" (elemen induk)
     document.getElementById('quiz').addEventListener('click', function(event) {
