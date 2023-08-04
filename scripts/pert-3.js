@@ -22,45 +22,22 @@ Setelah melakukan identifikasi, didapatkan jawaban sementara yaitu:
 </div>
 <button type="submit" class="btn btn-outline-primary">Submit</button>
 </div>
+
 <button class="divco blue mb-2" href=""><span>DATA COLLECTION ( Pengumpulan Data)</span></button>
 <p style="text-indent:1em;">
 Untuk membuktikan hipotesis diatas, Kalian dapat mengumpulkan beberapa data dan informasi sebagai berikut:
 </p>
-<p>
-Untuk mencari nilai perbandingan pada  sudut 0<sup>O</sup>  dan 90<sup>O</sup>. 
-</p>
 <ol class="list-group list-group-numbered">
-<li class="list-group-item">Gambar lingkaran dengan segitiga siku – siku. Beri variabel A,O,P pada setiap titik dengan masing – masing sisi yaitu x, y dan r. Seperti gambar di bawah ini. <br>
+<li class="list-group-item">
+Gambar perumpamaan piramida dengan sudut nya yaitu  θ = 30° dan panjang rusuk piramida adalah 600 m, seperti gambar di bawah ini.<br>
 <div class="w-100 d-flex justify-content-center ">
-<img src="../lingkaran.png" class="img-fluid" alt="Responsive image">
+<img src="../PIR2.png" class="img-fluid" alt="Responsive image">
 </div>
 </li>
-<li class="list-group-item">	Untuk sudut θ = 0<sup>O</sup> maka : y = 0 dan x = r </li>
-<li class="list-group-item">Untuk sudut θ = 90<sup>O</sup> maka : y = r dan x = 0  </li>
-<li class="list-group-item">Untuk mencari hasil dari sudutnya gunakan nilai perbandingan pada sinus, cosinus, dan tangen </li>
+<li class="list-group-item">Dari gambar diatas perbandingan yang digunakan apakah sinus, cosinus atau tangen?</li>
+<li class="list-group-item">Untuk mencari tinggi pada piramida gunakan perbandingan trigonometri.</li>
 </ol>
-<p>
-Untuk mencari nilai perbandingan pada  sudut 45<sup>O</sup>. 
-</p>
-<ol class="list-group list-group-numbered">
-<li class="list-group-item">	Gambar segitiga ABC siku – siku sama kaki, ∠A = ∠A = 45<sup>O</sup> dengan masing – masing sisi yaitu AC = AB = 1 dan AB = √2.  Seperti gambar di bawah ini.<br>
-<div class="w-100 d-flex justify-content-center ">
-<img src="../segitiga3.png" class="img-fluid" alt="Responsive image">
-</div>
-</li>
-<li class="list-group-item">Untuk mencari hasil dari sudutnya gunakan nilai perbandingan pada sinus, cosinus, dan tangen. </li>
-</ol>
-<p>
-Untuk mencari nilai perbandingan pada  sudut 30<sup>O</sup> dan 60<sup>O</sup>. 
-</p>
-<ol class="list-group list-group-numbered">
-<li class="list-group-item">	Gambar segitiga ABC siku – siku di C, ∠B =  60<sup>O</sup>, ∠A = 30<sup>O</sup>. Dengan masing – masing sisi yaitu AB = 2, BC = 1, dan AC = √3.   Seperti gambar di bawah ini.<br>
-<div class="w-100 d-flex justify-content-center ">
-<img src="../segitiga4.png" class="img-fluid" alt="Responsive image">
-</div>
-</li>
-<li class="list-group-item">Untuk mencari hasil dari sudutnya gunakan nilai perbandingan pada sinus, cosinus, dan tangen. </li>
-</ol>
+
 <p style="text-indent:1em;">
 Setelah kalian mendapatkan beberapa data dan informasi apakah hipotesis kalian benar atau salah:
 </p>
