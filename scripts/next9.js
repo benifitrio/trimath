@@ -5,7 +5,7 @@ function next9Page() {
     Uraian Materi
     </p>
     <p style="text-indent:1em;">
-    Banyak sekali kita jumpai berbagai hal yang terkait pemanfaatan trigonometri di kehidupan sehari – hari . Seperti menghitung tinggi bangunan/gunung/pohon/bukit/benda. Seperti gambar di bawah ini. Apabila kamu tahu jarak antara kamu dengan benda yang kamu amati dan kamu juga tahu sudut elevasi pengamatannya, maka kamu dapat menghitung tinggi dari bangunan yang kamu amati tersebut. 
+    Banyak sekali kita jumpai berbagai hal yang terkait pemanfaatan trigonometri di kehidupan sehari – hari. Seperti menghitung tinggi bangunan/gunung/pohon/bukit/benda. Seperti gambar di bawah ini. Apabila kamu tahu jarak antara kamu dengan benda yang kamu amati dan kamu juga tahu sudut elevasi pengamatannya, maka kamu dapat menghitung tinggi dari bangunan yang kamu amati tersebut. 
     </p>
     <img src="../SUDUT.png" class="img-fluid w-100" alt="Responsive image">
     <p style="text-indent:1em;" class="mb-0">
