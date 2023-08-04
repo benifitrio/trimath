@@ -4,7 +4,6 @@ function next1Page() {
  <div class="section_our_solution">
  <button class="divco blue mb-2 mt-3" href=""><span>PROBLEM STATEMENT ( Identifikasi Masalah)</span></button>
  <p>Setelah melakukan identifikasi, didapatkan jawaban sementara yaitu : </p>
- <div class="mb-3">
  <iframe
  id="JotFormIFrame-232154350994458"
  title="Jawab"
@@ -14,7 +13,7 @@ function next1Page() {
  allow="geolocation; microphone; camera"
  src="https://form.jotform.com/232154350994458"
  frameborder="0"
- style="min-width:100%;max-width:100%;height:539px;border:none;"
+ style="min-width:100%;max-width:100%;height:700px;border:none;"
  scrolling="no"
 >
 </iframe>
@@ -101,7 +100,6 @@ if (window.addEventListener) {
  window.attachEvent("onmessage", handleIFrameMessage);
 }
 </script>
-  </div>
 <button class="divco blue mb-2" href=""><span>DATA COLLECTION ( Pengumpulan Data)</span></button>
  <p>Untuk membuktikan hipotesis diatas, Kalian dapat mengumpulkan beberapa data dan informasi sebagai berikut :  </p>
  <ul>
