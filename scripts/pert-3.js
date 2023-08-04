@@ -7,9 +7,8 @@ function pert3Page() {
 </p>
 
 <button class="divco blue mb-2"><span>STIMULATION ( Pemberian Rangsangan)</span></button>
-
 <p style="text-indent:1em;">
-Kalian akan melengkapi tabel berikut dengan nilai perbandingan trigonometrinya.
+Jika andre seorang pengagum piramida ingin membuat replica piramida.  Jika besarnya sudut yang di gunakan oleh Andre yaitu θ = 30° dan panjang rusuk piramida adalah 600 m. Untuk membangun replika, Andre juga perlu mengetahui tingginya, berapakah tinggi dari replica piramida tersebut?.
 </p>
 
 <button class="divco blue mb-2 mt-3"><span>PROBLEM STATEMENT ( Identifikasi Masalah)</span></button>
