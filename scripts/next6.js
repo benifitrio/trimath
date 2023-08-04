@@ -85,7 +85,7 @@ Berdasarkan hasil pengolahan data atau informasi yang telah kalian peroleh maka,
 </div>
 <hr>
 <div id="materi" class="materi">
-<img src="../buktikan2.png" class="img-fluid w-100" alt="Responsive image"> 
+<img src="../images/buktikan2.png" class="img-fluid w-100" alt="Responsive image"> 
 </div>
 <button class="divco blue mb-2" href=""><span>GENERALIZATION (Menarik Kesimpulan)</span></button>
 <p style="text-indent:1em;" class="mb-0">Dari permasalahan di atas, dapat disimpulkan bahwa:</p>

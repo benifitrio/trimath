@@ -7,14 +7,14 @@ function next9Page() {
     <p style="text-indent:1em;">
     Banyak sekali kita jumpai berbagai hal yang terkait pemanfaatan trigonometri di kehidupan sehari – hari. Seperti menghitung tinggi bangunan/gunung/pohon/bukit/benda. Seperti gambar di bawah ini. Apabila kamu tahu jarak antara kamu dengan benda yang kamu amati dan kamu juga tahu sudut elevasi pengamatannya, maka kamu dapat menghitung tinggi dari bangunan yang kamu amati tersebut. 
     </p>
-    <img src="../SUDUT.png" class="img-fluid w-100" alt="Responsive image">
+    <img src="../images/SUDUT.png" class="img-fluid w-100" alt="Responsive image">
     <p style="text-indent:1em;" class="mb-0">
     Dalam kehidupan sehari-hari, kita sering mendengar istilah “sudut elevasi”. <b style="color:red;">Sudut elevasi</b> adalah sudut yang dibentuk oleh arah horizontal dengan arah pandangan mata pengamat ke arah atas.
     </p>
     <p style="text-indent:1em;" class="mb-0">
     Selain sudut elevasi kita juga sering mendengar istilah “Sudut depresi”. <b style="color:red;">Sudut depresi</b> adalah sudut yang dibentuk oleh arah horizontal dengan arah pandangan mata pengamat ke arah bawah. Seperti gambar di bawah ini.</p>
     <div class="w-100 d-flex justify-content-center flex-column">
-    <img src="../sudut2.png" class="img-fluid" alt="Responsive image">
+    <img src="../images/sudut2.png" class="img-fluid" alt="Responsive image">
     <p class="text-muted">Sumber: https://images.app.goo.gl/NDb3gfmLxwL</p>
     </div>
     <p style="text-indent:1em;" class="mb-0">
@@ -22,7 +22,7 @@ function next9Page() {
     </p>
     Untuk lebih memahami perhatikan contoh berikut:<br>
     <div class="w-100 d-flex justify-content-center ">
-    <img src="../sudut3.png" class="img-fluid" alt="Responsive image">
+    <img src="../images/sudut3.png" class="img-fluid" alt="Responsive image">
     </div>
     Sebuah pohon berjarak 100 meter dari seorang pengamat yang tingginya 170 cm. Apabila pucuk pohon tersebut dilihat pengamat dengan sudut elevasi 600, tentukanlah tinggi pohon tersebut.
     <ul>

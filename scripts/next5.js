@@ -3,7 +3,7 @@ function next5Page() {
     content.innerHTML = `
 <div class="section_our_solution">
 <div class="d-flex justify-content-around">
-<img src="../TUSI.png" class="img-fluid w-50" alt="Responsive image"> 
+<img src="../images/TUSI.png" class="img-fluid w-50" alt="Responsive image"> 
 <p style="text-indent:1em;" class="mb-0 mt-2">Studi tentang trigonometri sebagai cabang matematika, lepas dari astronomi pertama kali diberikan oleh Nashiruddin al-Tusi (1201-1274), lewat bukunya Treatise on the quadrilateral. Menurut OConners dan Robertson, mungkin ia pula yang pertama memperkenalkan Aturan Sinus (di bidang  datar). 
 </p>
 </div>
@@ -12,7 +12,7 @@ Di Arab dan kebanyakan daerah muslim, trigonometri berkembang dengan pesat tidak
 </p>
 <b>Perhatikan gambar rumah Adat suku Dayak berikut!</b>
 <div class="w-100 d-flex align-items-center flex-column">
-<img src="../rumahadat.png" class="img-fluid w-50" alt="Responsive image"> 
+<img src="../images/rumahadat.png" class="img-fluid w-50" alt="Responsive image"> 
 <small class="text-muted">Gambar Rumah Adat Suku Dayak</small>
 <small class="text-muted">Sumber: www.jualsewarumah.com</small>
 </div>
@@ -21,14 +21,14 @@ Tidak hanya itu Jika Kalian perhatikan lingkungan sekitar kita, banyak benda ata
 </p>
 <b>Perhatikan gambar!</b>
 <div class="w-100 d-flex justify-content-center ">
-<img src="../segitiga2.png" class="img-fluid w-50" alt="Responsive image">
+<img src="../images/segitiga2.png" class="img-fluid w-50" alt="Responsive image">
 </div>
 <p style="text-indent:1em;" class="mb-0">
 Segitiga ABC merupakan segitiga siku-siku dengan titik sudut siku-siku di C. Panjang sisi di hadapan sudut A adalah a satuan, panjang sisi di hadapan sudut B adalah b satuan, dan panjang sisi di hadapan sudut C adalah c satuan. Pada gambar, diketahui ∠BAC = 𝛼. Sisi BC = a disebut sisi di depan sudut 𝛼, sisi AC = b disebut sisi di samping sudut 𝛼, dan sisi AB = c disebut sisi miring (hipotenusa). 
 Dari ketiga sisi segitiga siku-siku ABC tersebut, dapat ditentukan perbandingan-perbandingan trigonometri sebagai berikut.
 </p>
 <div class="w-100 d-flex justify-content-center ">
-<img src="../rumus1.png" class="img-fluid w-50" alt="Responsive image">
+<img src="../images/rumus1.png" class="img-fluid w-50" alt="Responsive image">
 </div>
 <p style="text-indent:1em;" class="mb-0">
 Simaklah contoh soal pada video di bawah ini.

@@ -30,7 +30,7 @@ Rumus Phytagoras: <br>
 </div>
 </div>
 </div>
-<img src="../siku-siku.png" class="img-fluid w-50" alt="Responsive image"> 
+<img src="../images/siku-siku.png" class="img-fluid w-50" alt="Responsive image"> 
 </div>
 </div>
 <button class="divco blue mb-2" href=""><span>GENERALIZATION (Menarik Kesimpulan)</span></button>

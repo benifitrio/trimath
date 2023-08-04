@@ -2,7 +2,7 @@ function pert3Page() {
     judul.innerHTML = `<span class="h6">Pemanfaatan Perbandingan Trigonometri</span>`
     content.innerHTML = `
 <div class="section_our_solution">
-<img src="../piramida.png" class="img-fluid" alt="Responsive image">
+<img src="../images/piramida.png" class="img-fluid" alt="Responsive image">
 <p style="text-indent:1em;">Piramida adalah bangunan menakjubkan yang dibangun sekitar 4.500 tahun yang lalu. Bayangkan banyaknya pekerja dan persiapan yang diperlukan untuk membuat bangunan seperti ini, tanpa tersedianya alat canggih seperti zaman sekarang.
 </p>
 
@@ -31,7 +31,7 @@ Untuk membuktikan hipotesis diatas, Kalian dapat mengumpulkan beberapa data dan 
 <li class="list-group-item">
 Gambar perumpamaan piramida dengan sudut nya yaitu  θ = 30° dan panjang rusuk piramida adalah 600 m, seperti gambar di bawah ini.<br>
 <div class="w-100 d-flex justify-content-center ">
-<img src="../PIR2.png" class="img-fluid" alt="Responsive image">
+<img src="../images/PIR2.png" class="img-fluid" alt="Responsive image">
 </div>
 </li>
 <li class="list-group-item">Dari gambar diatas perbandingan yang digunakan apakah sinus, cosinus atau tangen?</li>

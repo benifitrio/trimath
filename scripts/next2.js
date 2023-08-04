@@ -8,19 +8,19 @@ function next2Page() {
 <li>
 <b>Sinus</b><br>
 Nilai Perbandingan ini mempunyai nama khusus yaitu Sinus (disingkat sin). Sin suatu sudut yang dapat ditentukan dengan membagi panjang <b class="text-danger">sisi depan</b> dan <b class="text-danger">sisi miring segitiga</b>. <br>
-<img src="../sinus.png" class="img-fluid w-75" alt="Responsive image"> 
+<img src="../images/sinus.png" class="img-fluid w-75" alt="sinus"> 
 </li>
 <li>
 <b>Cosinus</b><br>
 Nilai Perbandingan ini mempunyai nama khusus yaitu Cosinus (disingkat Cos). Cos suatu sudut yang dapat ditentukan dengan membagi panjang <b class="text-danger">sisi samping</b>   dan <b class="text-danger">sisi miring segitiga</b> .  <br>
-<img src="../cosinus.png" class="img-fluid w-75" alt="Responsive image"> 
+<img src="../images/cosinus.png" class="img-fluid w-75" alt="Responsive image"> 
 </li>
 <li>
 <b>Tangen</b><br>
 Nilai Perbandingan ini mempunyai nama khusus yaitu Tangen 
 (disingkat tan). Tan suatu sudut yang dapat ditentukan dengan membagi panjang <b class="text-danger">sisi depan</b>  dan <b class="text-danger">sisi samping segitiga</b>. 
   <br>
-<img src="../tangen.png" class="img-fluid w-75" alt="Responsive image"> 
+<img src="../images/tangen.png" class="img-fluid w-75" alt="Responsive image"> 
 </li>
 </ol>
 </ul>
@@ -28,7 +28,5 @@ Nilai Perbandingan ini mempunyai nama khusus yaitu Tangen
 <a href="#next1" type="button" class="btn btn-success ">Sebelumnya</a>
 <a href="#next3" type="button" class="btn btn-success">Selanjutnya</a>
 </div>
-</div>
-
-`
+</div>`
 }

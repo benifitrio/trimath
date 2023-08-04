@@ -9,9 +9,9 @@ Uraian Materi
 </p>
 <ul>
   <li>Tabel nilai perbandingan trigonometri untuk sudut-sudut istimewa</li>
-  <img src="../buktikan2.png" class="img-fluid w-100" alt="Responsive image">
+  <img src="../images/buktikan2.png" class="img-fluid w-100" alt="Responsive image">
   <li>Tabel Kuadran pada fungsi trigonometri</li>
-  <img src="../fungsitri.png" class="img-fluid w-100" alt="Responsive image">
+  <img src="../images/fungsitri.png" class="img-fluid w-100" alt="Responsive image">
 </ul>
 <p style="font-weight:bold; width: 50%" class="border-bottom">
 Contoh
