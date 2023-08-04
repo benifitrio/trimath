@@ -8,16 +8,20 @@ function next9Page() {
     Banyak sekali kita jumpai berbagai hal yang terkait pemanfaatan trigonometri di kehidupan sehari – hari . Seperti menghitung tinggi bangunan/gunung/pohon/bukit/benda. Seperti gambar di bawah ini. Apabila kamu tahu jarak antara kamu dengan benda yang kamu amati dan kamu juga tahu sudut elevasi pengamatannya, maka kamu dapat menghitung tinggi dari bangunan yang kamu amati tersebut. 
     </p>
     <img src="../SUDUT.png" class="img-fluid w-100" alt="Responsive image">
-    <p style="font-weight:bold; width: 50%" class="border-bottom">
-    Contoh
-    </p>
-    <ol>
-      <li>sin 30<sup>O</sup> + cos  45<sup>O</sup> = <sup>1</sup>&frasl;<sub>2</sub> + <sup>1</sup>&frasl;<sub>2</sub>√2 = <sup> (1 + √2)</sup>&frasl;<sub>2</sub></li>
-      <li>sin 45<sup>O</sup> tan 60<sup>O</sup> + cos 45<sup>O</sup> cot 60<sup>O</sup> = <sup>1</sup>&frasl;<sub>2</sub>√2 . √3 + <sup>1</sup>&frasl;<sub>2</sub>√2 . <sup>1</sup>&frasl;<sub>3</sub>√3 = <sup>1</sup>&frasl;<sub>2</sub>√6 + <sup>1</sup>&frasl;<sub>6</sub>√6 = <sup>2</sup>&frasl;<sub>3</sub>√6</li>
-    </ol>
     <p style="text-indent:1em;" class="mb-0">
-    Untuk lebih memahami materi. Simaklah video di bawah ini.
+    Dalam kehidupan sehari-hari, kita sering mendengar istilah “sudut elevasi”. <b style="color:red;">Sudut elevasi</b> adalah sudut yang dibentuk oleh arah horizontal dengan arah pandangan mata pengamat ke arah atas.
     </p>
+    <p style="text-indent:1em;" class="mb-0">
+    Selain sudut elevasi kita juga sering mendengar istilah “Sudut depresi”. <b style="color:red;">Sudut depresi</b> adalah sudut yang dibentuk oleh arah horizontal dengan arah pandangan mata pengamat ke arah bawah. Seperti gambar di bawah ini.</p>
+    <div class="w-100 d-flex justify-content-center flex-column">
+    <img src="../sudut2.png" class="img-fluid" alt="Responsive image">
+    <p class="text-muted">Sumber: https://images.app.goo.gl/NDb3gfmLxwL</p>
+    </div>
+    <p style="text-indent:1em;" class="mb-0">
+    Banyak sekali kita jumpai berbagai hal yang terkait dengan trigonometri. Trigonometri dapat digunakan untuk memecahkan masalah kontekstual yang berhubungan dengan sudut pengamatan, tinggi suatu benda , atau untuk menentukan jarak ke suatu obyek.
+    </p>
+
+
     <div class="ratio ratio-16x9">
       <iframe src="https://www.youtube.com/embed/W-eaQQl938c" title="YouTube video" allowfullscreen></iframe>
     </div>
