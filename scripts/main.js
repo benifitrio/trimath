@@ -44,6 +44,7 @@ document.addEventListener("DOMContentLoaded", () => {
         if (page === 'next7') next7Page()
         if (page === 'pert3') pert3Page()
         if (page === 'next8') next8Page()
+        if (page === 'next9') next9Page()
         if (page === 'uji') ujiPage()
     }
 });
