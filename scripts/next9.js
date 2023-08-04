@@ -20,8 +20,38 @@ function next9Page() {
     <p style="text-indent:1em;" class="mb-0">
     Banyak sekali kita jumpai berbagai hal yang terkait dengan trigonometri. Trigonometri dapat digunakan untuk memecahkan masalah kontekstual yang berhubungan dengan sudut pengamatan, tinggi suatu benda , atau untuk menentukan jarak ke suatu obyek.
     </p>
-
-
+    Untuk lebih memahami perhatikan contoh berikut:<br>
+    <div class="w-100 d-flex justify-content-center ">
+    <img src="../sudut3.png" class="img-fluid" alt="Responsive image">
+    </div>
+    Sebuah pohon berjarak 100 meter dari seorang pengamat yang tingginya 170 cm. Apabila pucuk pohon tersebut dilihat pengamat dengan sudut elevasi 600, tentukanlah tinggi pohon tersebut.
+    <ul>
+    <li>Dari soal diketahui bahwa:
+    <p class="mb-0">Jarak pengamat ke pohon = 100 m</p>
+    <p class="mb-0">Tinggi pengamat = 170 cm =  1,7 m</p>
+    <p class="mb-0">Sudut elevasi = 45°</p>
+    <p class="mb-0">yang dicari tinggi pohon.</p>
+    </li>
+    <li>Memilih pendekatan atau strategi pemecahan
+    <p class="mb-0">Konsep yang relevan dari soal di atas adalah perbandingan trigonometri.</p>
+    <p class="mb-0">Misalkan bahwa t = tinggi pohon - tinggi pengamat</p>
+    <p class="mb-0">x = jarak pengamat ke pohon</p>
+    <p class="mb-0">tan 45° = <sup>t</sup>&frasl;<sub>x</sub></p>
+    </li>
+    <li>Menyelesaikan model
+    <p class="mb-0">Dengan menggunakan operasi hitung diperoleh:</p>
+    <p class="mb-0">tan 45° = <sup>t</sup>&frasl;<sub>x</sub></p>
+    <p class="mb-0">t = x tan 45° = 100 . 1 = 100</p>
+    </li>
+    <li>Menafsirkan solusi
+    <p class="mb-0">tinggi pohon = t + tinggi pengamat</p>
+    <p class="mb-0"> = 100 m + 1,7 m = 101,7 m.</p>
+    <p class="mb-0">Jadi, tinggi pohonnya adalah 101,7 meter.</p>
+    </li>
+    </ul>
+    <p style="text-indent:1em;" class="mb-0">
+    Untuk lebih memahami materi. Simaklah video di bawah ini.
+    </p>
     <div class="ratio ratio-16x9">
       <iframe src="https://www.youtube.com/embed/W-eaQQl938c" title="YouTube video" allowfullscreen></iframe>
     </div>
