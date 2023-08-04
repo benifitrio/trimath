@@ -53,7 +53,7 @@ function next9Page() {
     Untuk lebih memahami materi. Simaklah video di bawah ini.
     </p>
     <div class="ratio ratio-16x9">
-      <iframe src="https://www.youtube.com/embed/W-eaQQl938c" title="YouTube video" allowfullscreen></iframe>
+    <iframe  src="https://www.youtube.com/embed/vIOQmWZlgzA" title="CONTOH SOAL APLIKASI TRIGONOMETRI BAGIAN 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     </div>
     <div class="d-grid">
     <button style="background-image: linear-gradient(to right, #02AAB0 0%, #00CDAC  51%, #02AAB0  100%); color: #fff; font-size : 1.3em:" class="fw-bold btn mt-2 h4">Penilaian Diri</button>
