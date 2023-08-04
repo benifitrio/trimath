@@ -5,14 +5,9 @@ function next9Page() {
     Uraian Materi
     </p>
     <p style="text-indent:1em;">
-      Sudut istimewa adalah sudut yang perbandingan trigonometrinya yaitu 0<sup>O</sup> , 30<sup>O</sup>, 45<sup>O</sup>, 60<sup>O</sup>, dan 90<sup>O</sup>. 
+    Banyak sekali kita jumpai berbagai hal yang terkait pemanfaatan trigonometri di kehidupan sehari – hari . Seperti menghitung tinggi bangunan/gunung/pohon/bukit/benda. Seperti gambar di bawah ini. Apabila kamu tahu jarak antara kamu dengan benda yang kamu amati dan kamu juga tahu sudut elevasi pengamatannya, maka kamu dapat menghitung tinggi dari bangunan yang kamu amati tersebut. 
     </p>
-    <ul>
-      <li>Tabel nilai perbandingan trigonometri untuk sudut-sudut istimewa</li>
-      <img src="../buktikan2.png" class="img-fluid w-100" alt="Responsive image">
-      <li>Tabel Kuadran pada fungsi trigonometri</li>
-      <img src="../fungsitri.png" class="img-fluid w-100" alt="Responsive image">
-    </ul>
+    <img src="../SUDUT.png" class="img-fluid w-100" alt="Responsive image">
     <p style="font-weight:bold; width: 50%" class="border-bottom">
     Contoh
     </p>
