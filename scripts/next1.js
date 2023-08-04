@@ -13,8 +13,8 @@ function next1Page() {
  allow="geolocation; microphone; camera"
  src="https://form.jotform.com/232154350994458"
  frameborder="0"
- style="min-width:100%;max-width:100%;height:700px;border:none;"
- scrolling="no"
+ style="min-width:100%;max-width:100%;height:400px;border:none;"
+ scrolling="yes"
 >
 </iframe>
 <script type="text/javascript">
