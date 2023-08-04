@@ -66,7 +66,7 @@ Untuk lebih memahami materi. Simaklah video di bawah ini.
 </div>
 
 <div class="mt-4 w-100 d-flex justify-content-between mb-2">
-  <a href="#pert6" type="button" class="btn btn-success">Sebelumnya</a>
+  <a href="#next6" type="button" class="btn btn-success">Sebelumnya</a>
   <a href="#pert3" type="button" class="btn btn-success">Kemateri 3</a>
 </div>`
 }

@@ -2,9 +2,12 @@ function pert3Page() {
     judul.innerHTML = `<span class="h6">Pemanfaatan Perbandingan Trigonometri</span>`
     content.innerHTML = `
 <div class="section_our_solution">
-<img src="../trigonometri.png" class="img-fluid" alt="Responsive image">
-<p style="text-indent:1em;">Pada sub pertama, kalian telah menggunakan perbandingan trigonometri untuk mengukur tinggi objek yang besar tanpa harus mengukurnya secara langsung. pada bab kali ini kalian akan menentukan sudut istimewa dalam perbandingan trigonometri. Sudut istimewa dalam perbandingan trigonometri adalah sudut – sudut yang nilai perbandingannya dapat ditentukan secara eksak. Sudut istimewa akan sangat berguna dan banyak digunakan pada pembelajaran fisika. Sudut istimewa terhubung dengan beberapa kuadran.</p>
+<img src="../piramida.png" class="img-fluid" alt="Responsive image">
+<p style="text-indent:1em;">Piramida adalah bangunan menakjubkan yang dibangun sekitar 4.500 tahun yang lalu. Bayangkan banyaknya pekerja dan persiapan yang diperlukan untuk membuat bangunan seperti ini, tanpa tersedianya alat canggih seperti zaman sekarang.
+</p>
+
 <button class="divco blue mb-2"><span>STIMULATION ( Pemberian Rangsangan)</span></button>
+
 <p style="text-indent:1em;">
 Kalian akan melengkapi tabel berikut dengan nilai perbandingan trigonometrinya.
 </p>
