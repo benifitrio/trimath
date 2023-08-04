@@ -7,7 +7,7 @@ function ujiPage() {
                 <div class="soal">
                     <p>Soal untuk no 1-3</p>
                     <p>Perhatikan gambar di bawah ini!</p>
-                    <img src="../soal1.png" class="img-fluid w-50" alt="Responsive image"> 
+                    <img src="../images/soal1.png" class="img-fluid w-50" alt="Responsive image"> 
                     <p>1. Sisi berwarna merah adalah sisi?</p>
                 </div>
             <div class="options list-group">
@@ -39,7 +39,7 @@ function ujiPage() {
     <div class="soal">
         <p>Soal untuk no 4-6</p>
         <p>Perhatikan gambar di bawah ini!</p>
-        <img src="../soal2.png" class="img-fluid w-50" alt="Responsive image"> 
+        <img src="../images/soal2.png" class="img-fluid w-50" alt="Responsive image"> 
         <p>4. Sisi berwarna merah adalah sisi?</p>
     </div>
 <div class="options list-group">
@@ -69,7 +69,7 @@ function ujiPage() {
 </div>
 <div class="question">
 <p>7. Perhatikan gambar di bawah ini!</p>
-<img src="../soal3.png" class="img-fluid w-50" alt="Responsive image">
+<img src="../images/soal3.png" class="img-fluid w-50" alt="Responsive image">
 <p>Diketahui segitiga ABC siku-siku di C dengan panjang sisi a = √5 dan panjang sisi  b = 2. Jika &ang;BAC = &alpha;, tentukanlah nilai perbandingan trigonometri untuk sudut &alpha;?</p> 
 <div class="options list-group">
 <label class="list-group-item"><input type="radio" name="q7" value="a" > sin &alpha; = <sup>1</sup>&frasl;<sub>3</sub>,  cos &alpha; = <sup>2</sup>&frasl;<sub>3</sub> √5, dan tan &alpha; = <sup>1</sup>&frasl;<sub>2</sub> √5</label>
