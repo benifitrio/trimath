@@ -135,11 +135,6 @@
 }
 
 .sidebar.close {
-    width: 78px;
-    left: -222px
-}
-
-.sidebar.close {
     width: calc(55px + 20px);
 }
 
@@ -275,6 +270,8 @@
     width: 100%;
     position: relative;
     top: 0;
+    left: 50%;
+    transform: translateX(-50%);
     padding: 10px 20px;
     border-radius: 0 0 8px 8px;
     justify-content: space-between;
@@ -293,11 +290,22 @@
     background: #e4e9f7;
     display: flex;
     align-items: center;
+    justify-content: center;
     box-shadow: 0px 2px 0px 0px gray;
     border-radius: 0 0 0.3em 0.3em;
 }
 
 @media screen and (max-width: 800px) {
+    .home-section .home-content {
+        justify-content: left;
+    }
+    .sidebar {
+        left: 0;
+        z-index: 1000;
+    }
+    .sidebar.close {
+        left: -100%;
+    }
     #sidebar-close {
         display: block;
     }
