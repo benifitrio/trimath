@@ -360,7 +360,8 @@
 }
 
 .content {
-    font-size: 1em;
+    font-size: 13px;
+    font-family: 'Poppins', sans-serif;
 }
 
 .home-section .home-content .bx-menu,
