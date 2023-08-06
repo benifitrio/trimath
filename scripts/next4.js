@@ -6,21 +6,22 @@ function next4Page() {
 <p style="text-indent:1em;" class="mb-0">Berdasarkan hasil pengolahan data atau informasi yang telah kalian peroleh maka, buktikan hasil yang telah kalian peroleh:</p>
 <div class="form-group">
  
+
 <iframe
-id="JotFormIFrame-232154350994458"
+id="JotFormIFrame-232170612128446"
 title="Jawab"
 onload="window.parent.scrollTo(0,0)"
 allowtransparency="true"
 allowfullscreen="true"
 allow="geolocation; microphone; camera"
-src="https://form.jotform.com/232154350994458"
+src="https://form.jotform.com/232170612128446"
 frameborder="0"
 style="min-width:100%;max-width:100%;height:539px;border:none;"
 scrolling="yes"
 >
 </iframe>
 <script type="text/javascript">
-var ifr = document.getElementById("JotFormIFrame-232154350994458");
+var ifr = document.getElementById("JotFormIFrame-232170612128446");
 if (ifr) {
 var src = ifr.src;
 var iframeParams = [];
@@ -102,6 +103,7 @@ window.addEventListener("message", handleIFrameMessage, false);
 window.attachEvent("onmessage", handleIFrameMessage);
 }
 </script>
+
 <button id="klik" class="mt-3 btn btn-outline-primary">Klik buktikan!</button>
 </div>
 <hr>
@@ -129,21 +131,22 @@ Rumus Phytagoras: <br>
 <button class="divco blue mb-2" href=""><span>GENERALIZATION (Menarik Kesimpulan)</span></button>
 <p style="text-indent:1em;" class="mb-0">Dari permasalahan di atas, dapat disimpulkan bahwa:</p>
 
+
 <iframe
-id="JotFormIFrame-232154350994458"
+id="JotFormIFrame-232170612128446"
 title="Jawab"
 onload="window.parent.scrollTo(0,0)"
 allowtransparency="true"
 allowfullscreen="true"
 allow="geolocation; microphone; camera"
-src="https://form.jotform.com/232154350994458"
+src="https://form.jotform.com/232170612128446"
 frameborder="0"
 style="min-width:100%;max-width:100%;height:539px;border:none;"
 scrolling="yes"
 >
 </iframe>
 <script type="text/javascript">
-var ifr = document.getElementById("JotFormIFrame-232154350994458");
+var ifr = document.getElementById("JotFormIFrame-232170612128446");
 if (ifr) {
 var src = ifr.src;
 var iframeParams = [];
@@ -225,6 +228,7 @@ window.addEventListener("message", handleIFrameMessage, false);
 window.attachEvent("onmessage", handleIFrameMessage);
 }
 </script>
+
 <div class="mt-4 w-100 d-flex justify-content-between mb-2">
 <a href="#next3" type="button" class="btn btn-success ">Sebelumnya</a>
 <a href="#next5" type="button" class="btn btn-success">Selanjutnya</a>

@@ -16,21 +16,22 @@ Jika andre seorang pengagum piramida ingin membuat replica piramida.  Jika besar
 Setelah melakukan identifikasi, didapatkan jawaban sementara yaitu: 
 </p>
 
+
 <iframe
-id="JotFormIFrame-232154350994458"
+id="JotFormIFrame-232170612128446"
 title="Jawab"
 onload="window.parent.scrollTo(0,0)"
 allowtransparency="true"
 allowfullscreen="true"
 allow="geolocation; microphone; camera"
-src="https://form.jotform.com/232154350994458"
+src="https://form.jotform.com/232170612128446"
 frameborder="0"
 style="min-width:100%;max-width:100%;height:539px;border:none;"
 scrolling="yes"
 >
 </iframe>
 <script type="text/javascript">
-var ifr = document.getElementById("JotFormIFrame-232154350994458");
+var ifr = document.getElementById("JotFormIFrame-232170612128446");
 if (ifr) {
 var src = ifr.src;
 var iframeParams = [];
@@ -132,21 +133,22 @@ Gambar perumpamaan piramida dengan sudut nya yaitu  θ = 30° dan panjang rusuk 
 Setelah kalian mendapatkan beberapa data dan informasi apakah hipotesis kalian benar atau salah:
 </p>
 
+
 <iframe
-id="JotFormIFrame-232154350994458"
+id="JotFormIFrame-232170612128446"
 title="Jawab"
 onload="window.parent.scrollTo(0,0)"
 allowtransparency="true"
 allowfullscreen="true"
 allow="geolocation; microphone; camera"
-src="https://form.jotform.com/232154350994458"
+src="https://form.jotform.com/232170612128446"
 frameborder="0"
 style="min-width:100%;max-width:100%;height:539px;border:none;"
 scrolling="yes"
 >
 </iframe>
 <script type="text/javascript">
-var ifr = document.getElementById("JotFormIFrame-232154350994458");
+var ifr = document.getElementById("JotFormIFrame-232170612128446");
 if (ifr) {
 var src = ifr.src;
 var iframeParams = [];
@@ -228,6 +230,7 @@ window.addEventListener("message", handleIFrameMessage, false);
 window.attachEvent("onmessage", handleIFrameMessage);
 }
 </script>
+
 <div class="mt-4 w-100 d-flex justify-content-between mb-2">
 <a href="#pert2" type="button" class="btn btn-success">Kemateri 2</a>
 <a href="#next8" type="button" class="btn btn-success">Selanjutnya</a>

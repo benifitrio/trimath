@@ -6,20 +6,20 @@ function next3Page() {
 <div class="mb-3">
 
 <iframe
-id="JotFormIFrame-232154350994458"
+id="JotFormIFrame-232170612128446"
 title="Jawab"
 onload="window.parent.scrollTo(0,0)"
 allowtransparency="true"
 allowfullscreen="true"
 allow="geolocation; microphone; camera"
-src="https://form.jotform.com/232154350994458"
+src="https://form.jotform.com/232170612128446"
 frameborder="0"
 style="min-width:100%;max-width:100%;height:539px;border:none;"
 scrolling="yes"
 >
 </iframe>
 <script type="text/javascript">
-var ifr = document.getElementById("JotFormIFrame-232154350994458");
+var ifr = document.getElementById("JotFormIFrame-232170612128446");
 if (ifr) {
 var src = ifr.src;
 var iframeParams = [];
@@ -108,21 +108,22 @@ permasalahan dapat diselesaikan dengan langkah – langkah berikut: </p>
 <ul>
 <li>Langkah 1, menentukan tinggi pohon dengan menggunakan teorema phytagoras!</li>
 
+
 <iframe
-id="JotFormIFrame-232154350994458"
+id="JotFormIFrame-232170612128446"
 title="Jawab"
 onload="window.parent.scrollTo(0,0)"
 allowtransparency="true"
 allowfullscreen="true"
 allow="geolocation; microphone; camera"
-src="https://form.jotform.com/232154350994458"
+src="https://form.jotform.com/232170612128446"
 frameborder="0"
 style="min-width:100%;max-width:100%;height:539px;border:none;"
 scrolling="yes"
 >
 </iframe>
 <script type="text/javascript">
-var ifr = document.getElementById("JotFormIFrame-232154350994458");
+var ifr = document.getElementById("JotFormIFrame-232170612128446");
 if (ifr) {
 var src = ifr.src;
 var iframeParams = [];
@@ -204,23 +205,25 @@ window.addEventListener("message", handleIFrameMessage, false);
 window.attachEvent("onmessage", handleIFrameMessage);
 }
 </script>
+
 <li>Langkah 2, menentukan nilai perbandingan pada sudut θ menggunakan rumus perbandingan trigonometri (sinus, cosinus, tangen)!</li>
 
+
 <iframe
-id="JotFormIFrame-232154350994458"
+id="JotFormIFrame-232170612128446"
 title="Jawab"
 onload="window.parent.scrollTo(0,0)"
 allowtransparency="true"
 allowfullscreen="true"
 allow="geolocation; microphone; camera"
-src="https://form.jotform.com/232154350994458"
+src="https://form.jotform.com/232170612128446"
 frameborder="0"
 style="min-width:100%;max-width:100%;height:539px;border:none;"
 scrolling="yes"
 >
 </iframe>
 <script type="text/javascript">
-var ifr = document.getElementById("JotFormIFrame-232154350994458");
+var ifr = document.getElementById("JotFormIFrame-232170612128446");
 if (ifr) {
 var src = ifr.src;
 var iframeParams = [];
