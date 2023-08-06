@@ -50,7 +50,6 @@ sidebar.addEventListener("mouseenter", showSidebar);
 sidebarOpenBtn.addEventListener("click", toggleSidebar);
 sidebarCloseBtn.addEventListener("click", toggleSidebar);
 document.addEventListener("DOMContentLoaded", () => {
-
     // Load page content
     window.addEventListener('hashchange', loadPage)
     let page = window.location.hash.substr(1);
