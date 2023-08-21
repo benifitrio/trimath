@@ -106,48 +106,7 @@ if (window.addEventListener) {
  window.attachEvent("onmessage", handleIFrameMessage);
 }
 </script>
-//  <table class="table table-success table-striped">
-//  <caption>Ket: ∞ tak terdefinisi</caption>
-//  <thead>
-//     <tr>
-//       <th scope="col" rowspan="2" style="text-align: center; vertical-align :middle">Fungsi Trigonometri</th>
-//       <th scope="col" colspan="5" style="text-align: center ">Sudut</th>
-//     </tr>
-//     <tr>
-//       <th scope="col">0</th>
-//       <th scope="col">30</th>
-//       <th scope="col">45</th>
-//       <th scope="col">60</th>
-//       <th scope="col">90</th>
-//   </tr>
-//   </thead>
-//   <tbody>
-//     <tr>
-//       <th scope="row">Sinus</th>
-//       <td>...</td>
-//       <td>...</td>
-//       <td>...</td>
-//       <td>...</td>
-//       <td>...</td>
-//     </tr>
-//     <tr>
-//       <th scope="row">Cosinus</th>
-//       <td>...</td>
-//       <td>...</td>
-//       <td>...</td>
-//       <td>...</td>
-//       <td>...</td>
-//     </tr>
-//     <tr>
-//       <th scope="row">Tangen</th>
-//       <td>...</td>
-//       <td>...</td>
-//       <td>...</td>
-//       <td>...</td>
-//       <td>...</td>
-//     </tr>
-//   </tbody>
-// </table>
+
  </div>
  <button class="divco blue mb-2 mt-3"><span>PROBLEM STATEMENT ( Identifikasi Masalah)</span></button>
  <p style="text-indent:1em;">
@@ -394,5 +353,6 @@ window.attachEvent("onmessage", handleIFrameMessage);
  <div class="mt-4 w-100 d-flex justify-content-between mb-2">
  <a href="#pert1" type="button" class="btn btn-success">Kemateri 1</a>
  <a href="#next6" type="button" class="btn btn-success">Selanjutnya</a>
- </div>`
+ </div>
+ `
 }
