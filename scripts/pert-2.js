@@ -112,8 +112,6 @@ if (window.addEventListener) {
  <p style="text-indent:1em;">
  Setelah melakukan identifikasi, didapatkan jawaban sementara yaitu: 
  </p>
- 
-
  <iframe
  id="JotFormIFrame-232170612128446"
  title="Jawab"
@@ -253,7 +251,6 @@ Untuk membuktikan hipotesis diatas, Kalian dapat mengumpulkan beberapa data dan 
 <p style="text-indent:1em;">
 Setelah kalian mendapatkan beberapa data dan informasi apakah hipotesis kalian benar atau salah:
 </p>
-
 <iframe
 id="JotFormIFrame-232170612128446"
 title="Jawab"
