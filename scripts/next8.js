@@ -1,434 +1,99 @@
 function next8Page() {
     judul.innerHTML = `<span class="h6">Pemanfaatan Perbandingan Trigonometri</span>`
     content.innerHTML = `
-    <button class="divco blue mb-2"><span>DATA PROCESSING (Pengolahan Data)</span></button>
-    <p style="text-indent:1em;">
-    Berdasarkan informasi yang didapat pada pengumpulan data maka, 
-    permasalahan dapat diselesaikan dengan langkah – langkah berikut:
+    <p style="font-weight:bold; width: 50%" class="border-bottom">
+    Uraian Materi
     </p>
-    <ul>
-    <li>Langkah 1, Perbandingan trigonometri yang digunakakan yaitu?</li>
-    
-
-    <iframe
-    id="JotFormIFrame-232170612128446"
-    title="Jawab"
-    onload="window.parent.scrollTo(0,0)"
-    allowtransparency="true"
-    allowfullscreen="true"
-    allow="geolocation; microphone; camera"
-    src="https://form.jotform.com/232170612128446"
-    frameborder="0"
-    style="min-width:100%;max-width:100%;height:539px;border:none;"
-    scrolling="yes"
-   >
-   </iframe>
-   <script type="text/javascript">
-   var ifr = document.getElementById("JotFormIFrame-232170612128446");
-   if (ifr) {
-    var src = ifr.src;
-    var iframeParams = [];
-    if (window.location.href && window.location.href.indexOf("?") > -1) {
-      iframeParams = iframeParams.concat(window.location.href.substr(window.location.href.indexOf("?") + 1).split('&'));
-    }
-    if (src && src.indexOf("?") > -1) {
-      iframeParams = iframeParams.concat(src.substr(src.indexOf("?") + 1).split("&"));
-      src = src.substr(0, src.indexOf("?"))
-    }
-    iframeParams.push("isIframeEmbed=1");
-    ifr.src = src + "?" + iframeParams.join('&');
-   }
-   window.handleIFrameMessage = function(e) {
-    if (typeof e.data === 'object') { return; }
-    var args = e.data.split(":");
-    if (args.length > 2) { iframe = document.getElementById("JotFormIFrame-" + args[(args.length - 1)]); } else { iframe = document.getElementById("JotFormIFrame"); }
-    if (!iframe) { return; }
-    switch (args[0]) {
-      case "scrollIntoView":
-        iframe.scrollIntoView();
-        break;
-      case "setHeight":
-        iframe.style.height = args[1] + "px";
-        if (!isNaN(args[1]) && parseInt(iframe.style.minHeight) > parseInt(args[1])) {
-          iframe.style.minHeight = args[1] + "px";
-        }
-        break;
-      case "collapseErrorPage":
-        if (iframe.clientHeight > window.innerHeight) {
-          iframe.style.height = window.innerHeight + "px";
-        }
-        break;
-      case "reloadPage":
-        window.location.reload();
-        break;
-      case "loadScript":
-        if( !window.isPermitted(e.origin, ['jotform.com', 'jotform.pro']) ) { break; }
-        var src = args[1];
-        if (args.length > 3) {
-            src = args[1] + ':' + args[2];
-        }
-        var script = document.createElement('script');
-        script.src = src;
-        script.type = 'text/javascript';
-        document.body.appendChild(script);
-        break;
-      case "exitFullscreen":
-        if      (window.document.exitFullscreen)        window.document.exitFullscreen();
-        else if (window.document.mozCancelFullScreen)   window.document.mozCancelFullScreen();
-        else if (window.document.mozCancelFullscreen)   window.document.mozCancelFullScreen();
-        else if (window.document.webkitExitFullscreen)  window.document.webkitExitFullscreen();
-        else if (window.document.msExitFullscreen)      window.document.msExitFullscreen();
-        break;
-    }
-    var isJotForm = (e.origin.indexOf("jotform") > -1) ? true : false;
-    if(isJotForm && "contentWindow" in iframe && "postMessage" in iframe.contentWindow) {
-      var urls = {"docurl":encodeURIComponent(document.URL),"referrer":encodeURIComponent(document.referrer)};
-      iframe.contentWindow.postMessage(JSON.stringify({"type":"urls","value":urls}), "*");
-    }
-   };
-   window.isPermitted = function(originUrl, whitelisted_domains) {
-    var url = document.createElement('a');
-    url.href = originUrl;
-    var hostname = url.hostname;
-    var result = false;
-    if( typeof hostname !== 'undefined' ) {
-      whitelisted_domains.forEach(function(element) {
-          if( hostname.slice((-1 * element.length - 1)) === '.'.concat(element) ||  hostname === element ) {
-              result = true;
-          }
-      });
-      return result;
-    }
-   };
-   if (window.addEventListener) {
-    window.addEventListener("message", handleIFrameMessage, false);
-   } else if (window.attachEvent) {
-    window.attachEvent("onmessage", handleIFrameMessage);
-   }
-   </script>
-
-    <li>Langkah 2, Tentukanlah Tinggi piramida dengan menggunakan perbandingan trigonometri!</li>
-   
- <iframe
- id="JotFormIFrame-232170612128446"
- title="Jawab"
- onload="window.parent.scrollTo(0,0)"
- allowtransparency="true"
- allowfullscreen="true"
- allow="geolocation; microphone; camera"
- src="https://form.jotform.com/232170612128446"
- frameborder="0"
- style="min-width:100%;max-width:100%;height:539px;border:none;"
- scrolling="yes"
->
-</iframe>
-<script type="text/javascript">
-var ifr = document.getElementById("JotFormIFrame-232170612128446");
-if (ifr) {
- var src = ifr.src;
- var iframeParams = [];
- if (window.location.href && window.location.href.indexOf("?") > -1) {
-   iframeParams = iframeParams.concat(window.location.href.substr(window.location.href.indexOf("?") + 1).split('&'));
- }
- if (src && src.indexOf("?") > -1) {
-   iframeParams = iframeParams.concat(src.substr(src.indexOf("?") + 1).split("&"));
-   src = src.substr(0, src.indexOf("?"))
- }
- iframeParams.push("isIframeEmbed=1");
- ifr.src = src + "?" + iframeParams.join('&');
-}
-window.handleIFrameMessage = function(e) {
- if (typeof e.data === 'object') { return; }
- var args = e.data.split(":");
- if (args.length > 2) { iframe = document.getElementById("JotFormIFrame-" + args[(args.length - 1)]); } else { iframe = document.getElementById("JotFormIFrame"); }
- if (!iframe) { return; }
- switch (args[0]) {
-   case "scrollIntoView":
-     iframe.scrollIntoView();
-     break;
-   case "setHeight":
-     iframe.style.height = args[1] + "px";
-     if (!isNaN(args[1]) && parseInt(iframe.style.minHeight) > parseInt(args[1])) {
-       iframe.style.minHeight = args[1] + "px";
-     }
-     break;
-   case "collapseErrorPage":
-     if (iframe.clientHeight > window.innerHeight) {
-       iframe.style.height = window.innerHeight + "px";
-     }
-     break;
-   case "reloadPage":
-     window.location.reload();
-     break;
-   case "loadScript":
-     if( !window.isPermitted(e.origin, ['jotform.com', 'jotform.pro']) ) { break; }
-     var src = args[1];
-     if (args.length > 3) {
-         src = args[1] + ':' + args[2];
-     }
-     var script = document.createElement('script');
-     script.src = src;
-     script.type = 'text/javascript';
-     document.body.appendChild(script);
-     break;
-   case "exitFullscreen":
-     if      (window.document.exitFullscreen)        window.document.exitFullscreen();
-     else if (window.document.mozCancelFullScreen)   window.document.mozCancelFullScreen();
-     else if (window.document.mozCancelFullscreen)   window.document.mozCancelFullScreen();
-     else if (window.document.webkitExitFullscreen)  window.document.webkitExitFullscreen();
-     else if (window.document.msExitFullscreen)      window.document.msExitFullscreen();
-     break;
- }
- var isJotForm = (e.origin.indexOf("jotform") > -1) ? true : false;
- if(isJotForm && "contentWindow" in iframe && "postMessage" in iframe.contentWindow) {
-   var urls = {"docurl":encodeURIComponent(document.URL),"referrer":encodeURIComponent(document.referrer)};
-   iframe.contentWindow.postMessage(JSON.stringify({"type":"urls","value":urls}), "*");
- }
-};
-window.isPermitted = function(originUrl, whitelisted_domains) {
- var url = document.createElement('a');
- url.href = originUrl;
- var hostname = url.hostname;
- var result = false;
- if( typeof hostname !== 'undefined' ) {
-   whitelisted_domains.forEach(function(element) {
-       if( hostname.slice((-1 * element.length - 1)) === '.'.concat(element) ||  hostname === element ) {
-           result = true;
-       }
-   });
-   return result;
- }
-};
-if (window.addEventListener) {
- window.addEventListener("message", handleIFrameMessage, false);
-} else if (window.attachEvent) {
- window.attachEvent("onmessage", handleIFrameMessage);
-}
-</script>
-
-    </ul>
-    <button class="divco blue mb-2" href=""><span>VERIVICATION (Pembuktian)</span></button>
     <p style="text-indent:1em;">
-    Berdasarkan hasil pengolahan data atau informasi yang telah kalian peroleh maka, buktikan hasil yang telah kalian peroleh:
+    Banyak sekali kita jumpai berbagai hal yang terkait pemanfaatan trigonometri di kehidupan sehari – hari. Seperti menghitung tinggi bangunan/gunung/pohon/bukit/benda. Seperti gambar di bawah ini. Apabila kamu tahu jarak antara kamu dengan benda yang kamu amati dan kamu juga tahu sudut elevasi pengamatannya, maka kamu dapat menghitung tinggi dari bangunan yang kamu amati tersebut. 
     </p>
-   
-
- <iframe
- id="JotFormIFrame-232170612128446"
- title="Jawab"
- onload="window.parent.scrollTo(0,0)"
- allowtransparency="true"
- allowfullscreen="true"
- allow="geolocation; microphone; camera"
- src="https://form.jotform.com/232170612128446"
- frameborder="0"
- style="min-width:100%;max-width:100%;height:539px;border:none;"
- scrolling="yes"
->
-</iframe>
-<script type="text/javascript">
-var ifr = document.getElementById("JotFormIFrame-232170612128446");
-if (ifr) {
- var src = ifr.src;
- var iframeParams = [];
- if (window.location.href && window.location.href.indexOf("?") > -1) {
-   iframeParams = iframeParams.concat(window.location.href.substr(window.location.href.indexOf("?") + 1).split('&'));
- }
- if (src && src.indexOf("?") > -1) {
-   iframeParams = iframeParams.concat(src.substr(src.indexOf("?") + 1).split("&"));
-   src = src.substr(0, src.indexOf("?"))
- }
- iframeParams.push("isIframeEmbed=1");
- ifr.src = src + "?" + iframeParams.join('&');
-}
-window.handleIFrameMessage = function(e) {
- if (typeof e.data === 'object') { return; }
- var args = e.data.split(":");
- if (args.length > 2) { iframe = document.getElementById("JotFormIFrame-" + args[(args.length - 1)]); } else { iframe = document.getElementById("JotFormIFrame"); }
- if (!iframe) { return; }
- switch (args[0]) {
-   case "scrollIntoView":
-     iframe.scrollIntoView();
-     break;
-   case "setHeight":
-     iframe.style.height = args[1] + "px";
-     if (!isNaN(args[1]) && parseInt(iframe.style.minHeight) > parseInt(args[1])) {
-       iframe.style.minHeight = args[1] + "px";
-     }
-     break;
-   case "collapseErrorPage":
-     if (iframe.clientHeight > window.innerHeight) {
-       iframe.style.height = window.innerHeight + "px";
-     }
-     break;
-   case "reloadPage":
-     window.location.reload();
-     break;
-   case "loadScript":
-     if( !window.isPermitted(e.origin, ['jotform.com', 'jotform.pro']) ) { break; }
-     var src = args[1];
-     if (args.length > 3) {
-         src = args[1] + ':' + args[2];
-     }
-     var script = document.createElement('script');
-     script.src = src;
-     script.type = 'text/javascript';
-     document.body.appendChild(script);
-     break;
-   case "exitFullscreen":
-     if      (window.document.exitFullscreen)        window.document.exitFullscreen();
-     else if (window.document.mozCancelFullScreen)   window.document.mozCancelFullScreen();
-     else if (window.document.mozCancelFullscreen)   window.document.mozCancelFullScreen();
-     else if (window.document.webkitExitFullscreen)  window.document.webkitExitFullscreen();
-     else if (window.document.msExitFullscreen)      window.document.msExitFullscreen();
-     break;
- }
- var isJotForm = (e.origin.indexOf("jotform") > -1) ? true : false;
- if(isJotForm && "contentWindow" in iframe && "postMessage" in iframe.contentWindow) {
-   var urls = {"docurl":encodeURIComponent(document.URL),"referrer":encodeURIComponent(document.referrer)};
-   iframe.contentWindow.postMessage(JSON.stringify({"type":"urls","value":urls}), "*");
- }
-};
-window.isPermitted = function(originUrl, whitelisted_domains) {
- var url = document.createElement('a');
- url.href = originUrl;
- var hostname = url.hostname;
- var result = false;
- if( typeof hostname !== 'undefined' ) {
-   whitelisted_domains.forEach(function(element) {
-       if( hostname.slice((-1 * element.length - 1)) === '.'.concat(element) ||  hostname === element ) {
-           result = true;
-       }
-   });
-   return result;
- }
-};
-if (window.addEventListener) {
- window.addEventListener("message", handleIFrameMessage, false);
-} else if (window.attachEvent) {
- window.attachEvent("onmessage", handleIFrameMessage);
-}
-</script>
-
-    <button id="klik" class="mt-3 btn btn-outline-primary">Klik buktikan jawaban kalian!</button>
-    <hr>
-    <div id="materi" class="materi">
-    <p style="text-indent:1em;">
-    Perbandingan trigonometri sinus (biasa disingkat sin) adalah nilai perbandingan antara sisi depan dan sisi miring sudut θ segitiga siku - siku. <br>
-    sin θ = <sup>sisi depan</sup>&frasl;<sub>sisi miring</sub>. Dalam permasalahan piramida, perbandingan trigonometri sin dapat membantu kita mencari tinggi piramida. <br> 
-    sin θ = 30° <br>
-    sin 30° = <sup>tinggi piramida (depan)</sup>&frasl;<sub>rusuk piramida (miring)</sub> <br>
-    <sup>1</sup>&frasl;<sub>2</sub> = <sup>x (m)</sup>&frasl;<sub>60 m</sub> <br>
-    x (m) = <sup>1</sup>&frasl;<sub>2</sub> x 600m = 300m. Jadi, tinggi piramida adalah 300 meter.
+    <img src="../images/SUDUT.png" class="img-fluid w-100" alt="Responsive image">
+    <p style="text-indent:1em;" class="mb-0">
+    Dalam kehidupan sehari-hari, kita sering mendengar istilah “sudut elevasi”. <b style="color:red;">Sudut elevasi</b> adalah sudut yang dibentuk oleh arah horizontal dengan arah pandangan mata pengamat ke arah atas.
     </p>
+    <p style="text-indent:1em;" class="mb-0">
+    Selain sudut elevasi kita juga sering mendengar istilah “Sudut depresi”. <b style="color:red;">Sudut depresi</b> adalah sudut yang dibentuk oleh arah horizontal dengan arah pandangan mata pengamat ke arah bawah. Seperti gambar di bawah ini.</p>
+    <div class="w-100 d-flex justify-content-center flex-column">
+    <img src="../images/sudut2.png" class="img-fluid" alt="Responsive image">
+    <p class="text-muted">Sumber: https://images.app.goo.gl/NDb3gfmLxwL</p>
     </div>
-    <button class="divco blue mb-2" href=""><span>GENERALIZATION (Menarik Kesimpulan)</span></button>
-    <p style="text-indent:1em;" class="mb-0">Dari permasalahan di atas, dapat disimpulkan bahwa:</p>
-  
-
-    <iframe
-    id="JotFormIFrame-232170612128446"
-    title="Jawab"
-    onload="window.parent.scrollTo(0,0)"
-    allowtransparency="true"
-    allowfullscreen="true"
-    allow="geolocation; microphone; camera"
-    src="https://form.jotform.com/232170612128446"
-    frameborder="0"
-    style="min-width:100%;max-width:100%;height:539px;border:none;"
-    scrolling="yes"
-   >
-   </iframe>
-   <script type="text/javascript">
-   var ifr = document.getElementById("JotFormIFrame-232170612128446");
-   if (ifr) {
-    var src = ifr.src;
-    var iframeParams = [];
-    if (window.location.href && window.location.href.indexOf("?") > -1) {
-      iframeParams = iframeParams.concat(window.location.href.substr(window.location.href.indexOf("?") + 1).split('&'));
-    }
-    if (src && src.indexOf("?") > -1) {
-      iframeParams = iframeParams.concat(src.substr(src.indexOf("?") + 1).split("&"));
-      src = src.substr(0, src.indexOf("?"))
-    }
-    iframeParams.push("isIframeEmbed=1");
-    ifr.src = src + "?" + iframeParams.join('&');
-   }
-   window.handleIFrameMessage = function(e) {
-    if (typeof e.data === 'object') { return; }
-    var args = e.data.split(":");
-    if (args.length > 2) { iframe = document.getElementById("JotFormIFrame-" + args[(args.length - 1)]); } else { iframe = document.getElementById("JotFormIFrame"); }
-    if (!iframe) { return; }
-    switch (args[0]) {
-      case "scrollIntoView":
-        iframe.scrollIntoView();
-        break;
-      case "setHeight":
-        iframe.style.height = args[1] + "px";
-        if (!isNaN(args[1]) && parseInt(iframe.style.minHeight) > parseInt(args[1])) {
-          iframe.style.minHeight = args[1] + "px";
-        }
-        break;
-      case "collapseErrorPage":
-        if (iframe.clientHeight > window.innerHeight) {
-          iframe.style.height = window.innerHeight + "px";
-        }
-        break;
-      case "reloadPage":
-        window.location.reload();
-        break;
-      case "loadScript":
-        if( !window.isPermitted(e.origin, ['jotform.com', 'jotform.pro']) ) { break; }
-        var src = args[1];
-        if (args.length > 3) {
-            src = args[1] + ':' + args[2];
-        }
-        var script = document.createElement('script');
-        script.src = src;
-        script.type = 'text/javascript';
-        document.body.appendChild(script);
-        break;
-      case "exitFullscreen":
-        if      (window.document.exitFullscreen)        window.document.exitFullscreen();
-        else if (window.document.mozCancelFullScreen)   window.document.mozCancelFullScreen();
-        else if (window.document.mozCancelFullscreen)   window.document.mozCancelFullScreen();
-        else if (window.document.webkitExitFullscreen)  window.document.webkitExitFullscreen();
-        else if (window.document.msExitFullscreen)      window.document.msExitFullscreen();
-        break;
-    }
-    var isJotForm = (e.origin.indexOf("jotform") > -1) ? true : false;
-    if(isJotForm && "contentWindow" in iframe && "postMessage" in iframe.contentWindow) {
-      var urls = {"docurl":encodeURIComponent(document.URL),"referrer":encodeURIComponent(document.referrer)};
-      iframe.contentWindow.postMessage(JSON.stringify({"type":"urls","value":urls}), "*");
-    }
-   };
-   window.isPermitted = function(originUrl, whitelisted_domains) {
-    var url = document.createElement('a');
-    url.href = originUrl;
-    var hostname = url.hostname;
-    var result = false;
-    if( typeof hostname !== 'undefined' ) {
-      whitelisted_domains.forEach(function(element) {
-          if( hostname.slice((-1 * element.length - 1)) === '.'.concat(element) ||  hostname === element ) {
-              result = true;
-          }
-      });
-      return result;
-    }
-   };
-   if (window.addEventListener) {
-    window.addEventListener("message", handleIFrameMessage, false);
-   } else if (window.attachEvent) {
-    window.attachEvent("onmessage", handleIFrameMessage);
-   }
-   </script>
-
-   <div class="mt-4 w-100 d-flex justify-content-between mb-2">
-   <a href="#next7" type="button" class="btn btn-success">Sebelumnya</a>
-   <a href="#next9" type="button" class="btn btn-success">Selanjutnya</a>
+    <p style="text-indent:1em;" class="mb-0">
+    Banyak sekali kita jumpai berbagai hal yang terkait dengan trigonometri. Trigonometri dapat digunakan untuk memecahkan masalah kontekstual yang berhubungan dengan sudut pengamatan, tinggi suatu benda , atau untuk menentukan jarak ke suatu obyek.
+    </p>
+    Untuk lebih memahami perhatikan contoh berikut:<br>
+    <div class="w-100 d-flex justify-content-center ">
+    <img src="../images/sudut3.png" class="img-fluid" alt="Responsive image">
+    </div>
+    Sebuah pohon berjarak 100 meter dari seorang pengamat yang tingginya 170 cm. Apabila pucuk pohon tersebut dilihat pengamat dengan sudut elevasi 600, tentukanlah tinggi pohon tersebut.
+    <ul>
+    <li>Dari soal diketahui bahwa:
+    <p class="mb-0">Jarak pengamat ke pohon = 100 m</p>
+    <p class="mb-0">Tinggi pengamat = 170 cm =  1,7 m</p>
+    <p class="mb-0">Sudut elevasi = 45°</p>
+    <p class="mb-0">yang dicari tinggi pohon.</p>
+    </li>
+    <li>Memilih pendekatan atau strategi pemecahan
+    <p class="mb-0">Konsep yang relevan dari soal di atas adalah perbandingan trigonometri.</p>
+    <p class="mb-0">Misalkan bahwa t = tinggi pohon - tinggi pengamat</p>
+    <p class="mb-0">x = jarak pengamat ke pohon</p>
+    <p class="mb-0">tan 45° = <sup>t</sup>&frasl;<sub>x</sub></p>
+    </li>
+    <li>Menyelesaikan model
+    <p class="mb-0">Dengan menggunakan operasi hitung diperoleh:</p>
+    <p class="mb-0">tan 45° = <sup>t</sup>&frasl;<sub>x</sub></p>
+    <p class="mb-0">t = x tan 45° = 100 . 1 = 100</p>
+    </li>
+    <li>Menafsirkan solusi
+    <p class="mb-0">tinggi pohon = t + tinggi pengamat</p>
+    <p class="mb-0"> = 100 m + 1,7 m = 101,7 m.</p>
+    <p class="mb-0">Jadi, tinggi pohonnya adalah 101,7 meter.</p>
+    </li>
+    </ul>
+    <p style="text-indent:1em;" class="mb-0">
+    Untuk lebih memahami materi. Simaklah video di bawah ini.
+    </p>
+    <div class="ratio ratio-16x9">
+    <iframe  src="https://www.youtube.com/embed/vIOQmWZlgzA" title="CONTOH SOAL APLIKASI TRIGONOMETRI BAGIAN 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    </div>
+    <div class="d-grid">
+    <button style="background-image: linear-gradient(to right, #02AAB0 0%, #00CDAC  51%, #02AAB0  100%); color: #fff; font-size : 1.3em:" class="fw-bold btn mt-2 h4">Penilaian Diri</button>
+    </div>
+    <div>
+    <ol class="list-group list-group-numbered bg-white">
+      <li class="list-group-item d-flex justify-content-between align-items-start">
+        <div class="ms-2 me-auto">
+          <div class="fw-bold">Apakah kalian dapat memahami setiap sisi sebuah segitiga siku – siku dan menentukan panjang sisi menggunakan teorema phytagoras?</div>
+          <div class="form-check form-check-inline">
+      <input class="form-check-input" type="radio" name="inlineRadioOptions" id="cek1" value="option1">
+      <label class="form-check-label" for="cek1">Ya</label>
+    </div>
+    <div class="form-check form-check-inline">
+      <input class="form-check-input" type="radio" name="inlineRadioOptions" id="cek2" value="option2">
+      <label class="form-check-label" for="cek2">Tidak</label>
+    </div>
+        </div>
+      </li>
+      <li class="list-group-item d-flex justify-content-between align-items-start">
+        <div class="ms-2 me-auto">
+          <div class="fw-bold">Apakah kalian dapat memahami konsep nilai perbandingan trigonometri pada sinus, cosinus dan tangen?</div>
+          <div class="form-check form-check-inline">
+      <input class="form-check-input" type="radio" name="a" id="cek3" value="option1">
+      <label class="form-check-label" for="cek3">Ya</label>
+    </div>
+    <div class="form-check form-check-inline">
+      <input class="form-check-input" type="radio" name="a" id="cek4" value="option2">
+      <label class="form-check-label" for="cek4">Tidak</label>
+    </div>
+        </div>
+      </li>
+      <div class="p-2 text-muted">
+      <b>Catatan:</b><br>
+      Jika jawaban “ Tidak” > 6 maka segera lakukan review pembelajaran <br>
+      Jika jawaban “ YA” >6 maka dapat melanjutkan kegiatan pembelajaran 
+      </div>
+    </ol>
+    </div>
+    <div class="mt-4 w-100 d-flex justify-content-between mb-2">
+   <a href="#next8" type="button" class="btn btn-success">Sebelumnya</a>
    </div>`
-
-    document.querySelector('#klik').addEventListener('click', (e) => {
-        document.querySelector('#materi').classList.toggle('materi')
-    })
 }

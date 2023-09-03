@@ -1,78 +1,537 @@
 function next5Page() {
-    judul.innerHTML = `<span class="h6 d-block center">Materi Perbandingan Trigonometri</span>`
+    judul.innerHTML = `<span class="h6">Sudut Istimewa Perbandingan Trigonometri</span>`
     content.innerHTML = `
 <div class="section_our_solution">
-<div class="d-flex justify-content-around">
-<img src="../images/TUSI.png" class="img-fluid w-50" alt="Responsive image"> 
-<p style="text-indent:1em;" class="mb-0 mt-2">Studi tentang trigonometri sebagai cabang matematika, lepas dari astronomi pertama kali diberikan oleh Nashiruddin al-Tusi (1201-1274), lewat bukunya Treatise on the quadrilateral. Menurut OConners dan Robertson, mungkin ia pula yang pertama memperkenalkan Aturan Sinus (di bidang  datar). 
+<button class="divco blue mb-2"><span>DATA PROCESSING (Pengolahan Data)</span></button>
+<p style="text-indent:1em;">
+Berdasarkan informasi yang didapat pada pengumpulan data maka, 
+permasalahan dapat diselesaikan dengan langkah – langkah berikut:
 </p>
-</div>
-<p style="text-indent:1em;" class="mb-0">
-Di Arab dan kebanyakan daerah muslim, trigonometri berkembang dengan pesat tidak saja karena alasan astronomi tetapi juga untuk kebutuhan ibadah. Seperti diketahui, orang muslim jika melakukan ibadah sholat, harus menghadap ke arah Qiblat, suatu bangunan di kota Mekkah. 
-</p>
-<b>Perhatikan gambar rumah Adat suku Dayak berikut!</b>
-<div class="w-100 d-flex align-items-center flex-column">
-<img src="../images/rumahadat.png" class="img-fluid w-50" alt="Responsive image"> 
-<small class="text-muted">Gambar Rumah Adat Suku Dayak</small>
-<small class="text-muted">Sumber: www.jualsewarumah.com</small>
-</div>
-<p style="text-indent:1em;" class="mb-0">
-Tidak hanya itu Jika Kalian perhatikan lingkungan sekitar kita, banyak benda atau bangunan memiliki sudut atau pojok tertentu. Bentuk sudut ada yang sengaja dirancang seperti penggaris berbentuk segitiga, seperti model atap rumah biasanya dibuat dengan sudut atau pojok sesuai kebutuhan. Titik sudut sebuah buku biasanya tegak lurus, sedangkan atap rumah sudutnya lebih kecil. Ilmu ukur sudut dipelajari secara khusus dalam trigonometri yang mengkaji hubungan antara sisi dan sudut dalam suatu segitiga dan sifat-sifat serta aplikasinya dalam berbagai bidang seperti penaksiran tinggi bangunan atau pohon, jarak mendatar puncak gunung terhadap lembahnya, dan sebagainya. Misalnya, para arsitekturnya, sudah menerapkan kesetimbangan bangunan pada rumah adat yang mereka ciptakan, seperti rumah adat Dayak di atas . Rumah adat tersebut berdiri kokoh sebagai hasil hubungan yang tepat antara besar sudut yang dikaitkan dengan panjang sisi-sisinya.
-</p>
-<b>Perhatikan gambar!</b>
-<div class="w-100 d-flex justify-content-center ">
-<img src="../images/segitiga2.png" class="img-fluid w-50" alt="Responsive image">
-</div>
-<p style="text-indent:1em;" class="mb-0">
-Segitiga ABC merupakan segitiga siku-siku dengan titik sudut siku-siku di C. Panjang sisi di hadapan sudut A adalah a satuan, panjang sisi di hadapan sudut B adalah b satuan, dan panjang sisi di hadapan sudut C adalah c satuan. Pada gambar, diketahui ∠BAC = 𝛼. Sisi BC = a disebut sisi di depan sudut 𝛼, sisi AC = b disebut sisi di samping sudut 𝛼, dan sisi AB = c disebut sisi miring (hipotenusa). 
-Dari ketiga sisi segitiga siku-siku ABC tersebut, dapat ditentukan perbandingan-perbandingan trigonometri sebagai berikut.
-</p>
-<div class="w-100 d-flex justify-content-center ">
-<img src="../images/rumus1.png" class="img-fluid w-50" alt="Responsive image">
-</div>
+<ol class="list-group list-group-numbered">
+<li class="list-group-item">Langkah 1, Tentukanlah hasil perbandingan pada sudut 0<sup>O</sup> dan 90<sup>O</sup>!<br>
 
-<div class="d-grid">
-<button style="background-image: linear-gradient(to right, #02AAB0 0%, #00CDAC  51%, #02AAB0  100%); color: #fff; font-size : 1.3em:" class="fw-bold btn mt-2 h4">Penilaian Diri</button>
-</div>
-<div>
-<ol class="list-group list-group-numbered bg-white">
-  <li class="list-group-item d-flex justify-content-between align-items-start">
-    <div class="ms-2 me-auto">
-      <div class="fw-bold">Apakah kalian dapat memahami setiap sisi sebuah segitiga siku – siku dan menentukan panjang sisi menggunakan teorema phytagoras?</div>
-      <div class="form-check form-check-inline">
-  <input class="form-check-input" type="radio" name="inlineRadioOptions" id="cek1" value="option1">
-  <label class="form-check-label" for="cek1">Ya</label>
-</div>
-<div class="form-check form-check-inline">
-  <input class="form-check-input" type="radio" name="inlineRadioOptions" id="cek2" value="option2">
-  <label class="form-check-label" for="cek2">Tidak</label>
-</div>
-    </div>
-  </li>
-  <li class="list-group-item d-flex justify-content-between align-items-start">
-    <div class="ms-2 me-auto">
-      <div class="fw-bold">Apakah kalian dapat memahami konsep nilai perbandingan trigonometri pada sinus, cosinus dan tangen?</div>
-      <div class="form-check form-check-inline">
-  <input class="form-check-input" type="radio" name="a" id="cek3" value="option1">
-  <label class="form-check-label" for="cek3">Ya</label>
-</div>
-<div class="form-check form-check-inline">
-  <input class="form-check-input" type="radio" name="a" id="cek4" value="option2">
-  <label class="form-check-label" for="cek4">Tidak</label>
-</div>
-    </div>
-  </li>
-  <div class="p-2 text-muted">
-  <b>Catatan:</b><br>
-  Jika jawaban “ Tidak” > 6 maka segera lakukan review pembelajaran <br>
-  Jika jawaban “ YA” >6 maka dapat melanjutkan kegiatan pembelajaran 
-  </div>
+<iframe
+id="JotFormIFrame-232170612128446"
+title="Jawab"
+onload="window.parent.scrollTo(0,0)"
+allowtransparency="true"
+allowfullscreen="true"
+allow="geolocation; microphone; camera"
+src="https://form.jotform.com/232170612128446"
+frameborder="0"
+style="min-width:100%;max-width:100%;height:539px;border:none;"
+scrolling="yes"
+>
+</iframe>
+<script type="text/javascript">
+var ifr = document.getElementById("JotFormIFrame-232170612128446");
+if (ifr) {
+var src = ifr.src;
+var iframeParams = [];
+if (window.location.href && window.location.href.indexOf("?") > -1) {
+  iframeParams = iframeParams.concat(window.location.href.substr(window.location.href.indexOf("?") + 1).split('&'));
+}
+if (src && src.indexOf("?") > -1) {
+  iframeParams = iframeParams.concat(src.substr(src.indexOf("?") + 1).split("&"));
+  src = src.substr(0, src.indexOf("?"))
+}
+iframeParams.push("isIframeEmbed=1");
+ifr.src = src + "?" + iframeParams.join('&');
+}
+window.handleIFrameMessage = function(e) {
+if (typeof e.data === 'object') { return; }
+var args = e.data.split(":");
+if (args.length > 2) { iframe = document.getElementById("JotFormIFrame-" + args[(args.length - 1)]); } else { iframe = document.getElementById("JotFormIFrame"); }
+if (!iframe) { return; }
+switch (args[0]) {
+  case "scrollIntoView":
+    iframe.scrollIntoView();
+    break;
+  case "setHeight":
+    iframe.style.height = args[1] + "px";
+    if (!isNaN(args[1]) && parseInt(iframe.style.minHeight) > parseInt(args[1])) {
+      iframe.style.minHeight = args[1] + "px";
+    }
+    break;
+  case "collapseErrorPage":
+    if (iframe.clientHeight > window.innerHeight) {
+      iframe.style.height = window.innerHeight + "px";
+    }
+    break;
+  case "reloadPage":
+    window.location.reload();
+    break;
+  case "loadScript":
+    if( !window.isPermitted(e.origin, ['jotform.com', 'jotform.pro']) ) { break; }
+    var src = args[1];
+    if (args.length > 3) {
+        src = args[1] + ':' + args[2];
+    }
+    var script = document.createElement('script');
+    script.src = src;
+    script.type = 'text/javascript';
+    document.body.appendChild(script);
+    break;
+  case "exitFullscreen":
+    if      (window.document.exitFullscreen)        window.document.exitFullscreen();
+    else if (window.document.mozCancelFullScreen)   window.document.mozCancelFullScreen();
+    else if (window.document.mozCancelFullscreen)   window.document.mozCancelFullScreen();
+    else if (window.document.webkitExitFullscreen)  window.document.webkitExitFullscreen();
+    else if (window.document.msExitFullscreen)      window.document.msExitFullscreen();
+    break;
+}
+var isJotForm = (e.origin.indexOf("jotform") > -1) ? true : false;
+if(isJotForm && "contentWindow" in iframe && "postMessage" in iframe.contentWindow) {
+  var urls = {"docurl":encodeURIComponent(document.URL),"referrer":encodeURIComponent(document.referrer)};
+  iframe.contentWindow.postMessage(JSON.stringify({"type":"urls","value":urls}), "*");
+}
+};
+window.isPermitted = function(originUrl, whitelisted_domains) {
+var url = document.createElement('a');
+url.href = originUrl;
+var hostname = url.hostname;
+var result = false;
+if( typeof hostname !== 'undefined' ) {
+  whitelisted_domains.forEach(function(element) {
+      if( hostname.slice((-1 * element.length - 1)) === '.'.concat(element) ||  hostname === element ) {
+          result = true;
+      }
+  });
+  return result;
+}
+};
+if (window.addEventListener) {
+window.addEventListener("message", handleIFrameMessage, false);
+} else if (window.attachEvent) {
+window.attachEvent("onmessage", handleIFrameMessage);
+}
+</script>
+
+</li>
+<li class="list-group-item">Langkah 2, Tentukanlah hasil perbandingan pada sudut 45<sup>O</sup>!</li>
+
+
+<iframe
+id="JotFormIFrame-232170612128446"
+title="Jawab"
+onload="window.parent.scrollTo(0,0)"
+allowtransparency="true"
+allowfullscreen="true"
+allow="geolocation; microphone; camera"
+src="https://form.jotform.com/232170612128446"
+frameborder="0"
+style="min-width:100%;max-width:100%;height:539px;border:none;"
+scrolling="yes"
+>
+</iframe>
+<script type="text/javascript">
+var ifr = document.getElementById("JotFormIFrame-232170612128446");
+if (ifr) {
+var src = ifr.src;
+var iframeParams = [];
+if (window.location.href && window.location.href.indexOf("?") > -1) {
+  iframeParams = iframeParams.concat(window.location.href.substr(window.location.href.indexOf("?") + 1).split('&'));
+}
+if (src && src.indexOf("?") > -1) {
+  iframeParams = iframeParams.concat(src.substr(src.indexOf("?") + 1).split("&"));
+  src = src.substr(0, src.indexOf("?"))
+}
+iframeParams.push("isIframeEmbed=1");
+ifr.src = src + "?" + iframeParams.join('&');
+}
+window.handleIFrameMessage = function(e) {
+if (typeof e.data === 'object') { return; }
+var args = e.data.split(":");
+if (args.length > 2) { iframe = document.getElementById("JotFormIFrame-" + args[(args.length - 1)]); } else { iframe = document.getElementById("JotFormIFrame"); }
+if (!iframe) { return; }
+switch (args[0]) {
+  case "scrollIntoView":
+    iframe.scrollIntoView();
+    break;
+  case "setHeight":
+    iframe.style.height = args[1] + "px";
+    if (!isNaN(args[1]) && parseInt(iframe.style.minHeight) > parseInt(args[1])) {
+      iframe.style.minHeight = args[1] + "px";
+    }
+    break;
+  case "collapseErrorPage":
+    if (iframe.clientHeight > window.innerHeight) {
+      iframe.style.height = window.innerHeight + "px";
+    }
+    break;
+  case "reloadPage":
+    window.location.reload();
+    break;
+  case "loadScript":
+    if( !window.isPermitted(e.origin, ['jotform.com', 'jotform.pro']) ) { break; }
+    var src = args[1];
+    if (args.length > 3) {
+        src = args[1] + ':' + args[2];
+    }
+    var script = document.createElement('script');
+    script.src = src;
+    script.type = 'text/javascript';
+    document.body.appendChild(script);
+    break;
+  case "exitFullscreen":
+    if      (window.document.exitFullscreen)        window.document.exitFullscreen();
+    else if (window.document.mozCancelFullScreen)   window.document.mozCancelFullScreen();
+    else if (window.document.mozCancelFullscreen)   window.document.mozCancelFullScreen();
+    else if (window.document.webkitExitFullscreen)  window.document.webkitExitFullscreen();
+    else if (window.document.msExitFullscreen)      window.document.msExitFullscreen();
+    break;
+}
+var isJotForm = (e.origin.indexOf("jotform") > -1) ? true : false;
+if(isJotForm && "contentWindow" in iframe && "postMessage" in iframe.contentWindow) {
+  var urls = {"docurl":encodeURIComponent(document.URL),"referrer":encodeURIComponent(document.referrer)};
+  iframe.contentWindow.postMessage(JSON.stringify({"type":"urls","value":urls}), "*");
+}
+};
+window.isPermitted = function(originUrl, whitelisted_domains) {
+var url = document.createElement('a');
+url.href = originUrl;
+var hostname = url.hostname;
+var result = false;
+if( typeof hostname !== 'undefined' ) {
+  whitelisted_domains.forEach(function(element) {
+      if( hostname.slice((-1 * element.length - 1)) === '.'.concat(element) ||  hostname === element ) {
+          result = true;
+      }
+  });
+  return result;
+}
+};
+if (window.addEventListener) {
+window.addEventListener("message", handleIFrameMessage, false);
+} else if (window.attachEvent) {
+window.attachEvent("onmessage", handleIFrameMessage);
+}
+</script>
+
+<li class="list-group-item">Tentukan hasil perbandingan pada  sudut 30<sup>O</sup> dan 60<sup>O</sup>!</li>
+<iframe
+id="JotFormIFrame-232170612128446"
+title="Jawab"
+onload="window.parent.scrollTo(0,0)"
+allowtransparency="true"
+allowfullscreen="true"
+allow="geolocation; microphone; camera"
+src="https://form.jotform.com/232170612128446"
+frameborder="0"
+style="min-width:100%;max-width:100%;height:539px;border:none;"
+scrolling="yes"
+>
+</iframe>
+<script type="text/javascript">
+var ifr = document.getElementById("JotFormIFrame-232170612128446");
+if (ifr) {
+var src = ifr.src;
+var iframeParams = [];
+if (window.location.href && window.location.href.indexOf("?") > -1) {
+  iframeParams = iframeParams.concat(window.location.href.substr(window.location.href.indexOf("?") + 1).split('&'));
+}
+if (src && src.indexOf("?") > -1) {
+  iframeParams = iframeParams.concat(src.substr(src.indexOf("?") + 1).split("&"));
+  src = src.substr(0, src.indexOf("?"))
+}
+iframeParams.push("isIframeEmbed=1");
+ifr.src = src + "?" + iframeParams.join('&');
+}
+window.handleIFrameMessage = function(e) {
+if (typeof e.data === 'object') { return; }
+var args = e.data.split(":");
+if (args.length > 2) { iframe = document.getElementById("JotFormIFrame-" + args[(args.length - 1)]); } else { iframe = document.getElementById("JotFormIFrame"); }
+if (!iframe) { return; }
+switch (args[0]) {
+  case "scrollIntoView":
+    iframe.scrollIntoView();
+    break;
+  case "setHeight":
+    iframe.style.height = args[1] + "px";
+    if (!isNaN(args[1]) && parseInt(iframe.style.minHeight) > parseInt(args[1])) {
+      iframe.style.minHeight = args[1] + "px";
+    }
+    break;
+  case "collapseErrorPage":
+    if (iframe.clientHeight > window.innerHeight) {
+      iframe.style.height = window.innerHeight + "px";
+    }
+    break;
+  case "reloadPage":
+    window.location.reload();
+    break;
+  case "loadScript":
+    if( !window.isPermitted(e.origin, ['jotform.com', 'jotform.pro']) ) { break; }
+    var src = args[1];
+    if (args.length > 3) {
+        src = args[1] + ':' + args[2];
+    }
+    var script = document.createElement('script');
+    script.src = src;
+    script.type = 'text/javascript';
+    document.body.appendChild(script);
+    break;
+  case "exitFullscreen":
+    if      (window.document.exitFullscreen)        window.document.exitFullscreen();
+    else if (window.document.mozCancelFullScreen)   window.document.mozCancelFullScreen();
+    else if (window.document.mozCancelFullscreen)   window.document.mozCancelFullScreen();
+    else if (window.document.webkitExitFullscreen)  window.document.webkitExitFullscreen();
+    else if (window.document.msExitFullscreen)      window.document.msExitFullscreen();
+    break;
+}
+var isJotForm = (e.origin.indexOf("jotform") > -1) ? true : false;
+if(isJotForm && "contentWindow" in iframe && "postMessage" in iframe.contentWindow) {
+  var urls = {"docurl":encodeURIComponent(document.URL),"referrer":encodeURIComponent(document.referrer)};
+  iframe.contentWindow.postMessage(JSON.stringify({"type":"urls","value":urls}), "*");
+}
+};
+window.isPermitted = function(originUrl, whitelisted_domains) {
+var url = document.createElement('a');
+url.href = originUrl;
+var hostname = url.hostname;
+var result = false;
+if( typeof hostname !== 'undefined' ) {
+  whitelisted_domains.forEach(function(element) {
+      if( hostname.slice((-1 * element.length - 1)) === '.'.concat(element) ||  hostname === element ) {
+          result = true;
+      }
+  });
+  return result;
+}
+};
+if (window.addEventListener) {
+window.addEventListener("message", handleIFrameMessage, false);
+} else if (window.attachEvent) {
+window.attachEvent("onmessage", handleIFrameMessage);
+}
+</script>
+
 </ol>
+<button class="divco blue mb-2" href=""><span>VERIVICATION (Pembuktian)</span></button>
+<p style="text-indent:1em;">
+Berdasarkan hasil pengolahan data atau informasi yang telah kalian peroleh maka, buktikan hasil yang telah kalian peroleh:
+</p>
+<iframe
+id="JotFormIFrame-232170612128446"
+title="Jawab"
+onload="window.parent.scrollTo(0,0)"
+allowtransparency="true"
+allowfullscreen="true"
+allow="geolocation; microphone; camera"
+src="https://form.jotform.com/232170612128446"
+frameborder="0"
+style="min-width:100%;max-width:100%;height:539px;border:none;"
+scrolling="yes"
+>
+</iframe>
+<script type="text/javascript">
+var ifr = document.getElementById("JotFormIFrame-232170612128446");
+if (ifr) {
+var src = ifr.src;
+var iframeParams = [];
+if (window.location.href && window.location.href.indexOf("?") > -1) {
+  iframeParams = iframeParams.concat(window.location.href.substr(window.location.href.indexOf("?") + 1).split('&'));
+}
+if (src && src.indexOf("?") > -1) {
+  iframeParams = iframeParams.concat(src.substr(src.indexOf("?") + 1).split("&"));
+  src = src.substr(0, src.indexOf("?"))
+}
+iframeParams.push("isIframeEmbed=1");
+ifr.src = src + "?" + iframeParams.join('&');
+}
+window.handleIFrameMessage = function(e) {
+if (typeof e.data === 'object') { return; }
+var args = e.data.split(":");
+if (args.length > 2) { iframe = document.getElementById("JotFormIFrame-" + args[(args.length - 1)]); } else { iframe = document.getElementById("JotFormIFrame"); }
+if (!iframe) { return; }
+switch (args[0]) {
+  case "scrollIntoView":
+    iframe.scrollIntoView();
+    break;
+  case "setHeight":
+    iframe.style.height = args[1] + "px";
+    if (!isNaN(args[1]) && parseInt(iframe.style.minHeight) > parseInt(args[1])) {
+      iframe.style.minHeight = args[1] + "px";
+    }
+    break;
+  case "collapseErrorPage":
+    if (iframe.clientHeight > window.innerHeight) {
+      iframe.style.height = window.innerHeight + "px";
+    }
+    break;
+  case "reloadPage":
+    window.location.reload();
+    break;
+  case "loadScript":
+    if( !window.isPermitted(e.origin, ['jotform.com', 'jotform.pro']) ) { break; }
+    var src = args[1];
+    if (args.length > 3) {
+        src = args[1] + ':' + args[2];
+    }
+    var script = document.createElement('script');
+    script.src = src;
+    script.type = 'text/javascript';
+    document.body.appendChild(script);
+    break;
+  case "exitFullscreen":
+    if      (window.document.exitFullscreen)        window.document.exitFullscreen();
+    else if (window.document.mozCancelFullScreen)   window.document.mozCancelFullScreen();
+    else if (window.document.mozCancelFullscreen)   window.document.mozCancelFullScreen();
+    else if (window.document.webkitExitFullscreen)  window.document.webkitExitFullscreen();
+    else if (window.document.msExitFullscreen)      window.document.msExitFullscreen();
+    break;
+}
+var isJotForm = (e.origin.indexOf("jotform") > -1) ? true : false;
+if(isJotForm && "contentWindow" in iframe && "postMessage" in iframe.contentWindow) {
+  var urls = {"docurl":encodeURIComponent(document.URL),"referrer":encodeURIComponent(document.referrer)};
+  iframe.contentWindow.postMessage(JSON.stringify({"type":"urls","value":urls}), "*");
+}
+};
+window.isPermitted = function(originUrl, whitelisted_domains) {
+var url = document.createElement('a');
+url.href = originUrl;
+var hostname = url.hostname;
+var result = false;
+if( typeof hostname !== 'undefined' ) {
+  whitelisted_domains.forEach(function(element) {
+      if( hostname.slice((-1 * element.length - 1)) === '.'.concat(element) ||  hostname === element ) {
+          result = true;
+      }
+  });
+  return result;
+}
+};
+if (window.addEventListener) {
+window.addEventListener("message", handleIFrameMessage, false);
+} else if (window.attachEvent) {
+window.attachEvent("onmessage", handleIFrameMessage);
+}
+</script>
+ <button id="klik" class="mt-3 btn btn-outline-primary">Klik buktikan jawaban kalian!</button>
+</div>
+<hr>
+<div id="materi" class="materi">
+<img src="../images/buktikan2.png" class="img-fluid w-100" alt="Responsive image"> 
+</div>
+<button class="divco blue mb-2" href=""><span>GENERALIZATION (Menarik Kesimpulan)</span></button>
+<p style="text-indent:1em;" class="mb-0">Dari permasalahan di atas, dapat disimpulkan bahwa:</p>
+
+<iframe
+id="JotFormIFrame-232170612128446"
+title="Jawab"
+onload="window.parent.scrollTo(0,0)"
+allowtransparency="true"
+allowfullscreen="true"
+allow="geolocation; microphone; camera"
+src="https://form.jotform.com/232170612128446"
+frameborder="0"
+style="min-width:100%;max-width:100%;height:539px;border:none;"
+scrolling="yes"
+>
+</iframe>
+<script type="text/javascript">
+var ifr = document.getElementById("JotFormIFrame-232170612128446");
+if (ifr) {
+var src = ifr.src;
+var iframeParams = [];
+if (window.location.href && window.location.href.indexOf("?") > -1) {
+  iframeParams = iframeParams.concat(window.location.href.substr(window.location.href.indexOf("?") + 1).split('&'));
+}
+if (src && src.indexOf("?") > -1) {
+  iframeParams = iframeParams.concat(src.substr(src.indexOf("?") + 1).split("&"));
+  src = src.substr(0, src.indexOf("?"))
+}
+iframeParams.push("isIframeEmbed=1");
+ifr.src = src + "?" + iframeParams.join('&');
+}
+window.handleIFrameMessage = function(e) {
+if (typeof e.data === 'object') { return; }
+var args = e.data.split(":");
+if (args.length > 2) { iframe = document.getElementById("JotFormIFrame-" + args[(args.length - 1)]); } else { iframe = document.getElementById("JotFormIFrame"); }
+if (!iframe) { return; }
+switch (args[0]) {
+  case "scrollIntoView":
+    iframe.scrollIntoView();
+    break;
+  case "setHeight":
+    iframe.style.height = args[1] + "px";
+    if (!isNaN(args[1]) && parseInt(iframe.style.minHeight) > parseInt(args[1])) {
+      iframe.style.minHeight = args[1] + "px";
+    }
+    break;
+  case "collapseErrorPage":
+    if (iframe.clientHeight > window.innerHeight) {
+      iframe.style.height = window.innerHeight + "px";
+    }
+    break;
+  case "reloadPage":
+    window.location.reload();
+    break;
+  case "loadScript":
+    if( !window.isPermitted(e.origin, ['jotform.com', 'jotform.pro']) ) { break; }
+    var src = args[1];
+    if (args.length > 3) {
+        src = args[1] + ':' + args[2];
+    }
+    var script = document.createElement('script');
+    script.src = src;
+    script.type = 'text/javascript';
+    document.body.appendChild(script);
+    break;
+  case "exitFullscreen":
+    if      (window.document.exitFullscreen)        window.document.exitFullscreen();
+    else if (window.document.mozCancelFullScreen)   window.document.mozCancelFullScreen();
+    else if (window.document.mozCancelFullscreen)   window.document.mozCancelFullScreen();
+    else if (window.document.webkitExitFullscreen)  window.document.webkitExitFullscreen();
+    else if (window.document.msExitFullscreen)      window.document.msExitFullscreen();
+    break;
+}
+var isJotForm = (e.origin.indexOf("jotform") > -1) ? true : false;
+if(isJotForm && "contentWindow" in iframe && "postMessage" in iframe.contentWindow) {
+  var urls = {"docurl":encodeURIComponent(document.URL),"referrer":encodeURIComponent(document.referrer)};
+  iframe.contentWindow.postMessage(JSON.stringify({"type":"urls","value":urls}), "*");
+}
+};
+window.isPermitted = function(originUrl, whitelisted_domains) {
+var url = document.createElement('a');
+url.href = originUrl;
+var hostname = url.hostname;
+var result = false;
+if( typeof hostname !== 'undefined' ) {
+  whitelisted_domains.forEach(function(element) {
+      if( hostname.slice((-1 * element.length - 1)) === '.'.concat(element) ||  hostname === element ) {
+          result = true;
+      }
+  });
+  return result;
+}
+};
+if (window.addEventListener) {
+window.addEventListener("message", handleIFrameMessage, false);
+} else if (window.attachEvent) {
+window.attachEvent("onmessage", handleIFrameMessage);
+}
+</script>
+
+<p style="font-weight:bold; width: 50%" class="border-bottom">
+Contoh
+</p>
+<ol>
+  <li>sin 30<sup>O</sup> + cos  45<sup>O</sup> = <sup>1</sup>&frasl;<sub>2</sub> + <sup>1</sup>&frasl;<sub>2</sub>√2 = <sup> (1 + √2)</sup>&frasl;<sub>2</sub></li>
+  <li>sin 45<sup>O</sup> tan 60<sup>O</sup> + cos 45<sup>O</sup> cot 60<sup>O</sup> = <sup>1</sup>&frasl;<sub>2</sub>√2 . √3 + <sup>1</sup>&frasl;<sub>2</sub>√2 . <sup>1</sup>&frasl;<sub>3</sub>√3 = <sup>1</sup>&frasl;<sub>2</sub>√6 + <sup>1</sup>&frasl;<sub>6</sub>√6 = <sup>2</sup>&frasl;<sub>3</sub>√6</li>
+</ol>
+<p style="text-indent:1em;" class="my-2">
+Untuk lebih memahami materi. Simaklah video di bawah ini.
+</p>
+<div class="ratio ratio-16x9">
+  <iframe src="https://www.youtube.com/embed/W-eaQQl938c" title="YouTube video" allowfullscreen></iframe>
 </div>
 
 <div class="mt-4 w-100 d-flex justify-content-between mb-2">
-<a href="#next4" type="button" class="btn btn-success ">Sebelumnya</a>
-<a href="#pert2" type="button" class="btn btn-success">Materi 2</a>
-</div>
+ <a href="#pert2" type="button" class="btn btn-success">Sebelumnya</a>
+ <a href="#pert3" type="button" class="btn btn-success">Materi 3</a>
 </div>`
+    document.querySelector('#klik').addEventListener('click', (e) => {
+        document.querySelector('#materi').classList.toggle('materi')
+    })
 }

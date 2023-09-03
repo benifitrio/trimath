@@ -263,7 +263,7 @@ window.attachEvent("onmessage", handleIFrameMessage);
 
 <div class="mt-4 w-100 d-flex justify-content-between mb-2">
 <a href="#pert2" type="button" class="btn btn-success">Kemateri 2</a>
-<a href="#next8" type="button" class="btn btn-success">Selanjutnya</a>
+<a href="#next7" type="button" class="btn btn-success">Selanjutnya</a>
 </div>
 </div>`
 }
