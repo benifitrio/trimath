@@ -2,7 +2,7 @@ function pert3Page() {
     judul.innerHTML = `<span class="h6">Pemanfaatan Perbandingan Trigonometri</span>`
     content.innerHTML = `
 <div class="section_our_solution">
-<img src="../images/piramida.png" class="img-fluid" alt="Responsive image">
+<img src="../images/mat3.png" class="img-fluid" alt="Responsive image">
 <p style="text-indent:1em;">Piramida adalah bangunan menakjubkan yang dibangun sekitar 4.500 tahun yang lalu. Bayangkan banyaknya pekerja dan persiapan yang diperlukan untuk membuat bangunan seperti ini, tanpa tersedianya alat canggih seperti zaman sekarang.
 </p>
 
@@ -15,7 +15,7 @@ Jika andre seorang pengagum piramida ingin membuat replica piramida.  Jika besar
 <p style="text-indent:1em;">
 Setelah melakukan identifikasi, didapatkan jawaban sementara yaitu: 
 </p>
-
+<img src="../images/piramida.png" class="img-fluid" alt="Responsive image">
 
 <iframe
 id="JotFormIFrame-232170612128446"
