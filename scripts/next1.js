@@ -111,7 +111,7 @@ if (window.addEventListener) {
 <p style="text-indent:1em;">Perhatikan segitiga siku–siku dibawah ini!</p>
 <div class="d-flex flex-row flex-wrap">
 <img src="../images/se.png" class="img-fluid" alt="Responsive image">
-<ul class="list-group">
+<ul class="list-group mb-2">
   <li class="list-group-item d-flex justify-content-between align-items-center">
     Keterangan
   </li>
@@ -130,10 +130,14 @@ if (window.addEventListener) {
 </ul>
 </div>
 
-<ul>
-  <li>untuk menentukan tinggi pohon kalian dapat menggunakan <b>teorema phytagoras</b> yang berlaku pada segitiga siku – siku yaitu: a<sup>2</sup> + b<sup>2</sup> = c<sup>2</sup>  <img src="../images/segitiga.png" class="img-fluid w-25" alt="Responsive image">  </li>
-  <li>Setelah kalian mendapatkan hasil data dalam mengukur ketinggian pohon dengan menggunakan teorema phytagoras, untuk membantu kalian dalam menentukan nilai perbandingan sinus, cosinus, dan tangen pada sudut θ, kalian dapat menggunakan rumus perbandingan trigonometri sebagai berikut:</li>
+<p style="text-indent:1em;">Ketiga sisi segitiga memiliki nama tersendiri:</p>
+<ul class="list-group ">
+  <li class="list-group-item">Adjacent <b>:</b> Alas segitiga 
+  a<sup>2</sup> + b<sup>2</sup> = c<sup>2</sup> </li>
+  <li class="list-group-item">Opposite <b>:</b> Tinggi segitiga</li>
+  <li class="list-group-item">Hypotenuse <b>:</b> Sisi miring segitiga</li>
 </ul>
+<p style="text-indent:1em;">Ketiga sisi segitiga memiliki nama tersendiri:</p>
  <div class="mt-4 w-100 d-flex justify-content-between mb-2">
  <a href="#pert1" type="button" class="btn btn-success ">Sebelumnya</a>
  <a href="#next2" type="button" class="btn btn-success">Selanjutnya</a>
