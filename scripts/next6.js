@@ -10,7 +10,6 @@ permasalahan dapat diselesaikan dengan langkah – langkah berikut:
 <ol class="list-group list-group-numbered">
 <li class="list-group-item">Langkah 1, Tentukanlah hasil perbandingan pada sudut 0<sup>O</sup> dan 90<sup>O</sup>!<br>
 
-
 <iframe
 id="JotFormIFrame-232170612128446"
 title="Jawab"
@@ -210,8 +209,6 @@ window.attachEvent("onmessage", handleIFrameMessage);
 </script>
 
 <li class="list-group-item">Tentukan hasil perbandingan pada  sudut 30<sup>O</sup> dan 60<sup>O</sup>!</li>
-
-
 <iframe
 id="JotFormIFrame-232170612128446"
 title="Jawab"

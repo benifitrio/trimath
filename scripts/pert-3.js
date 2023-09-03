@@ -3,20 +3,36 @@ function pert3Page() {
     content.innerHTML = `
 <div class="section_our_solution">
 <img src="../images/mat3.png" class="img-fluid" alt="Responsive image">
+<p style="text-indent:1em;">Perbandingan trigonometri dapat dimanfaatkan untuk menyelesaikan permasalahan sehari – hari pada pengukuran obyek yang tidak dapat secara fisik diukur ketinggianya. Seperti pada gambar diatas trigonometri dapat digunakan untuk mengukur jarak, tinggi dan lebar benda yang tidak bisa diukur secara langsung. 
+</p>
+<p style="text-indent:1em;">Tidak hanya pada gambar elang terbang diatas banyak sekali kita jumpai berbagai hal yang berkaitan dengan pemanfaatan trigonometri dikehidupan sehari hari. Seperti kaitanya dengan Piramida. 
+</p>
+<div class="d-flex justify-content-center">
+<img src="../images/piramida.png" class="img-fluid" alt="Responsive image">
+</div>
 <p style="text-indent:1em;">Piramida adalah bangunan menakjubkan yang dibangun sekitar 4.500 tahun yang lalu. Bayangkan banyaknya pekerja dan persiapan yang diperlukan untuk membuat bangunan seperti ini, tanpa tersedianya alat canggih seperti zaman sekarang.
+</p>
+<p style="text-indent:1em;">Seperti halnya kalian melihat gedung atau bangunan bertingkat Dalam matematika Bangunan ataupun sesuatu yang tinggi berkaitan dengan sudut elevasi dan sudut depresi.
+</p>
+<p style="text-indent:1em;">Apakah kalian tahu apa sudut elevasi dan sudut depresi? “sudut elevasi” . adalah sudut yang dibentuk oleh arah horizontal dengan arah pandangan mata pengamat ke arah atas. 
+</p>
+<p style="text-indent:1em;">Selain sudut elevasi “Sudut depresi” adalah sudut yang dibentuk oleh arah horizontal dengan arah pandangan mata pengamat ke arah bawah. 
+Seperti gambar di bawah ini!
+</p>
+<img src="../images/m3.png" class="img-fluid" alt="Responsive image">
+<p style="text-indent:1em;">Pada sub bab ini kalian akan memahami pemanfaatan perbandingan trigonometri dikehidupan sehari – hari.
 </p>
 
 <button class="divco blue mb-2"><span>STIMULATION ( Pemberian Rangsangan)</span></button>
 <p style="text-indent:1em;">
-Jika andre seorang pengagum piramida ingin membuat replica piramida.  Jika besarnya sudut yang di gunakan oleh Andre yaitu θ = 30° dan panjang rusuk piramida adalah 600 m. Untuk membangun replika, Andre juga perlu mengetahui tingginya, berapakah tinggi dari replica piramida tersebut?.
+Pada gambar diatas seekor kelinci yang berada di lubang tanah tempat persembunyiannya melihat seekor elang yang sedang terbang dengan sudut 600
+ Jika jarak antara kelinci dan elang adalah 18 meter, maka tinggi elang dari atas tanah adalah ... meter.
 </p>
 
 <button class="divco blue mb-2 mt-3"><span>PROBLEM STATEMENT ( Identifikasi Masalah)</span></button>
 <p style="text-indent:1em;">
 Setelah melakukan identifikasi, didapatkan jawaban sementara yaitu: 
 </p>
-<img src="../images/piramida.png" class="img-fluid" alt="Responsive image">
-
 <iframe
 id="JotFormIFrame-232170612128446"
 title="Jawab"
@@ -118,21 +134,35 @@ window.attachEvent("onmessage", handleIFrameMessage);
 <p style="text-indent:1em;">
 Untuk membuktikan hipotesis diatas, Kalian dapat mengumpulkan beberapa data dan informasi sebagai berikut:
 </p>
+<button class="button-85 mb-2" role="button">Pemanfaatan Trgonometri</button>
+<p style="text-indent:1em;">
+Perbandingan trigonometri ini dapat diterapkan dalam kehidupan sehari – hari 
+untuk mencari tinggi maupun jarak. Asalkan permasalahan dapat dipandang sebagai permasalahan segitiga siku – siku.
+</p>
+<img src="../images/a.png" class="img-fluid w-75" alt="Responsive image">
+<p>Manfaat trigonometri sangatlah luas dan diterapkan dalam berbagai bidang seperti fisika, teknik, astronomi, matematika, dan banyak lagi. Beberapa manfaat trigonometri antara lain:</p>
+
 <ol class="list-group list-group-numbered">
 <li class="list-group-item">
-Gambar perumpamaan piramida dengan sudut nya yaitu  θ = 30° dan panjang rusuk piramida adalah 600 m, seperti gambar di bawah ini.<br>
-<div class="w-100 d-flex justify-content-center ">
-<img src="../images/PIR2.png" class="img-fluid" alt="Responsive image">
-</div>
+<b>Perhitungan jarak dan ukuran: </b>
+<p>Trigonometri dapat digunakan untuk mengukur jarak, tinggi dan lebar benda yang tidak bisa diukur secara langsung, contohnya dalam astronomi trigonometri digunakan untuk mengukur jarak bintang.</p>
 </li>
-<li class="list-group-item">Dari gambar diatas perbandingan yang digunakan apakah sinus, cosinus atau tangen?</li>
-<li class="list-group-item">Untuk mencari tinggi pada piramida gunakan perbandingan trigonometri.</li>
+<li class="list-group-item"><b>Pemetaan:</b>
+<p>Trigonometri digunakan untuk membuat peta dan model permukaan bumi yang akurat. Contohnya dalam geologi trigonometri digunakan untuk membuat peta dan model topografi.</p></li>
+<li class="list-group-item"><b>Fisika:</b>
+<p>Trigonometri adalah dasar dari banyak konsep fisika seperti gerak melingkar, getaran, gelombang dan lain – lain.</p></li>
+<li class="list-group-item"><b>Teknik:</b>
+<p>Trigonometri digunakan dalam berbagai bidang teknik seperti, arsitektur, teknik mesin dan teknik sipil. Contohnya, dalam teknik sipil, trigonometri digunakan untuk menghitung sudut kemiringan atap dan ketinggian bangunan. </p></li>
+<li class="list-group-item"><b>Matematika:</b>
+<p>Trigonometri adalah bagian penting dari matematika dan digunakan dalam banyak bidang matematika seperti aljabar, kalkulus dan geometri.</p></li>
 </ol>
 
 <p style="text-indent:1em;">
-Setelah kalian mendapatkan beberapa data dan informasi apakah hipotesis kalian benar atau salah:
+Dalam keseluruhan, manfaat trigonometri sangatlah luas dan penting dalam banyak bidang.
 </p>
-
+<p style="text-indent:1em;">
+Jika dilihat pada gambar diatas membentuk sebuat segitiga siku siku dengan sudut 600. jika diketahui sisi miring segitiga yaitu 18m. Maka rumus perbandingan yang dapat digunakan yaitu:
+</p>
 
 <iframe
 id="JotFormIFrame-232170612128446"
@@ -234,5 +264,6 @@ window.attachEvent("onmessage", handleIFrameMessage);
 <div class="mt-4 w-100 d-flex justify-content-between mb-2">
 <a href="#pert2" type="button" class="btn btn-success">Kemateri 2</a>
 <a href="#next8" type="button" class="btn btn-success">Selanjutnya</a>
+</div>
 </div>`
 }
