@@ -202,10 +202,8 @@ window.addEventListener("message", handleIFrameMessage, false);
 window.attachEvent("onmessage", handleIFrameMessage);
 }
 </script>
-
-
-
 </ul>
+
 <div class="mt-4 w-100 d-flex justify-content-between mb-2">
 <a href="#next2" type="button" class="btn btn-success ">Sebelumnya</a>
 <a href="#next4" type="button" class="btn btn-success">Selanjutnya</a>

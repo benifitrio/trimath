@@ -108,10 +108,9 @@ window.attachEvent("onmessage", handleIFrameMessage);
 <div id="materi" class="materi">
 <img src="../images/buktikan1.png" class="img-fluid" alt="Responsive image"> 
 </div>
-</div>
+
 <button class="divco blue mb-2" href=""><span>GENERALIZATION (Menarik Kesimpulan)</span></button>
 <p style="text-indent:1em;" class="mb-0">Dari permasalahan di atas, dapat disimpulkan bahwa:</p>
-
 
 <iframe
 id="JotFormIFrame-232170612128446"
@@ -210,10 +209,17 @@ window.attachEvent("onmessage", handleIFrameMessage);
 }
 </script>
 
+<p style="text-indent:1em;" class="my-2">
+<b>Simaklah contoh soal pada video di bawah ini.</b> 
+</p>
+<div class="ratio ratio-16x9">
+  <iframe src="https://www.youtube.com/embed/2iTbfPEMCeo" title="YouTube video" allowfullscreen></iframe>
+</div>
+
+
 <div class="mt-4 w-100 d-flex justify-content-between mb-2">
 <a href="#next3" type="button" class="btn btn-success ">Sebelumnya</a>
-<a href="#next5" type="button" class="btn btn-success">Selanjutnya</a>
-</div>
+<a href="#pert2" type="button" class="btn btn-success">Materi 2</a>
 </div>
 </div>`
 
