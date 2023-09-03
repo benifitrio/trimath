@@ -10,20 +10,20 @@ function next2Page() {
 Nilai Perbandingan ini mempunyai nama khusus yaitu Sinus (disingkat sin). Sin suatu sudut yang dapat ditentukan dengan membagi panjang <b class="text-danger">sisi depan</b> dan <b class="text-danger">sisi miring segitiga</b>. <br>
 <img src="../images/sinus.png" class="img-fluid w-75" alt="sinus"> </br>pada gambar di atas manakah sisi depan dan sisi miring?
 <iframe
- id="JotFormIFrame-232170612128446"
- title="Jawab"
+ id="JotFormIFrame-232450973377463"
+ title="Video Submit Form"
  onload="window.parent.scrollTo(0,0)"
  allowtransparency="true"
  allowfullscreen="true"
  allow="geolocation; microphone; camera"
- src="https://form.jotform.com/232170612128446"
+ src="https://form.jotform.com/232450973377463"
  frameborder="0"
  style="min-width:100%;max-width:100%;height:539px;border:none;"
  scrolling="yes"
 >
 </iframe>
 <script type="text/javascript">
-var ifr = document.getElementById("JotFormIFrame-232170612128446");
+var ifr = document.getElementById("JotFormIFrame-232450973377463");
 if (ifr) {
  var src = ifr.src;
  var iframeParams = [];
@@ -112,20 +112,20 @@ if (window.addEventListener) {
 Nilai Perbandingan ini mempunyai nama khusus yaitu Cosinus (disingkat Cos). Cos suatu sudut yang dapat ditentukan dengan membagi panjang <b class="text-danger">sisi samping</b>   dan <b class="text-danger">sisi miring segitiga</b> .  <br>
 <img src="../images/cosinus.png" class="img-fluid w-75" alt="Responsive image"> </br>pada gambar di atas manakah sisi samping dan sisi miring? 
 <iframe
- id="JotFormIFrame-232170612128446"
- title="Jawab"
+ id="JotFormIFrame-232450973377463"
+ title="Video Submit Form"
  onload="window.parent.scrollTo(0,0)"
  allowtransparency="true"
  allowfullscreen="true"
  allow="geolocation; microphone; camera"
- src="https://form.jotform.com/232170612128446"
+ src="https://form.jotform.com/232450973377463"
  frameborder="0"
  style="min-width:100%;max-width:100%;height:539px;border:none;"
  scrolling="yes"
 >
 </iframe>
 <script type="text/javascript">
-var ifr = document.getElementById("JotFormIFrame-232170612128446");
+var ifr = document.getElementById("JotFormIFrame-232450973377463");
 if (ifr) {
  var src = ifr.src;
  var iframeParams = [];
@@ -216,20 +216,20 @@ Nilai Perbandingan ini mempunyai nama khusus yaitu Tangen
   <br>
 <img src="../images/tangen.png" class="img-fluid w-75" alt="Responsive image"> </br> pada gambar di atas manakah sisi samping dan sisi miring? 
 <iframe
- id="JotFormIFrame-232170612128446"
- title="Jawab"
+ id="JotFormIFrame-232450973377463"
+ title="Video Submit Form"
  onload="window.parent.scrollTo(0,0)"
  allowtransparency="true"
  allowfullscreen="true"
  allow="geolocation; microphone; camera"
- src="https://form.jotform.com/232170612128446"
+ src="https://form.jotform.com/232450973377463"
  frameborder="0"
  style="min-width:100%;max-width:100%;height:539px;border:none;"
  scrolling="yes"
 >
 </iframe>
 <script type="text/javascript">
-var ifr = document.getElementById("JotFormIFrame-232170612128446");
+var ifr = document.getElementById("JotFormIFrame-232450973377463");
 if (ifr) {
  var src = ifr.src;
  var iframeParams = [];
