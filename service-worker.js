@@ -72,7 +72,7 @@ workbox.precaching.precacheAndRoute([
     { url: '/images/mat3.png', revision: '1' },
     { url: '/images/piramida.png', revision: '1' },
     { url: '/images/m3.png', revision: '1' },
-    { url: '/images/a.png', revision: '1' },
+    { url: '/images/a .png', revision: '1' },
     { url: '/images/s2.png', revision: '1' },
     { url: '/images/s2.png', revision: '1' },
     { url: '/icon/android-icon-192x192.png', revision: '1' },
