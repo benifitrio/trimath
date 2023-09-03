@@ -17,11 +17,7 @@ function pert1Page() {
     </button>
     <p style="text-indent:1em;">
     Pak yahya adalah seorang penjaga sekolah . Tinggi pak yahya adalah 1,6m. Dia mempunyai seorang anak namanya dani. Dani masih kelas II SD tinggi dani 1,2m. Dani adalah anak yang baik dan suka bertanya, dia pernah bertanya kepada ayahnya tentang tinggi tiang bendera di lapangan. Ayahnya pun menjawab 8m. Suatu sore dani menemani ayahnya membersihkan rumput liar dilapangan. Dani melihat bayangan setiap benda disana. Dani mengambil tali meteran dan mengukur panjang bayangan ayahnya dan panjang bayangan tiang bendera, yaitu 3m dan 15 m. Tetapi dani tidak dapat mengukur panjang bayangannya sendiri karena bayanganya mengikuti pergerakannya. Jika kamu sebagai dani, dapatkah kamu mengukur bayangan kamu sendiri dan menentukan nilai perbandingan untuk sinus, cosinus dan tangen?</p>
-    <p style="text-indent:1em;">
-    Pada gambar di atas kalian akan mengukur ketinggian pohon tersebut dengan menggunakan teorema phytagoras. Gambar di atas merupakan segitiga siku – siku dengan siku – siku di B. Segitiga di atas memiliki titik yaitu titik A,B dan C dengan masing – masing sisi yaitu sisi d sisi e dan sisi f.</p>
-    <p style="text-indent:1em;">
-    Berapakah tinggi pohon tersebut jika diketahui panjang AB = 3 m dan panjang AC = 5 m, dan tentukan nilai perbandingan pada sinus θ, cosinus θ, dan tangen θ?
-    </p>
+    
 <div class="w-100 d-flex justify-content-center">
     <a href="#next1" type="button" class="btn btn-success">
     Selanjutnya
