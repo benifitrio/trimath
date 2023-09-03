@@ -109,7 +109,7 @@ if (window.addEventListener) {
 <p style="text-indent:1em;">Trigonometri adalah studi pola bermakna mengenai hubungan antara sudut dan sisi segitiga. Trigonometri berasal dari Bahasa Yunani trigono, tiga sudut, dan metro artinya mengukur</p>
 <img src="../images/animasi.png" class="img-fluid" alt="Responsive image"> 
 <p style="text-indent:1em;">Perhatikan segitiga siku–siku dibawah ini!</p>
-<div class="d-flex flex-row">
+<div class="d-flex flex-row flex-wrap">
 <img src="../images/se.png" class="img-fluid" alt="Responsive image">
 <ul class="list-group">
   <li class="list-group-item d-flex justify-content-between align-items-center">
