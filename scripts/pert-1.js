@@ -3,7 +3,8 @@ function pert1Page() {
     content.innerHTML =
         `<div class="section_our_solution">
     <img src="../images/masalah1.png" class="img-fluid" alt="Responsive image">
-    <p>Dalam Kehidupan sehari – hari, seringkali kita menghadapi permasalahan yang melahirkan konsep matematika, sebagai contoh seseorang yang ingin mengukur tinggi sebuah pohon, menara, gedung bertingkat ataupun sesuatu yang memiliki ketinggian tertentu maka tidaklah mungkin secara fisik akan mengukur dari bawah ke atas (puncak) obyeknya dengan menggunakan meteran. Salah satu cabang matematika yang dapat dipakai dalam membantu pengukuran ini adalah “trigonometri”.</p>
+    <p style="text-indent:1em;">Dalam Kehidupan sehari – hari, seringkali kita menghadapi permasalahan yang melahirkan konsep matematika, sebagai contoh seseorang yang ingin mengukur tinggi sebuah pohon, menara, gedung bertingkat ataupun sesuatu yang memiliki ketinggian tertentu maka tidaklah mungkin secara fisik akan mengukur dari bawah ke atas (puncak) obyeknya dengan menggunakan meteran. Salah satu cabang matematika yang dapat dipakai dalam membantu pengukuran ini adalah “trigonometri”.</p>
+    <p style="text-indent:1em;">Trigonometri berasal dari Bahasa yunani, trigonon artinya tiga sudut, dan metro artinya mengukur. Adapun rumus sinus, cosinus juga tangen diformulasikan oleh Surya siddhanta, ilmuwan india yang dipercaya hidup sekita abad 3SM. Selebihnya teori tentang Trigonometri disempurnakan oleh ilmuwan – ilmuwan lain di zaman berikutnya.</p>
     <button class="divco blue mb-2" href="">
     <span>STIMULATION ( Pemberian Rangsangan)</span>
     </button>
