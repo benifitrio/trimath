@@ -446,7 +446,7 @@ if (window.addEventListener) {
 }
 </script>
 
-<p style="text-indent:1em;">Pada segitiga ∆FGC gambarlan dan tentukan semua sisinya! gunakan rumus kesebangunan antara ∆FGC dengan ∆DEC serta rumus phytagoras untuk sisii yang belum diketahui.</p>
+<p style="text-indent:1em;">Pada segitiga ∆FGC gambarkan dan tentukan semua sisinya! gunakan rumus kesebangunan antara ∆FGC dengan ∆DEC serta rumus phytagoras untuk sisii yang belum diketahui.</p>
 <iframe
  id="JotFormIFrame-232170612128446"
  title="Jawab"
