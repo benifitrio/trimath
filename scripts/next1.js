@@ -103,9 +103,33 @@ if (window.addEventListener) {
 </script>
 
 <button class="divco blue mb-2" href=""><span>DATA COLLECTION ( Pengumpulan Data)</span></button>
- <p>Untuk membuktikan hipotesis diatas, Kalian dapat mengumpulkan beberapa data dan informasi sebagai berikut:</p>
+ <p style="text-indent:1em;">Untuk membuktikan hipotesis diatas, Kalian dapat mengumpulkan beberapa data dan informasi sebagai berikut:</p>
 
-<button class="button-85" role="button">Konsep Dasar Trigonometri</button>
+<button class="button-85 mb-2" role="button">Konsep Dasar Trigonometri</button>
+<p style="text-indent:1em;">Trigonometri adalah studi pola bermakna mengenai hubungan antara sudut dan sisi segitiga. Trigonometri berasal dari Bahasa Yunani trigono, tiga sudut, dan metro artinya mengukur</p>
+<img src="../images/animasi.png" class="img-fluid" alt="Responsive image"> 
+<p style="text-indent:1em;">Perhatikan segitiga siku–siku dibawah ini!</p>
+<div class="d-flex flex-row">
+<img src="../images/se.png" class="img-fluid" alt="Responsive image">
+<ul class="list-group">
+  <li class="list-group-item d-flex justify-content-between align-items-center">
+    Keterangan
+  </li>
+  <li class="list-group-item d-flex justify-content-between align-items-center">
+  Mempunyai panjang b pada sisi alasnya
+  <span class="badge bg-primary rounded-pill">1</span>
+  </li>
+  <li class="list-group-item d-flex justify-content-between align-items-center">
+  Mempunyai panjang a pada sisi tingginya
+    <span class="badge bg-primary rounded-pill">2</span>
+  </li>
+  <li class="list-group-item d-flex justify-content-between align-items-center">
+  Mempunyai panjang c pada sisi miringnya
+    <span class="badge bg-primary rounded-pill">3</span>
+  </li>
+</ul>
+</div>
+
 <ul>
   <li>untuk menentukan tinggi pohon kalian dapat menggunakan <b>teorema phytagoras</b> yang berlaku pada segitiga siku – siku yaitu: a<sup>2</sup> + b<sup>2</sup> = c<sup>2</sup>  <img src="../images/segitiga.png" class="img-fluid w-25" alt="Responsive image">  </li>
   <li>Setelah kalian mendapatkan hasil data dalam mengukur ketinggian pohon dengan menggunakan teorema phytagoras, untuk membantu kalian dalam menentukan nilai perbandingan sinus, cosinus, dan tangen pada sudut θ, kalian dapat menggunakan rumus perbandingan trigonometri sebagai berikut:</li>
