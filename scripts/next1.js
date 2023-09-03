@@ -247,6 +247,9 @@ if (window.addEventListener) {
 }
 </script>
 
+<p style="text-indent:1em;">Berdasarkan gambar segitiga diatas terdapat tiga segitiga yaitu ∆ABC,∆DEC,dan ∆FGC. sebaga berikut</p>
+
+
  <div class="mt-4 w-100 d-flex justify-content-between mb-2">
  <a href="#pert1" type="button" class="btn btn-success ">Sebelumnya</a>
  <a href="#next2" type="button" class="btn btn-success">Selanjutnya</a>
