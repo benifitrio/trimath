@@ -140,7 +140,7 @@ if (window.addEventListener) {
 <p style="text-indent:1em;">Sehingga hubungan sisi dan sudut pada segitiga yaitu jika digunakan sisi a serta c, kedua sisi tersebut memiliki relasi terhadap sudut – sudut yang dibentuk oleh keduanya yaitu sudut  β dan α pada segitiga siku siku berlaku rumus phytagoras yaitu: a<sup>2</sup> + b<sup>2</sup> = c<sup>2</sup></p>
 
 <button class="button-85 mb-2" role="button">Perbandingan Trigonometri</button>
-<p style="text-indent:1em;">Konsep kesebangunan pada segitiga terdapat pada cerita diatas. Kita gambarkan perumpamaan segitiga sesuai dengan cerita di atas.</p>
+<p style="text-indent:1em;">Pada tahap Stimulation (pemberian rangsangan) soal yang ditanyakan menggambarkan konsep kesebangunan pada segitiga. Kita gambarkan perumpamaan kesebangunan pada segitiga seperti gambar dibawah ini.</p>
 <img src="../images/se1.png" class="img-fluid" alt="Responsive image">
 <p style="text-indent:1em;">Ketiga sisi segitiga memiliki nama tersendiri:</p>
 <ul class="list-group ">
