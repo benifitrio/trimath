@@ -146,9 +146,9 @@ if (window.addEventListener) {
 <ul class="list-group ">
   <li class="list-group-item">AB yaitu perumpaamaan tinggi tiang bendera  =............................</li>
   <li class="list-group-item">BC yaitu perumpaamaan panjang bayangan tiang = .....................</li>
-  <li class="list-group-item">DE = Tinggi Pak Yahya =..................................</li>
-  <li class="list-group-item">EC = Panjang bayangan Pak Yahya=............</li>
-  <li class="list-group-item">FG = Tinggi Dani = ..........................................</li>
+  <li class="list-group-item">DE yaitu perumpaamaan tinggi pak yahya  =..................................</li>
+  <li class="list-group-item">EC yaitu perumpaamaan panjang bayangan pak yahya =............</li>
+  <li class="list-group-item">FG yaitu perumpaamaan tinggi dani = ..........................................</li>
 </ul>
 
 <iframe
