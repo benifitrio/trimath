@@ -142,10 +142,10 @@ if (window.addEventListener) {
 <button class="button-85 mb-2" role="button">Perbandingan Trigonometri</button>
 <p style="text-indent:1em;">Pada tahap Stimulation (pemberian rangsangan) soal yang ditanyakan menggambarkan konsep kesebangunan pada segitiga. Kita gambarkan perumpamaan kesebangunan pada segitiga seperti gambar dibawah ini.</p>
 <img src="../images/se1.png" class="img-fluid" alt="Responsive image">
-<p style="text-indent:1em;">Ketiga sisi segitiga memiliki nama tersendiri:</p>
+<p style="text-indent:1em;">Pada gambar diatas diketahui:</p>
 <ul class="list-group ">
-  <li class="list-group-item">AB = Tinggi tiang bendera =............................</li>
-  <li class="list-group-item">BC = Panjang bayangan tiang= .....................</li>
+  <li class="list-group-item">AB yaitu perumpaamaan tinggi tiang bendera  =............................</li>
+  <li class="list-group-item">BC yaitu perumpaamaan panjang bayangan tiang = .....................</li>
   <li class="list-group-item">DE = Tinggi Pak Yahya =..................................</li>
   <li class="list-group-item">EC = Panjang bayangan Pak Yahya=............</li>
   <li class="list-group-item">FG = Tinggi Dani = ..........................................</li>
