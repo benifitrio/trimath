@@ -9,6 +9,7 @@ function next2Page() {
 <b>Sinus</b><br>
 Nilai Perbandingan ini mempunyai nama khusus yaitu Sinus (disingkat sin). Sin suatu sudut yang dapat ditentukan dengan membagi panjang <b class="text-danger">sisi depan</b> dan <b class="text-danger">sisi miring segitiga</b>. <br>
 <img src="../images/sinus.png" class="img-fluid w-75" alt="sinus"> </br>pada gambar di atas tentukan sisi depan dan sisi miring serta rumus dari sin⁡θ!
+
 <iframe
  id="JotFormIFrame-232450973377463"
  title="Video Submit Form"
@@ -110,7 +111,8 @@ if (window.addEventListener) {
 <li>
 <b>Cosinus</b><br>
 Nilai Perbandingan ini mempunyai nama khusus yaitu Cosinus (disingkat Cos). Cos suatu sudut yang dapat ditentukan dengan membagi panjang <b class="text-danger">sisi samping</b>   dan <b class="text-danger">sisi miring segitiga</b> .  <br>
-<img src="../images/cosinus.png" class="img-fluid w-75" alt="Responsive image"> </br>pada gambar di atas manakah sisi samping dan sisi miring? 
+<img src="../images/cosinus.png" class="img-fluid w-75" alt="Responsive image"> </br>pada gambar di atas tentukan sisi samping dan sisi miring serta rumus dari cos⁡θ !  
+
 <iframe
  id="JotFormIFrame-232450973377463"
  title="Video Submit Form"
@@ -214,7 +216,8 @@ if (window.addEventListener) {
 Nilai Perbandingan ini mempunyai nama khusus yaitu Tangen 
 (disingkat tan). Tan suatu sudut yang dapat ditentukan dengan membagi panjang <b class="text-danger">sisi depan</b>  dan <b class="text-danger">sisi samping segitiga</b>. 
   <br>
-<img src="../images/tangen.png" class="img-fluid w-75" alt="Responsive image"> </br> pada gambar di atas manakah sisi samping dan sisi miring? 
+<img src="../images/tangen.png" class="img-fluid w-75" alt="Responsive image"> </br> pada gambar di atas tentukan sisi depan dan sisi samping serta rumus dari tan⁡θ! 
+
 <iframe
  id="JotFormIFrame-232450973377463"
  title="Video Submit Form"
