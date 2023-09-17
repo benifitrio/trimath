@@ -8,7 +8,7 @@ function next2Page() {
 <li>
 <b>Sinus</b><br>
 Nilai Perbandingan ini mempunyai nama khusus yaitu Sinus (disingkat sin). Sin suatu sudut yang dapat ditentukan dengan membagi panjang <b class="text-danger">sisi depan</b> dan <b class="text-danger">sisi miring segitiga</b>. <br>
-<img src="../images/sinus.png" class="img-fluid w-75" alt="sinus"> </br>pada gambar di atas manakah sisi depan dan sisi miring?
+<img src="../images/sinus.png" class="img-fluid w-75" alt="sinus"> </br>pada gambar di atas tentukan sisi depan dan sisi miring serta rumus dari sin⁡θ!
 <iframe
  id="JotFormIFrame-232450973377463"
  title="Video Submit Form"
