@@ -5,7 +5,6 @@ function next1Page() {
  <button class="divco blue mb-2 mt-3" href=""><span>PROBLEM STATEMENT ( Identifikasi Masalah)</span></button>
  <p>Setelah melakukan identifikasi, didapatkan jawaban sementara yaitu: </p>
 
-
  <iframe
  id="JotFormIFrame-232450973377463"
  title="Video Submit Form"
@@ -104,8 +103,11 @@ if (window.addEventListener) {
 </script>
 
 <button class="divco blue mb-2" href=""><span>DATA COLLECTION ( Pengumpulan Data)</span></button>
+
  <p style="text-indent:1em;">Untuk membuktikan hipotesis diatas, Kalian dapat mengumpulkan beberapa data dan informasi sebagai berikut:</p>
+
  <button class="button-85 mb-2" role="button">Perbandingan Trigonometri</button>
+
  <p style="text-indent:1em;">Pada tahap Stimulation (pemberian rangsangan) soal yang ditanyakan menggambarkan konsep kesebangunan pada segitiga. Kita gambarkan perumpamaan kesebangunan pada segitiga seperti gambar dibawah ini.</p>
  <img src="../images/se1.png" class="img-fluid" alt="Responsive image">
  <p style="text-indent:1em;">Pada gambar diatas diketahui:</p>
@@ -513,7 +515,9 @@ if (window.addEventListener) {
   window.attachEvent("onmessage", handleIFrameMessage);
  }
  </script>
- 
+
+ <p style="text-indent:1em;">Setelah kalian mengerjakan konsep kesebangunan dari perumpamaan segitiga di atas, untuk lebih memaami bacalah materi singkat di bawah ini!</p>
+
 <button class="button-85 mb-2" role="button">Konsep Dasar Trigonometri</button>
 <p style="text-indent:1em;">Trigonometri adalah studi pola bermakna mengenai hubungan antara sudut dan sisi segitiga. Trigonometri berasal dari Bahasa Yunani trigono, tiga sudut, dan metro artinya mengukur</p>
 <img src="../images/animasi.png" class="img-fluid" alt="Responsive image"> 
