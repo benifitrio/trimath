@@ -3,7 +3,7 @@ function next1Page() {
     content.innerHTML = `
  <div class="section_our_solution">
  <button class="divco blue mb-2 mt-3" href=""><span>PROBLEM STATEMENT ( Identifikasi Masalah)</span></button>
- <p>Setelah melakukan identifikasi, didapatkan jawaban sementara yaitu: </p>
+ <p>Setelah melakukan identifikasi dari permasalahan diatas kalian dapat  menemukan masalah yaitu: </p>
 
  <iframe
  id="JotFormIFrame-232450973377463"
