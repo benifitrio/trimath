@@ -104,7 +104,7 @@ if (window.addEventListener) {
 
 <button class="divco blue mb-2" href=""><span>DATA COLLECTION ( Pengumpulan Data)</span></button>
 
- <p style="text-indent:1em;">Untuk membuktikan hipotesis diatas, Kalian dapat mengumpulkan beberapa data dan informasi sebagai berikut:</p>
+ <p style="text-indent:1em;">Untuk membuktikan hipotesis di atas. Kalian dapat mengumpulkan beberapa data dan informasi sebagai berikut:</p>
 
  <button class="button-85 mb-2" role="button">Perbandingan Trigonometri</button>
 
