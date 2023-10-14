@@ -137,7 +137,7 @@ Untuk membuktikan hipotesis diatas, Kalian dapat mengumpulkan beberapa data dan 
 <p style="text-indent:1em;">Untuk lebih mudah memahami cara mencari nilai perbandingan trigonmetri pada sudut istimewa (0°, 30°, 45°, 60° dan 90°,) terlebih dahulu harus paham dengan perbandingan trigonometri pada segitiga siku-siku khususnya definisi sinus, cosinus dan tangen suatu sudut. Selain itu Anda juga harus paham dengan teorema pythagoras.</p>
 <ol class="list-group list-group-numbered">
   <li class="list-group-item">
-  <b>Mencari nilai perbandingan pada  sudut 30° dan 60</b>
+  <b>   Mencari nilai perbandingan pada  sudut 30° dan 60</b>
   <p>Langkah 1. perhatikan gambar dibawah ini</p> 
   <img src="../images/s1.png" class="img-fluid" alt="Responsive image">
   <p style="text-indent:1em;">Gambar di atas merupakan gambar segitiga sama sisi dengan besarnya masing-masing sudut adalah 60°. Pada ΔABC tersebut ditarik sebuah garis dari titik C menuju titik D yang tegak lurus dengan garis AB, sehingga membagi sudut ACB menjadi dua bagian yang besarnya sama yakni 30°. Misalkan panjang AD = BD = x, maka panjang AC = BC = 2x.</p>
