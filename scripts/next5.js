@@ -1,7 +1,7 @@
 function next5Page() {
     judul.innerHTML = `<span class="h6">Sudut Istimewa Perbandingan Trigonometri</span>`
     content.innerHTML = `
-<div class="section_our_solution">
+<div class="section_our_solution justifytext">
 <button class="divco blue mb-2"><span>DATA PROCESSING (Pengolahan Data)</span></button>
 <p style="text-indent:1em;">
 Berdasarkan informasi yang didapat pada pengumpulan data maka, 

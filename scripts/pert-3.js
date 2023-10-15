@@ -1,7 +1,7 @@
 function pert3Page() {
     judul.innerHTML = `<span class="h6">Pemanfaatan Perbandingan Trigonometri</span>`
     content.innerHTML = `
-<div class="section_our_solution">
+<div class="section_our_solution justifytext">
 <img src="../images/mat3.png" class="img-fluid" alt="Responsive image">
 <p style="text-indent:1em;">Perbandingan trigonometri dapat dimanfaatkan untuk menyelesaikan permasalahan sehari – hari pada pengukuran obyek yang tidak dapat secara fisik diukur ketinggianya. Seperti pada gambar diatas trigonometri dapat digunakan untuk mengukur jarak, tinggi dan lebar benda yang tidak bisa diukur secara langsung. 
 </p>
