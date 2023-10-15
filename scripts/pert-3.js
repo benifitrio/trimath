@@ -31,7 +31,7 @@ Pada gambar diatas seekor kelinci yang berada di lubang tanah tempat persembunyi
 
 <button class="divco blue mb-2 mt-3"><span>PROBLEM STATEMENT ( Identifikasi Masalah)</span></button>
 <p style="text-indent:1em;">
-Setelah melakukan identifikasi, didapatkan jawaban sementara yaitu: 
+Setelah melakukan identifikasi dari permasalahan di atas kalian dapat  menemukan masalah yaitu: 
 </p>
 <iframe
  id="JotFormIFrame-232450973377463"

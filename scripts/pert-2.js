@@ -18,7 +18,7 @@ function pert2Page() {
 
  <button class="divco blue mb-2 mt-3"><span>PROBLEM STATEMENT ( Identifikasi Masalah)</span></button>
  <p style="text-indent:1em;">
- Setelah melakukan identifikasi dari permasalahan di atas kalian dapat  menemukan masalah yaitu 
+ Setelah melakukan identifikasi dari permasalahan di atas kalian dapat  menemukan masalah yaitu: 
  </p>
  <iframe
  id="JotFormIFrame-232450973377463"
