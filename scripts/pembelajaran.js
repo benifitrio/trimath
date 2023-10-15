@@ -3,7 +3,7 @@ function pembelajaranPage() {
     content.innerHTML = `
     <div class="section_our_solution">
     <button class="divco blue mb-2" href=""><span>Petunjuk Penggunaan</span></button>
-    <ol class="list-group list-group-numbered">
+    <ol class="list-group list-group-numbered justifytext">
     <li class="list-group-item">Berdoalah sebelum membaca modul ini.
     </li>
     <li class="list-group-item">Pelajari materi secara berurutan.</li>
@@ -30,6 +30,6 @@ function pembelajaranPage() {
 
   <button class="divco blue mb-2" href=""><span>Deskripsi Singkat Materi</span></button>
 
- <p style="text-indent:1em;">Keberhasilan kalian dalam mempelajari materi trigonometri di dalam modul ini tergantung pada kesungguhan kalian memahami isi materi modul secara mandiri. Modul ini disusun sebagai salah satu bahan ajar peserta didik untuk memahami materi Trigonometri di kelas X. Melalui modul ini kalian diajak untuk memahami konsep perbandingan trigonometri pada segitiga siku – siku, sudut istimewa perbandingan trigonometri, dan pemanfaatan perbandingan trigonometri pada kehidupan sehari – hari. Modul ini disesuaikan dnegan tahapan discovery learning kalian dapat mempelajari modul ini sesuai dengan tahapan discovery learning.</p>
+ <p style="text-indent:1em; " class="justifytext">Keberhasilan kalian dalam mempelajari materi trigonometri di dalam modul ini tergantung pada kesungguhan kalian memahami isi materi modul secara mandiri. Modul ini disusun sebagai salah satu bahan ajar peserta didik untuk memahami materi Trigonometri di kelas X. Melalui modul ini kalian diajak untuk memahami konsep perbandingan trigonometri pada segitiga siku – siku, sudut istimewa perbandingan trigonometri, dan pemanfaatan perbandingan trigonometri pada kehidupan sehari – hari. Modul ini disesuaikan dnegan tahapan discovery learning kalian dapat mempelajari modul ini sesuai dengan tahapan discovery learning.</p>
  </div>`
 }
