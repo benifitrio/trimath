@@ -548,7 +548,8 @@ if (window.addEventListener) {
   <li class="list-group-item">Opposite <b>:</b> Tinggi segitiga</li>
   <li class="list-group-item">Hypotenuse <b>:</b> Sisi miring segitiga</li>
 </ul>
-<p style="text-indent:1em; text-align:justify">Sehingga hubungan sisi dan sudut pada segitiga yaitu jika digunakan sisi a serta c, kedua sisi tersebut memiliki relasi terhadap sudut – sudut yang dibentuk oleh keduanya yaitu sudut  β dan α pada segitiga siku siku berlaku rumus phytagoras yaitu: a<sup>2</sup> + b<sup>2</sup> = c<sup>2</sup></p>
+<p style="text-indent:1em; text-align:justify">Sehingga hubungan sisi dan sudut pada segitiga yaitu jika digunakan sisi a serta c, kedua sisi tersebut memiliki relasi terhadap sudut – sudut yang dibentuk oleh keduanya yaitu sudut  β dan α pada segitiga siku siku berlaku rumus phytagoras yaitu: <br> <img src="../images/phyta.png" class="img-fluid w-25" alt="Responsive image">
+
 
  <div class="mt-4 w-100 d-flex justify-content-between mb-2">
  <a href="#pert1" type="button" class="btn btn-success ">Sebelumnya</a>
