@@ -1,7 +1,7 @@
 function next1Page() {
     judul.innerHTML = `<span class="h6">Perbandingan Trigonometri</span>`
     content.innerHTML = `
- <div class="section_our_solution justiftext">
+ <div class="section_our_solution justifytext">
  <button class="divco blue mb-2 mt-3" href=""><span>PROBLEM STATEMENT ( Identifikasi Masalah)</span></button>
  <p>Setelah melakukan identifikasi dari permasalahan di atas kalian dapat  menemukan masalah yaitu: </p>
 
