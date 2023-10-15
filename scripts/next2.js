@@ -112,7 +112,7 @@ if (window.addEventListener) {
 <b>Cosinus</b><br>
 <p style="text-align: justify">Nilai Perbandingan ini mempunyai nama khusus yaitu Cosinus (disingkat Cos). Cos suatu sudut yang dapat ditentukan dengan membagi panjang <b class="text-danger">sisi samping</b> dan <b class="text-danger">sisi miring segitiga</b>.</p>
 <br>
-<img src="../images/cosinus.png" class="img-fluid w-75" alt="Responsive image"> </br>pada gambar di atas tentukan sisi samping dan sisi miring serta rumus dari cos⁡θ !  
+<img src="../images/cosinus.png" class="img-fluid w-100" alt="Responsive image"> </br>pada gambar di atas tentukan sisi samping dan sisi miring serta rumus dari cos⁡θ !  
 
 <iframe
  id="JotFormIFrame-232450973377463"
@@ -218,7 +218,7 @@ if (window.addEventListener) {
 (disingkat tan). Tan suatu sudut yang dapat ditentukan dengan membagi panjang <b class="text-danger">sisi depan</b>  dan <b class="text-danger">sisi samping segitiga</b>. </p>
 
   <br>
-<img src="../images/tangen.png" class="img-fluid w-75" alt="Responsive image"> </br> pada gambar di atas tentukan sisi depan dan sisi samping serta rumus dari tan⁡θ! 
+<img src="../images/tangen.png" class="img-fluid w-100" alt="Responsive image"> </br> pada gambar di atas tentukan sisi depan dan sisi samping serta rumus dari tan⁡θ! 
 
 <iframe
  id="JotFormIFrame-232450973377463"
