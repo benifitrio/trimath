@@ -8,13 +8,13 @@ function pembelajaranPage() {
     </li>
     <li class="list-group-item">Pelajari materi secara berurutan.</li>
     <li class="list-group-item">Kegiatan belajar pada modul ini disesuaikan dengan tahapan discovery learning yang terdiri atas:  
-    <ul class="list-group-flush">
-    <li class="list-group-item">Stimulation : peserta didik diberikan apersepsi berupa pertanyaan yang disajikan didalam e-modul. Dalam hal ini peserta didik dapat menyelidiki masalah tersebut </li>
-    <li class="list-group-item">Problem Statement : peserta didik diberikan pertanyaan peserta didik dapat menjawab pertanyaan tersebut yang kemudian dijadikan jawaban sementara (hipotesis) </li>
-    <li class="list-group-item">Data Collection : peserta didik dapat mengumpulkan berbagai Informasi dengan membaca materi yang tersedia pada e-modul</li>
-    <li class="list-group-item">Data Processing : peserta didik dapat mengolah data berdasarkan informasi yang di dapatkan dari pengumpulan data</li>
-    <li class="list-group-item">Verification : peserta didik dapat melakukan verification berdasarkan hasil data yang sudah ada sebelumnya dan dihubungkan dengan hasildata yang telah diperoleh.</li>
-    <li class="list-group-item">Generalization: peserta didik dapat menarik kesimpulan pembelajaran pada kolom yang telah disediakan.</li>
+    <ul class="list-group-flush justifytext">
+    <li class="list-group-item "><i>Stimulation</i>  : peserta didik diberikan apersepsi berupa pertanyaan yang disajikan didalam e-modul. Dalam hal ini peserta didik dapat menyelidiki masalah tersebut </li>
+    <li class="list-group-item "><i>Problem Statement</i> : peserta didik diberikan pertanyaan peserta didik dapat menjawab pertanyaan tersebut yang kemudian dijadikan jawaban sementara (hipotesis) </li>
+    <li class="list-group-item"><i>Data Collection</i> : peserta didik dapat mengumpulkan berbagai Informasi dengan membaca materi yang tersedia pada e-modul</li>
+    <li class="list-group-item"><i>Data Processing</i> : peserta didik dapat mengolah data berdasarkan informasi yang di dapatkan dari pengumpulan data</li>
+    <li class="list-group-item"><i>Verification</i> : peserta didik dapat melakukan verification berdasarkan hasil data yang sudah ada sebelumnya dan dihubungkan dengan hasildata yang telah diperoleh.</li>
+    <li class="list-group-item"><i>Generalization</i>: peserta didik dapat menarik kesimpulan pembelajaran pada kolom yang telah disediakan.</li>
   </ul>
     </li>
     <li class="list-group-item">
