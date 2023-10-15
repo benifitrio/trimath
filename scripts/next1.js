@@ -108,7 +108,7 @@ if (window.addEventListener) {
 
  <button class="button-85 mb-2" role="button">Perbandingan Trigonometri</button>
 
- <p style="text-indent:1em;">Pada tahap Stimulation (pemberian rangsangan) soal yang ditanyakan menggambarkan konsep kesebangunan pada segitiga. Kita gambarkan perumpamaan kesebangunan pada segitiga seperti gambar dibawah ini.</p>
+ <p style="text-indent:1em; text-align: justify">Pada tahap Stimulation (pemberian rangsangan) soal yang ditanyakan menggambarkan konsep kesebangunan pada segitiga. Kita gambarkan perumpamaan kesebangunan pada segitiga seperti gambar dibawah ini.</p>
  <img src="../images/se1.png" class="img-fluid" alt="Responsive image">
  <p style="text-indent:1em;">Pada gambar diatas diketahui:</p>
  <ul class="list-group ">
@@ -216,7 +216,7 @@ if (window.addEventListener) {
  }
  </script>
  
- <p style="text-indent:1em;">Berdasarkan gambar segitiga diatas terdapat tiga segitiga yaitu ∆ABC,∆DEC,dan ∆FGC. sebaga berikut</p>
+ <p style="text-indent:1em; text-align:justify">Berdasarkan gambar segitiga diatas terdapat tiga segitiga yaitu ∆ABC,∆DEC,dan ∆FGC. sebaga berikut</p>
  <img src="../images/se2.png" class="img-fluid" alt="Responsive image">
  
  <p style="text-indent:1em;">Pada segitiga ∆ABC gambarkan dan tentukan semua sisinya! gunakan rumus phytagoras untuk sisi yang belum diketahui.</p>
