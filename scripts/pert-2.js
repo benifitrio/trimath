@@ -1,7 +1,7 @@
 function pert2Page() {
     judul.innerHTML = `<span class="h6">Sudut Istimewa Perbandingan Trigonometri</span>`
     content.innerHTML = `
- <div class="section_our_solution">
+ <div class="section_our_solution justifytext">
  <img src="../images/trigonometri.png" class="img-fluid" alt="Responsive image">
  <p style="text-indent:1em;">Pada sub pertama, kalian telah menggunakan perbandingan trigonometri untuk mengukur tinggi objek yang besar tanpa harus mengukurnya secara langsung. pada bab kali ini kalian akan menentukan sudut istimewa dalam perbandingan trigonometri. Sudut istimewa dalam perbandingan trigonometri adalah sudut – sudut yang nilai perbandingannya dapat ditentukan secara eksak. Sudut istimewa adalah suatu sudut di mana nilai perbandingan trigonometrinya dapat ditentukan secara langsung tanpa menggunakan daftar trigonometri atau kalkulator.</p>
  <p style="text-indent:1em;">Pada saat mempelajari teori trigonometri, secara tidak langsung kamu harus menggunakan beberapa teori geometri. Dalam geometri, khususnya dalam kajian konstruksi sudah tidak asing dengan penggunaan besar sudut 30°, 45°, dan 60°. pada sub bab ini, kalian akan menyelidiki dan menghitung nilai perbandingan trigonometri untuk ukuran sudut (0°, 30°, 45°, 60° dan 90°,).	
