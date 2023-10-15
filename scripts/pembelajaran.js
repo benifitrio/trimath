@@ -2,7 +2,7 @@ function pembelajaranPage() {
     judul.innerHTML = `<span class="h6">PENDAHULUAN</span>`
     content.innerHTML = `
     <div class="section_our_solution">
-    <button class="divco blue mb-2" href=""><span>Petunjuk Penggunaan</span></button>
+    <button class="divco blue mb-2" href=""><span>Petunjuk Pembelajaran</span></button>
     <ol class="list-group list-group-numbered justifytext">
     <li class="list-group-item">Berdoalah sebelum membaca modul ini.
     </li>
