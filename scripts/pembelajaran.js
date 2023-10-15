@@ -28,7 +28,7 @@ function pembelajaranPage() {
     </li>
   </ol>
 
-  <button class="divco blue mb-2" href=""><span>Deskripsi Singkat Materi</span></button>
+  <button class="divco blue mb-2 mt-2" href=""><span>Deskripsi Singkat Materi</span></button>
 
  <p style="text-indent:1em; " class="justifytext">Keberhasilan kalian dalam mempelajari materi trigonometri di dalam modul ini tergantung pada kesungguhan kalian memahami isi materi modul secara mandiri. Modul ini disusun sebagai salah satu bahan ajar peserta didik untuk memahami materi Trigonometri di kelas X. Melalui modul ini kalian diajak untuk memahami konsep perbandingan trigonometri pada segitiga siku – siku, sudut istimewa perbandingan trigonometri, dan pemanfaatan perbandingan trigonometri pada kehidupan sehari – hari. Modul ini disesuaikan dnegan tahapan discovery learning kalian dapat mempelajari modul ini sesuai dengan tahapan discovery learning.</p>
  </div>`
