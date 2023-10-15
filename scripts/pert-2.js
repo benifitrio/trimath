@@ -241,7 +241,7 @@ if (window.addEventListener) {
 <p style="text-indent:1em;">Langkah 2 setelah didapatkan hasil pada panjang CD kalian dapat mencari nilai pada sudut 30°, dan 60° dengan menggunakan rumus perbandingan trigonometri sinus cosinus dan tangen</p>
   </li>
   <li class="list-group-item">
-  <b>Mencari nilai perbandingan pada sudut 45° </b>
+  <b> &nbsp;&nbsp;Mencari nilai perbandingan pada sudut 45° </b>
   <p style="text-indent:1em;">Langkah 1. perhatikan gambar dibawah ini</p>
   <img src="../images/s2.png" class="img-fluid" alt="Responsive image">
   <p style="text-indent:1em;">Perhatikan segitiga ABC di atas dengan siku-siku berada di titik A. sudut B =  C = 45°. Jika panjang AB = AC = x </p>
@@ -345,7 +345,7 @@ if (window.addEventListener) {
 <p style="text-indent:1em;">Langkah 2 setelah didapatkan hasil pada panjang BC kalian dapat mencari nilai pada sudut 45° dengan menggunakan rumus perbandingan pada sinus cosinus dan tangen</p>
   </li>
   <li class="list-group-item">
-  <b>Mencari nilai perbandingan pada sudut 0° dan 90°</b>
+  <b>&nbsp;&nbsp;Mencari nilai perbandingan pada sudut 0° dan 90°</b>
   <p style="text-indent:1em;">Langkah 1. perhatikan gambar dibawah ini</p>
   <img src="../images/s3.png" class="img-fluid" alt="Responsive image">
   <p style="text-indent:1em;">Perhatikan segitiga ABC di atas dengan siku-siku berada di titik A. sudut B = 0° dan sudut di C = 90°. dengan alas segitiga x, tinggi segitiga y dan sisi miring segitiga r.</p>
