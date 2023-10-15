@@ -78,7 +78,7 @@
                  icon: 'success',
                  title: 'Signed in successfully'
              })
-             location.href = "http://trimath.netlify.app/home.html"
+             location.href = "http://discovertrigo.netlify.app/home.html"
                  //  location.href = "http://localhost:3000/home.html"
          })
          .catch((error) => {
