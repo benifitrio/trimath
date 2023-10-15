@@ -529,16 +529,15 @@ if (window.addEventListener) {
     Keterangan
   </li>
   <li class="list-group-item d-flex justify-content-between align-items-center">
-  <span class="badge bg-primary rounded-pill">1</span>
-  Mempunyai panjang b pada sisi alasnya
+  <span class="badge bg-primary rounded-pill">1</span> Mempunyai panjang b pada sisi alasnya
   </li>
   <li class="list-group-item d-flex justify-content-between align-items-center">
-  <span class="badge bg-primary rounded-pill">2</span>
-  Mempunyai panjang a pada sisi tingginya
+  <span class="badge bg-primary rounded-pill">2</span> 
+  &nbsp; &nbsp;Mempunyai panjang a pada sisi tingginya
   </li>
   <li class="list-group-item d-flex justify-content-between align-items-center">
-  <span class="badge bg-primary rounded-pill">3</span>
-  Mempunyai panjang c pada sisi miringnya
+  <span class="badge bg-primary rounded-pill">3</span> 
+  &nbsp; &nbsp;Mempunyai panjang c pada sisi miringnya
   </li>
 </ul>
 </div>
