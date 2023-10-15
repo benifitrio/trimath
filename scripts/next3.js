@@ -3,7 +3,7 @@ function next3Page() {
     content.innerHTML = `
 <div class="section_our_solution">
 <button class="divco blue mb-2" href=""><span>DATA PROCESSING (Pengolahan Data)</span></button>
-<p style="text-indent:1em;" class="mb-0">Berdasarkan informasi yang didapat pada pengumpulan data maka, 
+<p style="text-indent:1em; text-align: justify" class="mb-0">Berdasarkan informasi yang didapat pada pengumpulan data maka, 
 permasalahan dapat diselesaikan dengan langkah – langkah berikut: </p>
 <ul>
 <li>Langkah 1, Berapakah panjang bayangan dari Dani?</li>
@@ -105,7 +105,7 @@ if (window.addEventListener) {
 }
 </script>
 
-<li>Langkah 2, Berdasarkan ∆ABC,∆DEC,dan ∆FGC diperoleh nilai perbandingannya (sinus, cosinus, tangen) adalah!</li>
+<li class="justifytext">Langkah 2, Berdasarkan ∆ABC,∆DEC,dan ∆FGC diperoleh nilai perbandingannya (sinus, cosinus, tangen) adalah!</li>
 <iframe
  id="JotFormIFrame-232450973377463"
  title="Video Submit Form"
