@@ -2,7 +2,7 @@ function next7Page() {
     judul.innerHTML = `<span class="h6">Pemanfaatan Perbandingan Trigonometri</span>`
     content.innerHTML = `
     <button class="divco blue mb-2"><span>DATA PROCESSING (Pengolahan Data)</span></button>
-    <p style="text-indent:1em;">
+    <p style="text-indent:1em; text-align:justify">
     Berdasarkan informasi yang didapat pada pengumpulan data maka, 
     permasalahan dapat diselesaikan dengan langkah – langkah berikut:
     </p>
@@ -106,7 +106,7 @@ if (window.addEventListener) {
 }
 </script>
 
-    <li>Langkah 2, Tentukanlah Tinggi piramida dengan menggunakan perbandingan trigonometri!</li>
+    <li style="text-align:justify">Langkah 2, Tentukanlah Tinggi piramida dengan menggunakan perbandingan trigonometri!</li>
    
  <iframe
  id="JotFormIFrame-232450973377463"
@@ -207,7 +207,7 @@ if (window.addEventListener) {
 
     </ul>
     <button class="divco blue mb-2" href=""><span>VERIVICATION (Pembuktian)</span></button>
-    <p style="text-indent:1em;">
+    <p style="text-indent:1em; text-align:justify">
     Berdasarkan hasil pengolahan data atau informasi yang telah kalian peroleh maka, buktikan hasil yang telah kalian peroleh:
     </p>
    
