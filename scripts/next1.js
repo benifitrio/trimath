@@ -516,7 +516,7 @@ if (window.addEventListener) {
  }
  </script>
 
- <p style="text-indent:1em;">Setelah kalian mengerjakan konsep kesebangunan dari perumpamaan segitiga di atas, untuk lebih memaami bacalah materi singkat di bawah ini!</p>
+ <p style="text-indent:1em; text-align:justify">Setelah kalian mengerjakan konsep kesebangunan dari perumpamaan segitiga di atas, untuk lebih memaami bacalah materi singkat di bawah ini!</p>
 
 <button class="button-85 mb-2" role="button">Konsep Dasar Trigonometri</button>
 <p style="text-indent:1em;">Trigonometri adalah studi pola bermakna mengenai hubungan antara sudut dan sisi segitiga. Trigonometri berasal dari Bahasa Yunani trigono, tiga sudut, dan metro artinya mengukur</p>
