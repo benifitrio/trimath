@@ -1,13 +1,13 @@
 function next2Page() {
     judul.innerHTML = `<span class="h6">Perbandingan Trigonometri</span>`
     content.innerHTML = `
-<div class="section_our_solution">
-<p style="text-indent:1em;">Berdasarkan ∆ABC,∆DEC,dan ∆FGC dalam perbandingan trigonometri rumus perbandingan trigonometri ada 3 yaitu <b>sinus, cosinus dan tangen</b> .</p>
+<div class="section_our_solution ">
+<p style="text-indent:1em; text-align:justify">Berdasarkan ∆ABC,∆DEC,dan ∆FGC dalam perbandingan trigonometri rumus perbandingan trigonometri ada 3 yaitu <b>sinus, cosinus dan tangen</b> .</p>
 <ul>
 <ol>
 <li>
 <b>Sinus</b><br>
-Nilai Perbandingan ini mempunyai nama khusus yaitu Sinus (disingkat sin). Sin suatu sudut yang dapat ditentukan dengan membagi panjang <b class="text-danger">sisi depan</b> dan <b class="text-danger">sisi miring segitiga</b>. <br>
+<p style="text-align: justify">Nilai Perbandingan ini mempunyai nama khusus yaitu Sinus (disingkat sin). Sin suatu sudut yang dapat ditentukan dengan membagi panjang <b class="text-danger">sisi depan</b> dan <b class="text-danger">sisi miring segitiga</b>.</p>
 <img src="../images/sinus.png" class="img-fluid w-100" alt="sinus"> </br>pada gambar di atas tentukan sisi depan dan sisi miring serta rumus dari sin⁡θ!
 
 <iframe
