@@ -519,7 +519,7 @@ if (window.addEventListener) {
  <p style="text-indent:1em; text-align:justify">Setelah kalian mengerjakan konsep kesebangunan dari perumpamaan segitiga di atas, untuk lebih memaami bacalah materi singkat di bawah ini!</p>
 
 <button class="button-85 mb-2" role="button">Konsep Dasar Trigonometri</button>
-<p style="text-indent:1em;">Trigonometri adalah studi pola bermakna mengenai hubungan antara sudut dan sisi segitiga. Trigonometri berasal dari Bahasa Yunani trigono, tiga sudut, dan metro artinya mengukur</p>
+<p style="text-indent:1em; text-align:justify">Trigonometri adalah studi pola bermakna mengenai hubungan antara sudut dan sisi segitiga. Trigonometri berasal dari Bahasa Yunani trigono, tiga sudut, dan metro artinya mengukur</p>
 <img src="../images/animasi.png" class="img-fluid" alt="Responsive image"> 
 <p style="text-indent:1em;">Perhatikan segitiga siku–siku dibawah ini!</p>
 <div class="d-flex flex-row flex-wrap">
