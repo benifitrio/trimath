@@ -544,9 +544,9 @@ if (window.addEventListener) {
 
 <p style="text-indent:1em;">Ketiga sisi segitiga memiliki nama tersendiri:</p>
 <ul class="list-group ">
-  <li class="list-group-item"> Adjacent <b>:</b> Alas segitiga</li>
-  <li class="list-group-item">Opposite <b>:</b> Tinggi segitiga</li>
-  <li class="list-group-item">Hypotenuse <b>:</b> Sisi miring segitiga</li>
+  <li class="list-group-item"><i>Adjacent</i>  <b>:</b> Alas segitiga</li>
+  <li class="list-group-item"><i>Opposite</i> <b>:</b> Tinggi segitiga</li>
+  <li class="list-group-item"><i>Hypotenuse</i> <b>:</b> Sisi miring segitiga</li>
 </ul>
 <p style="text-indent:1em; text-align:justify">Sehingga hubungan sisi dan sudut pada segitiga yaitu jika digunakan sisi a serta c, kedua sisi tersebut memiliki relasi terhadap sudut – sudut yang dibentuk oleh keduanya yaitu sudut  β dan α pada segitiga siku siku berlaku rumus phytagoras yaitu: <br> <img src="../images/phyta.png" class="img-fluid w-25" alt="Responsive image">
 
