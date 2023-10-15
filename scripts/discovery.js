@@ -5,7 +5,7 @@ function discoveryPage() {
           <div class="mt-4" id="testbutton" class="testbutton_div">
    
         </div>
-        <table class="table table-bordered">
+        <table class="table table-bordered ">
           <thead>
             <tr>
               <th scope="col">Fase</th>
@@ -16,7 +16,7 @@ function discoveryPage() {
             <tr>
               <td style="width:25%"><i>Stimulation</i>
               (Pemberian Rangsangan)</td>
-              <td style="width:75%">Pada tahap awal peserta didik diberikan apersepsi berupa pertanyaan 
+              <td style="width:75%" class="justifytext"> Pada tahap awal peserta didik diberikan apersepsi berupa pertanyaan 
               yang disajikan di dalam e-modul. Dalam hal ini peserta didik dapat 
               menyelidiki masalah tersebut.
               </td>
@@ -24,7 +24,7 @@ function discoveryPage() {
             <tr>
               <td><i>Problem Statement</i>
               (Pernyataan/Identifikasi masalah)</td>
-              <td>Tahap kedua setelah peserta didik diberikan pertanyaan peserta didik 
+              <td class="justifytext">Tahap kedua setelah peserta didik diberikan pertanyaan peserta didik 
               dapat menjawab pertanyaan tersebut yang kemudian dijadikan
               jawaban sementara (hipotesis).
               </td>
@@ -32,19 +32,19 @@ function discoveryPage() {
             <tr>
               <td><i>Data Collection</i>
               (Pengumpulan Data)</td>
-              <td>Pada tahap ketiga peserta didik dapat mengumpulkan berbagai informasi
+              <td class="justifytext">Pada tahap ketiga peserta didik dapat mengumpulkan berbagai informasi
               dengan membaca materi yang tersedia pada e-modul. 
               </td>
             </tr>
             <tr>
               <td><i>Data Processing</i>
               (Pengolahan Data)</td>
-              <td>Pada tahap ke empat peserta didik dapat mengolah data berdasarkan informasi yang di dapatkan dari pengumpulan data. </td>
+              <td class="justifytext">Pada tahap ke empat peserta didik dapat mengolah data berdasarkan informasi yang di dapatkan dari pengumpulan data. </td>
             </tr>
             <tr>
               <td><i>Verification</i>
               (Pembuktian)</td>
-              <td>Pada tahap ini peserta didik dapat melakukan verification berdasarkan 
+              <td class="justifytext">Pada tahap ini peserta didik dapat melakukan verification berdasarkan 
               hasil data yang sudah ada sebelumnya dan dihubungkan dengan hasil
               data yang telah diperoleh.  
               </td>
@@ -52,7 +52,7 @@ function discoveryPage() {
             <tr>
               <td><i>Generalization</i>
               (Menarik Kesimpulan/Generalisasi)</td>
-              <td>Pada tahap akhir peserta didik dapat menarik kesimpulan pembelajaran
+              <td class="justifytext">Pada tahap akhir peserta didik dapat menarik kesimpulan pembelajaran
               pada kolom yang telah disediakan. 
               </td>
             </tr>
