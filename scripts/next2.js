@@ -126,9 +126,10 @@ if (window.addEventListener) {
 <nav aria-label="...">
   <ul class="pagination">
     <li class="page-item"><a class="page-link" href="#next1" tabindex="-1">Previous</a</li>
-    <li class="page-item "><a class="page-link" href="#next1">1</a></li>
+    <li class="page-item"><a class="page-link" href="#next1">1</a></li>
     <li class="page-item active"><a class="page-link" href="#next2">2</a></li>
     <li class="page-item"><a class="page-link" href="#next3">3</a></li>
+    <li class="page-item"><a class="page-link" href="#next4">4</a></li>
     <li class="page-item"><a class="page-link" href="#next3">Next</a>
     </li>
   </ul>

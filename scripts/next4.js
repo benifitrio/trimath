@@ -217,9 +217,18 @@ if (window.addEventListener) {
 </div>
 
 
-<div class="mt-4 w-100 d-flex justify-content-between mb-2">
-<a href="#next3" type="button" class="btn btn-success ">Sebelumnya</a>
-<a href="#pert2" type="button" class="btn btn-success">Materi 2</a>
+<div class="mt-4 w-100 d-flex justify-content-center mb-2">
+<nav aria-label="...">
+  <ul class="pagination">
+    <li class="page-item"><a class="page-link" href="#next3" tabindex="-1">Previous</a</li>
+    <li class="page-item"><a class="page-link" href="#next1">1</a></li>
+    <li class="page-item"><a class="page-link" href="#next2">2</a></li>
+    <li class="page-item"><a class="page-link" href="#next3">3</a></li>
+    <li class="page-item active"><a class="page-link" href="#next4">4</a></li>
+    <li class="page-item"><a class="page-link" href="#pert2">Materi 2</a>
+    </li>
+  </ul>
+</nav>
 </div>
 </div>`
 
