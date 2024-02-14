@@ -18,9 +18,22 @@ function pert1Page() {
     Pak yahya adalah seorang penjaga sekolah . Tinggi pak yahya adalah 1,6m. Dia mempunyai seorang anak namanya dani. Dani masih kelas II SD tinggi dani 1,2m. Dani adalah anak yang baik dan suka bertanya, dia pernah bertanya kepada ayahnya tentang tinggi tiang bendera di lapangan. Ayahnya pun menjawab 8m. Suatu sore dani menemani ayahnya membersihkan rumput liar dilapangan. Dani melihat bayangan setiap benda disana. Dani mengambil tali meteran dan mengukur panjang bayangan ayahnya dan panjang bayangan tiang bendera, yaitu 3m dan 15 m. Tetapi dani tidak dapat mengukur panjang bayangannya sendiri karena bayanganya mengikuti pergerakannya. Jika kamu sebagai dani, dapatkah kamu mengukur bayangan kamu sendiri.</p>
     
 <div class="w-100 d-flex justify-content-center">
-    <a href="#next1" type="button" class="btn btn-success">
-    Selanjutnya
-    </a>
+<nav aria-label="Page navigation example">
+<ul class="pagination">
+  <li class="page-item"><a class="page-link" href="#">Previous</a></li>
+  <li class="page-item"><a class="page-link" href="#">1</a></li>
+  <li class="page-item"><a class="page-link" href="#">2</a></li>
+  <li class="page-item"><a class="page-link" href="#">3</a></li>
+  <li class="page-item"><a class="page-link" href="#">Next</a></li>
+</ul>
+</nav>
 </div>
 </div>`
 }
+
+// <
+// a href = "#next1"
+// type = "button"
+// class = "btn btn-success" >
+//     Selanjutnya <
+//     /a>
