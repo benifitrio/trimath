@@ -7,8 +7,8 @@ function next7Page() {
     permasalahan dapat diselesaikan dengan langkah – langkah berikut:
     </p>
     <ul>
-    <li>Langkah 1, Perbandingan trigonometri yang digunakakan yaitu?</li>
-    <li style="text-align:justify">Langkah 2, Tentukanlah Tinggi piramida dengan menggunakan perbandingan trigonometri!</li>
+    <li>Langkah 1, perbandingan trigonometri yang digunakakan yaitu?</li>
+    <li style="text-align:justify">Langkah 2, tentukanlah Tinggi piramida dengan menggunakan perbandingan trigonometri!</li>
    
  <iframe
  id="JotFormIFrame-232450973377463"
