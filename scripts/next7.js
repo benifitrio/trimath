@@ -323,9 +323,16 @@ if (window.addEventListener) {
    <iframe  src="https://www.youtube.com/embed/vIOQmWZlgzA" title="CONTOH SOAL APLIKASI TRIGONOMETRI BAGIAN 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
    </div>
 
-   <div class="mt-4 w-100 d-flex justify-content-between mb-2">
-   <a href="#pert3" type="button" class="btn btn-success">Sebelumnya</a>
-   <a href="#pert1" type="button" class="btn btn-success">Materi 1</a>
+   <div class="mt-4 w-100 d-flex justify-content-center mb-2">
+   <nav aria-label="...">
+  <ul class="pagination">
+    <li class="page-item"><a class="page-link" href="#pert3" tabindex="-1">Previous</a</li>
+    <li class="page-item"><a class="page-link" href="pert3">1</a></li>
+    <li class="page-item active"><a class="page-link" href="#next7">2</a></li>
+    <li class="page-item"><a class="page-link" href="#next8">Next</a>
+    </li>
+  </ul>
+</nav>
    </div>`
 
     document.querySelector('#klik').addEventListener('click', (e) => {

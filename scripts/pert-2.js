@@ -353,9 +353,14 @@ if (window.addEventListener) {
   </li>
 </ol>
 
- <div class="mt-4 w-100 d-flex justify-content-between mb-2">
- <a href="#pert1" type="button" class="btn btn-success">Kemateri 1</a>
- <a href="#next5" type="button" class="btn btn-success">Selanjutnya</a>
- </div>
- `
+ <div class="mt-4 w-100 d-flex justify-content-center mb-2">
+ <nav aria-label="...">
+  <ul class="pagination">
+    <li class="page-item"><a class="page-link" href="#pert1" tabindex="-1">materi 1</a</li>
+    <li class="page-item active"><a class="page-link" href="#pert2">1</a></li>
+    <li class="page-item"><a class="page-link" href="#next5">2</a></li>
+    <li class="page-item"><a class="page-link" href="#next5">next</a></li>
+  </ul>
+</nav>
+ </div>`
 }

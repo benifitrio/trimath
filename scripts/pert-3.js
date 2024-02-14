@@ -261,9 +261,16 @@ if (window.addEventListener) {
 }
 </script>
 
-<div class="mt-4 w-100 d-flex justify-content-between mb-2">
-<a href="#pert2" type="button" class="btn btn-success">Kemateri 2</a>
-<a href="#next7" type="button" class="btn btn-success">Selanjutnya</a>
+<div class="mt-4 w-100 d-flex justify-content-center mb-2">
+<nav aria-label="...">
+  <ul class="pagination">
+    <li class="page-item"><a class="page-link" href="#pert2" tabindex="-1">Materi 2</a</li>
+    <li class="page-item active"><a class="page-link" href="#pert3">1</a></li>
+    <li class="page-item"><a class="page-link" href="#next7">2</a></li>
+    <li class="page-item"><a class="page-link" href="#next7">Next</a>
+    </li>
+  </ul>
+</nav>
 </div>
 </div>`
 }
