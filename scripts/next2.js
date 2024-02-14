@@ -3,7 +3,7 @@ function next2Page() {
     content.innerHTML = `
 <div class="section_our_solution ">
 <p style="text-indent:1em; text-align:justify">Berdasarkan ∆ABC,∆DEC,dan ∆FGC dalam perbandingan trigonometri rumus perbandingan trigonometri ada 3 yaitu <b>sinus, cosinus dan tangen</b> .</p>
-<ul>
+<ul style="padding-left: .3em">
 <ol>
 <li>
 <b>Sinus</b><br>
