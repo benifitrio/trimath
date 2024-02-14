@@ -123,7 +123,6 @@ if (window.addEventListener) {
  <p style="text-align:justify;text-indent:1em;">Pada segitiga ∆FGC gambarkan dan tentukan semua sisinya!. Gunakan rumus kesebangunan antara ∆FGC dengan ∆DEC serta rumus phytagoras untuk sisi yang belum diketahui!</p>
  <img src="../images/seg.png" class="img-fluid" alt="Responsive image">
  
- 
  <iframe
   id="JotFormIFrame-232450973377463"
   title="Video Submit Form"
