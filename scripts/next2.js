@@ -8,13 +8,12 @@ function next2Page() {
 <li>
 <b>Sinus</b><br>
 <p style="text-align: justify; margin-bottom: 0;">Nilai Perbandingan ini mempunyai nama khusus yaitu Sinus (disingkat sin). Sin suatu sudut yang dapat ditentukan dengan membagi panjang <b class="text-danger">sisi depan</b> dan <b class="text-danger">sisi miring segitiga</b>.</p>
-<img src="../images/sinus.png" class="img-fluid w-100" alt="sinus"> </br>pada gambar di atas tentukan sisi depan dan sisi miring serta rumus dari sin⁡θ!
+<img src="../images/sinus.png" class="img-fluid w-100" alt="sinus"> </br>pada gambar di atas tentukan sisi depan dan sisi miring serta rumus dari sin⁡θ !
 </li>
 
 <li>
 <b>Cosinus</b><br>
 <p style="text-align: justify;margin-bottom: 0;">Nilai Perbandingan ini mempunyai nama khusus yaitu Cosinus (disingkat Cos). Cos suatu sudut yang dapat ditentukan dengan membagi panjang <b class="text-danger">sisi samping</b> dan <b class="text-danger">sisi miring segitiga</b>.</p>
-<br>
 <img src="../images/cosinus.png" class="img-fluid w-100" alt="Responsive image"> </br>pada gambar di atas tentukan sisi samping dan sisi miring serta rumus dari cos⁡θ !   
 </li>
 
@@ -22,7 +21,7 @@ function next2Page() {
 <b>Tangen</b><br>
 <p style="text-align: justify;margin-bottom: 0;">Nilai Perbandingan ini mempunyai nama khusus yaitu Tangen 
 (disingkat tan). Tan suatu sudut yang dapat ditentukan dengan membagi panjang <b class="text-danger">sisi depan</b>  dan <b class="text-danger">sisi samping segitiga</b>. </p>
-<img src="../images/tangen.png" class="img-fluid w-100" alt="Responsive image"> </br> pada gambar di atas tentukan sisi depan dan sisi samping serta rumus dari tan⁡θ! 
+<img src="../images/tangen.png" class="img-fluid w-100" alt="Responsive image"> </br> pada gambar di atas tentukan sisi depan dan sisi samping serta rumus dari tan⁡θ ! 
 
 <iframe
  id="JotFormIFrame-232450973377463"
