@@ -255,9 +255,19 @@ if (window.addEventListener) {
 <p style="text-indent:1em; text-align:justify">Sehingga hubungan sisi dan sudut pada segitiga yaitu jika digunakan sisi a serta c, kedua sisi tersebut memiliki relasi terhadap sudut – sudut yang dibentuk oleh keduanya yaitu sudut  β dan α pada segitiga siku siku berlaku rumus phytagoras yaitu: <br> <img src="../images/phyta.png" class="img-fluid w-25" alt="Responsive image">
 
 
- <div class="mt-4 w-100 d-flex justify-content-between mb-2">
- <a href="#pert1" type="button" class="btn btn-success ">Sebelumnya</a>
- <a href="#next2" type="button" class="btn btn-success">Selanjutnya</a>
+ <div class="mt-4 w-100 d-flex justify-content-center mb-2">
+ <nav aria-label="...">
+  <ul class="pagination">
+    <li class="page-item"><a class="page-link" href="#pert1" tabindex="-1">Previous</a</li>
+    <li class="page-item active"><a class="page-link" href="#next1">1</a></li>
+    <li class="page-item"><a class="page-link" href="#next2">2</a></li>
+    <li class="page-item"><a class="page-link" href="#next3">3</a></li>
+    <li class="page-item"><a class="page-link" href="#next4">4</a></li>
+    <li class="page-item"><a class="page-link" href="#next2">Next</a>
+    </li>
+  </ul>
+</nav>
  </div>
  </div>`
+
 }
