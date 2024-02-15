@@ -57,10 +57,9 @@ document.addEventListener("DOMContentLoaded", () => {
 
     function loadPage(page) {
         page = window.location.hash.substr(1);
-
         if (page === "") page = "home"
         if (page === 'home') Home()
-            // if (page === 'petunjuk') petunjukPage()
+        if (page === 'petunjuk') petunjukPage()
         if (page === 'pembelajaran') pembelajaranPage()
         if (page === 'tujuan') cpPage()
         if (page === 'materi') materiPage()

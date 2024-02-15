@@ -1,5 +1,6 @@
 function pert1Page() {
-    judul.innerHTML = `<span class="h6">Perbandingan Trigonometri</span>`
+    judul.innerHTML =
+        `<span class="h6">Perbandingan Trigonometri</span>`
     content.innerHTML =
         `<div class="section_our_solution justifytext">
     <img src="../images/masalah1.png" class="img-fluid" alt="Responsive image">
