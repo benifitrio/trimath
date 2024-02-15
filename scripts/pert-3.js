@@ -33,6 +33,10 @@ Pada gambar diatas seekor kelinci yang berada di lubang tanah tempat persembunyi
 <p style="text-indent:1em;">
 Setelah melakukan identifikasi dari permasalahan di atas kalian dapat  menemukan masalah yaitu: 
 </p>
+<p class="mb-0" style="font-weight: bold">Diketahui:</p>
+<p class="mb-0" style="font-weight: bold">Ditanya:</p>
+<p class="mb-0" style="font-weight: bold">Jawab:</p>
+
 <iframe
  id="JotFormIFrame-232450973377463"
  title="Video Submit Form"

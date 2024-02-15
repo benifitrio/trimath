@@ -3,7 +3,10 @@ function next1Page() {
     content.innerHTML = `
  <div class="section_our_solution justifytext">
  <button class="divco blue mb-2 mt-3" href=""><span>PROBLEM STATEMENT ( Identifikasi Masalah)</span></button>
- <p>Setelah melakukan identifikasi dari permasalahan di atas kalian dapat  menemukan masalah yaitu: </p>
+ <p class="mb-0">Setelah melakukan identifikasi dari permasalahan di atas kalian dapat  menemukan masalah yaitu: </p>
+<p class="mb-0" style="font-weight: bold">Diketahui:</p>
+<p class="mb-0" style="font-weight: bold">Ditanya:</p>
+<p class="mb-0" style="font-weight: bold">Jawab:</p>
 
  <iframe
  id="JotFormIFrame-232450973377463"
